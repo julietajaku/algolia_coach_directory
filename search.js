@@ -35,7 +35,7 @@ var hitTemplate =
         '<div class="content-picture"><img src="{{image_path}}" /></div>' +
       '</div>' +*/
       '<div class="content-desc-wrapper">' +
-        '<div class="content-title">{{{_highlightResult.Title.value}}}</div>' +
+        '<div class="content-title"><a href={{{URL}}}>{{{_highlightResult.Title.value}}}</a></div>' +
         '<div class="content-description">{{{_highlightResult.Extended description.value}}}</div>' +
         '<div class="content-date">{{Date updated}}</div>' +
         /*'<div class="content-descrption">{{#stars}}<span class="ais-star-rating--star{{^.}}__empty{{/.}}"></span>{{/stars}}</div>' +*/
