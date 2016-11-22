@@ -31,13 +31,13 @@ search.on('render', function() {
 
 var hitTemplate =
   '<article class="hit">' +
-      '<div class="content-picture-wrapper">' +
+      /*'<div class="content-picture-wrapper">' +
         '<div class="content-picture"><img src="{{image_path}}" /></div>' +
-      '</div>' +
+      '</div>' +*/
       '<div class="content-desc-wrapper">' +
         '<div class="content-title">{{{_highlightResult.Title.value}}}</div>' +
         '<div class="content-description">{{{_highlightResult.Extended description.value}}}</div>' +
-        '<div class="content-date">${{Date updated}}</div>' +
+        '<div class="content-date">{{Date updated}}</div>' +
         /*'<div class="content-descrption">{{#stars}}<span class="ais-star-rating--star{{^.}}__empty{{/.}}"></span>{{/stars}}</div>' +*/
       '</div>' +
   '</article>';
@@ -53,9 +53,6 @@ var facetTemplateCheckbox =
     '<input type="checkbox" class="{{cssClasses.checkbox}}" value="{{name}}" {{#isRefined}}checked{{/isRefined}} />{{name}}' +
     '<span class="facet-count">({{count}})</span>' +
   '</a>';
-
-var facetTemplateColors =
-  '<a href="javascript:void(0);" data-facet-value="{{name}}" class="facet-color {{#isRefined}}checked{{/isRefined}}"></a>';
 
 search.addWidget(
   instantsearch.widgets.hits({
