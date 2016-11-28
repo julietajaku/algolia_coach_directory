@@ -30,8 +30,7 @@ header {
   background: #4e4e4e; }
   header .is-logo {
     float: left;
-    margin-right: 12px;
-    margin-top: 12px; }
+    margin-bottom: 10px ;  }
   header .logo {
     float: left;
     margin-right: 16px;
