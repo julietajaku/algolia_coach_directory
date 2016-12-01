@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Learning | Algolia</title>
+  <title>Coaches | Algolia</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />  
@@ -11,52 +11,72 @@
 </head>
 
 <body>
-  <div class="container-fluid">
-    <header class="content-wrapper">
-      <a href="./index.html" class="logo">Coach Learning</a>
-      <div class="input-group">
-        <input type="text" class="form-control" id="q" />
-        <span class="input-group-btn">
-          <button class="btn btn-default"><i class="fa fa-search"></i></button>
-        </span>
+
+  <header>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-8 col-sm-3"> <h1 class="title"> Find Your Coach </h1></div>
+        <div class="col-xs-4 col-sm-2 col-sm-push-7"><a class="is-logo" href="https://www.gallupexchange.com/Home/Index"><img src="logo-is.png" width="100"></a></div>        
+        <div class="col-sm-7 col-sm-pull-2">    <div class="input-group">
+          <input class="form-control" id="q" type="text"> <span class="input-group-btn"><button class="btn btn-default"><span class="input-group-btn"><i class="fa fa-search"></i></span></button></span>
+        </div> </div>
+
       </div>
-      <a href="https://www.gallupexchange.com/Home/Index" class="is-logo"><img src="logo-is.png" width=200 ></a>
-    </header>
-
-    <div class="content-wrapper">
-
-      <aside>
+    </div>
+  </header>
+  <section class="container-fluid">
+    <div class="row">
+      <aside class="col-sm-3">
+        <h3 class="facet-category-title">Filter Results</h3>
+        <hr>
         <div id="clear-all"></div>
-        <section class="facet-wrapper">
+        <!-- <section class="facet-wrapper">
           <div id="categories"></div>
-        </section>
+        </section> -->
         <section class="facet-wrapper">
-          <div class="facet-category-title">Filter by</div>
-          <div id="audience" class="facet"></div>
-          <div id="media-type" class="facet"></div>
-          <div id="languages" class="facet"></div>
+          <div class="facet" id="type"></div>
+          <div class="facet" id="method"></div>
+          <h3 class="facet-category-title">
+            Specialties <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#specialties" aria-expanded="false" aria-controls="specialties"></button>
+          </h3>
+          <div class="facet collapse" id="specialties"></div>
+          <h3 class="facet-category-title">
+            Price Range <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#price"></button>
+          </h3>
+          <div class="facet collapse" id="price"></div>
+          <h3 class="facet-category-title">
+            Number of Sessions <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#numberofsessions"></button>
+          </h3>
+          <div class="facet collapse" id="numberofsessions"></div>
+          <h3 class="facet-category-title">
+            Coach Location <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#location"></button>
+          </h3>
+          <div class="facet collapse" id="location"></div>
         </section>
-        <div class="thank-you">Copyright <a href="gallupexchange.com">Gallup Exchange</a></div>
-      </aside>
 
-      <div class="results-wrapper">
-        <section id="results-topbar">
-          <div class="sort-by">
+      </aside>
+      <main class="col-sm-9">
+
+        <div id="results-topbar" class="results-topbar">
+                  <div class="sort-by">
             <label>Sort by</label>
             <div id="sort-by-selector"></div>
           </div>
-          <div id="stats" class="text-muted"></div>
-        </section>
-        <main id="hits"></main>
-        <section id="pagination"></section>
-      </div>
-
+          <h3 class="title">Search Results</h3>
+          <hr>
+        </div>
+        <section id="hits" class="container-fluid"></section>
+        <div id="pagination"></div>
+        <div class="text-muted" id="stats"></div>
+        <div class="thank-you"> Copyright <a href="gallupexchange.com">Gallup Exchange</a> </div>
+      </main>
     </div>
-  </div>
+  </section>
 
-  
+  <!-- Scripts -->
   <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="search.js"></script>
 
 </body>

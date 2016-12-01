@@ -4,13 +4,13 @@
 var search = instantsearch({
   appId: 'YORNOA2EPS',
   apiKey: '6f2b9a275341d6961c799a2981b9d663',
-  indexName: 'coaching_content'
+  indexName: 'coach_packages'
 });
 
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#q',
-    placeholder: 'What are you curious about?'
+    placeholder: 'Search by name or interest'
   })
 );
 
@@ -21,6 +21,7 @@ search.addWidget(
 );
 
 search.on('render', function() {
+  console.log(this);
   $('.coach-picture img').addClass('transparent');
   $('.coach-picture img').one('load', function() {
       $(this).removeClass('transparent');
@@ -31,16 +32,14 @@ search.on('render', function() {
 
 var hitTemplate =
   '<article class="hit">' +
-      /*'<div class="content-picture-wrapper">' +
-        '<div class="content-picture"><img src="{{image_path}}" /></div>' +
-      '</div>' +*/
-      '<div class="content-desc-wrapper">' +
-        '<div class="content-title"><a href={{{URL}}}>{{{_highlightResult.Title.value}}}</a></div>' +
-        '<div class="content-date">{{Date updated}}</div>' +
-        '<div class="content-description">{{Extended description}}</div>' +
+    '<div class="coach-picture" style="background-image:url({{coach_image_path}});"></div>' +
+    '<div class="coach-desc">' +
+      '<div class="coach-fullname"><a href="{{URL}}" target="_blank">{{_highlightResult.firstname.value}} {{_highlightResult.lastname.value}}</a></div>' +
+      '<div class="coach-title">{{_highlightResult.coach_title.value}}</div>' +
+      '<div class="coach-location">{{city}}, {{state}}</div>' +
+    '</div>' +
 
-        /*'<div class="content-descrption">{{#stars}}<span class="ais-star-rating--star{{^.}}__empty{{/.}}"></span>{{/stars}}</div>' +*/
-      '</div>' +
+      /*'<div class="content-descrption">{{#stars}}<span class="ais-star-rating--star{{^.}}__empty{{/.}}"></span>{{/stars}}</div>' +*/
   '</article>';
 
 var noResultsTemplate =
@@ -58,10 +57,12 @@ var facetTemplateCheckbox =
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#hits',
-    hitsPerPage: 16,
+    hitsPerPage: 15,
+    highlightPreTag: "<em>",
+    highlightPostTag: "</em>",    
     templates: {
       empty: noResultsTemplate,
-      item: hitTemplate
+      item:  hitTemplate
     },
     transformData: function(hit) {
       hit.stars = [];
@@ -69,6 +70,10 @@ search.addWidget(
         hit.stars.push(i <= hit.rating);
       }
       return hit;
+    },
+    cssClasses: {
+      root: 'row',
+      item: 'col-xs-6 col-sm-4'
     }
   })
 );
@@ -87,82 +92,83 @@ search.addWidget(
   })
 );
 
-/*
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#type',
+    attributeName: 'session_type',
+    limit: 20,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#method',
+    attributeName: 'methods',
+    limit: 20,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#specialties',
+    attributeName: 'specialties',
+    limit: 20,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
+
 search.addWidget(
   instantsearch.widgets.hierarchicalMenu({
-    container: '#categories',
-    attributes: ['category', 'sub_category', 'sub_sub_category'],
+    container: '#location',
+    attributes: ['state', 'statecity'],
     sortBy: ['name:asc'],
+    limit: 50,
     templates: {
       item: menuTemplate
     }
   })
 );
-*/
 
-search.addWidget(
-  instantsearch.widgets.refinementList({
-    container: '#audience',
-    attributeName: 'Audience',
-    operator: 'or',
-    limit: 10,
-    templates: {
-      item: facetTemplateCheckbox,
-      header: '<div class="facet-title">Audience</div class="facet-title">'
-    }
-  })
-);
-
-search.addWidget(
-  instantsearch.widgets.refinementList({
-    container: '#languages',
-    attributeName: 'Languages',
-    operator: 'or',
-    limit: 10,
-    templates: {
-      item: facetTemplateCheckbox,
-      header: '<div class="facet-title">Languages</div class="facet-title">'
-    }
-  })
-);
-
-search.addWidget(
-  instantsearch.widgets.refinementList({
-    container: '#media-type',
-    attributeName: 'Media type',
-    operator: 'or',
-    limit: 10,
-    templates: {
-      item: facetTemplateCheckbox,
-      header: '<div class="facet-title">Media type</div class="facet-title">'
-    }
-  })
-);
-
-/*
 search.addWidget(
   instantsearch.widgets.priceRanges({
-    container: '#prices',
+    container: '#price',
     attributeName: 'price',
     cssClasses: {
       list: 'nav nav-list',
       count: 'badge pull-right',
       active: 'active'
-    },
-    templates: {
-      header: '<div class="facet-title">Prices</div class="facet-title">'
     }
   })
 );
-*/
 
+search.addWidget(
+  instantsearch.widgets.rangeSlider({
+    container: '#numberofsessions',
+    attributeName: 'numberofsessions',
+  })
+);
 
 search.addWidget(
   instantsearch.widgets.sortBySelector({
     container: '#sort-by-selector',
     indices: [
-      {name: 'coaching_content', label: 'Relevance'},
-      {name: 'coaching_content_date', label: 'Date updated'}
+      {name: 'coach_packages', label: 'Default'},
+      {name: 'coach_packages_price_asc', label: 'Price High to Low'},
+      {name: 'coach_packages_price_desc', label: 'Price Low to High'}
     ],
     label:'sort by'
   })
