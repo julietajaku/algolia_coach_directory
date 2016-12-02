@@ -120,6 +120,19 @@ search.addWidget(
 
 search.addWidget(
   instantsearch.widgets.refinementList({
+    container: '#gender',
+    attributeName: 'gender',
+    limit: 20,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
     container: '#specialties',
     attributeName: 'specialties',
     limit: 20,
