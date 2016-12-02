@@ -34,8 +34,8 @@ var hitTemplate =
   '<article class="hit">' +
     '<div class="coach-picture" style="background-image:url({{coach_image_path}});"></div>' +
     '<div class="coach-desc">' +
-      '<div class="coach-fullname"><a href="{{URL}}" target="_blank">{{_highlightResult.firstname.value}} {{_highlightResult.lastname.value}}</a></div>' +
-      '<div class="coach-title">{{_highlightResult.coach_title.value}}</div>' +
+      '<div class="coach-fullname"><a href="{{URL}}" target="_blank">{{{_highlightResult.firstname.value}}} {{{_highlightResult.lastname.value}}}</a></div>' +
+      '<div class="coach-title">{{{_highlightResult.coach_title.value}}}</div>' +
       '<div class="coach-location">{{city}}, {{state}}</div>' +
     '</div>' +
 
