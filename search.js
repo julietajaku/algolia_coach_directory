@@ -120,6 +120,19 @@ search.addWidget(
 
 search.addWidget(
   instantsearch.widgets.refinementList({
+    container: '#gender',
+    attributeName: 'gender',
+    limit: 20,
+    cssClasses: {
+      root: 'checkbox',
+      list: 'list-group', 
+      item: 'list-group-item' 
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
     container: '#specialties',
     attributeName: 'specialties',
     limit: 20,
@@ -168,7 +181,9 @@ search.addWidget(
     indices: [
       {name: 'coach_packages', label: 'Default'},
       {name: 'coach_packages_price_asc', label: 'Price High to Low'},
-      {name: 'coach_packages_price_desc', label: 'Price Low to High'}
+      {name: 'coach_packages_price_desc', label: 'Price Low to High'},
+      {name: 'coach_packages_ratings_desc', label: 'Ratings High to Low'},
+      {name: 'coach_packages_ratings_asc', label: 'Ratings Low to High'}
     ],
     label:'sort by'
   })
