@@ -181,7 +181,9 @@ search.addWidget(
     indices: [
       {name: 'coach_packages', label: 'Default'},
       {name: 'coach_packages_price_asc', label: 'Price High to Low'},
-      {name: 'coach_packages_price_desc', label: 'Price Low to High'}
+      {name: 'coach_packages_price_desc', label: 'Price Low to High'},
+      {name: 'coach_packages_ratings_desc', label: 'Ratings High to Low'},
+      {name: 'coach_packages_ratings_asc', label: 'Ratings Low to High'}
     ],
     label:'sort by'
   })
