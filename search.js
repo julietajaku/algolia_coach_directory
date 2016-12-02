@@ -132,6 +132,17 @@ search.addWidget(
 );
 
 search.addWidget(
+  instantsearch.widgets.starRating({
+    container: '#averagerating',
+    attributeName: 'averagerating',
+    max: 5,
+    labels: {
+      andUp: '& Up'
+    }
+  })
+);
+
+search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#specialties',
     attributeName: 'specialties',
