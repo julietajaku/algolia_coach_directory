@@ -32,10 +32,10 @@ search.on('render', function() {
 
 var hitTemplate =
   '<article class="hit">' +
-    '<div class="coach-picture" style="background-image:url({{coach_image_path}});"></div>' +
+    '<div class="coach-picture" style="background-image:url({{imagepath}});"></div>' +
     '<div class="coach-desc">' +
       '<div class="coach-fullname"><a href="{{URL}}" target="_blank">{{{_highlightResult.firstname.value}}} {{{_highlightResult.lastname.value}}}</a></div>' +
-      '<div class="coach-title">{{{_highlightResult.coach_title.value}}}</div>' +
+      '<div class="coach-title">{{{_highlightResult.title.value}}}</div>' +
       '<div class="coach-location">{{city}}, {{state}}</div>' +
     '</div>' +
 
@@ -95,7 +95,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#type',
-    attributeName: 'session_type',
+    attributeName: 'packages.session_type',
     limit: 20,
     cssClasses: {
       root: 'checkbox',
@@ -108,7 +108,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#method',
-    attributeName: 'methods',
+    attributeName: 'packages.methods',
     limit: 20,
     cssClasses: {
       root: 'checkbox',
@@ -117,6 +117,7 @@ search.addWidget(
     }
   })
 );
+
 
 search.addWidget(
   instantsearch.widgets.refinementList({
@@ -134,7 +135,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.starRating({
     container: '#averagerating',
-    attributeName: 'averagerating',
+    attributeName: 'reviews.average',
     max: 5,
     labels: {
       andUp: '& Up'
@@ -145,7 +146,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#specialties',
-    attributeName: 'specialties',
+    attributeName: 'packages.specialties',
     limit: 20,
     cssClasses: {
       root: 'checkbox',
@@ -155,22 +156,22 @@ search.addWidget(
   })
 );
 
-search.addWidget(
-  instantsearch.widgets.hierarchicalMenu({
-    container: '#location',
-    attributes: ['state', 'statecity'],
-    sortBy: ['name:asc'],
-    limit: 50,
-    templates: {
-      item: menuTemplate
-    }
-  })
-);
+// search.addWidget(
+//   instantsearch.widgets.hierarchicalMenu({
+//     container: '#location',
+//     attributes: ['state', 'statecity'],
+//     sortBy: ['name:asc'],
+//     limit: 50,
+//     templates: {
+//       item: menuTemplate
+//     }
+//   })
+// );
 
 search.addWidget(
   instantsearch.widgets.priceRanges({
     container: '#price',
-    attributeName: 'price',
+    attributeName: 'packages.price',
     cssClasses: {
       list: 'nav nav-list',
       count: 'badge pull-right',
@@ -182,7 +183,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.rangeSlider({
     container: '#numberofsessions',
-    attributeName: 'numberofsessions',
+    attributeName: 'packages.numberofsessions',
   })
 );
 
