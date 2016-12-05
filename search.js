@@ -38,7 +38,6 @@ var hitTemplate =
       '<div class="coach-title">{{{_highlightResult.title.value}}}</div>' +
       '<div class="coach-location">{{city}}, {{state}}</div>' +
     '</div>' +
-
       /*'<div class="content-descrption">{{#stars}}<span class="ais-star-rating--star{{^.}}__empty{{/.}}"></span>{{/stars}}</div>' +*/
   '</article>';
 
@@ -156,17 +155,17 @@ search.addWidget(
   })
 );
 
-// search.addWidget(
-//   instantsearch.widgets.hierarchicalMenu({
-//     container: '#location',
-//     attributes: ['state', 'statecity'],
-//     sortBy: ['name:asc'],
-//     limit: 50,
-//     templates: {
-//       item: menuTemplate
-//     }
-//   })
-// );
+search.addWidget(
+  instantsearch.widgets.hierarchicalMenu({
+    container: '#location',
+    attributes: ['state', 'citystate'],
+    sortBy: ['name:asc'],
+    limit: 50,
+    templates: {
+      item: menuTemplate
+    }
+  })
+);
 
 search.addWidget(
   instantsearch.widgets.priceRanges({
