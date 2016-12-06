@@ -14,7 +14,7 @@
 
 <body>
 
-  <header>
+  <header class="header">
     <div class="container">
       <div class="row">
         <div class="col-xs-8 col-sm-3"> <h1 class="title"> Find Your Coach </h1></div>
@@ -118,22 +118,88 @@
           <div class="coach-bio-summary">
             {{{bio_short}}} <a href="#">View Full Bio</a>
           </div>
-<!--           <div class="coach-matched-terms-desc">
-            <small class="coach-matched-terms-label">matched terms</small>
-          </div> -->
+
           {{#package_count}}
-          <div class="coach-packages-desc">
+          <footer class="coach-packages-desc">
             <small>
-            <span class="label label-default">{{package_count}}</span> Packages starting at: ${{package_starting_price}}
+            <span class="label label-default">{{package_count}}</span> Package(s) starting at: ${{package_starting_price}}
             <a href="#" class="pull-right">View All</a>
             </small>
+          </footer>
+          {{/package_count}}
+        </div>
+      </div>
+    </article>
+  </script>
+
+  <script type="text/html" id="template-hit-coach-and-packages">
+
+    <article class="hit">
+      <div class="row">
+        <div class="col-sm-4 col-md-3">
+          <div class="coach-picture" style="background-image:url({{imagepath}});"></div>
+          <div class="coach-bio-core coach-bio-core--packages">
+            <h3 class="coach-fullname">
+              <a href="{{URL}}" target="_blank">{{{_highlightResult.firstname.value}}} {{{_highlightResult.lastname.value}}}</a>
+            </h3>
+
+            <small class="coach-title">{{{_highlightResult.title.value}}}</small>
+            <small class="coach-location coach-location--packages">{{city}}, {{state}}</small>
+
+            <div class="coach-reviews-desc coach-reviews-desc--packages">
+              <div class="coach-reviews-stars">
+                <span class="coach-reviews-stars-average" {{review_percentage}}></span>
+              </div>
+              <small class="coach-reviews-numbers">
+                {{#reviews.count}}
+                  {{reviews.average}} <span class="coach-reviews-count">({{reviews.count}}) Reviews</span> 
+                {{/reviews.count}}
+              </small>
+            </div>            
+          </div>
+          <div class="coach-full-bio-link">
+            <a href="#" class="btn btn-primary">View Bio</a>
+          </div>
+        </div>
+        <div class="col-sm-8 col-md-9">
+
+          {{#package_count}}
+          <div class="coach-packages-list-desc">
+            <header class="coach-packages-list-header">
+              <small>
+              <span class="label label-default">{{package_count}}</span> Package(s) | Starting at: ${{package_starting_price}}
+              <a href="#" class="pull-right">View All</a>
+              </small> 
+            </header>
+            <section class="coach-packages-list-listing">
+  
+              {{#_highlightResult.packages}}
+              <div class="coach-packages-list-item">
+                <h4 class="coach-packages-title">{{{package_title.value}}}</h4>
+                <div class="coach-packages-list-item-summary">
+                    <a href="#">View Package</a>
+                </div>
+                {{price}}
+              </div>
+                
+                
+              {{/_highlightResult.packages}}
+
+            </section>
+          </div>
+          {{/package_count}}
+          {{^package_count}}
+          <div class="coach-packages-list-desc">
+            <header class="coach-packages-list-header">
+              <small>
+              <span class="label label-default">0</span> Packages
+              </small> 
+            </header>
           </div>
           {{/package_count}}
         </div>
       </div>
-
     </article>
-
   </script>
 
   <script type="text/html" id="template-hit-coach-and-package">

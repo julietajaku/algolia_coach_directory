@@ -5,6 +5,21 @@ var getTemplateByID = function(ID){
   return document.getElementById(ID).innerHTML.toString();
 }
 
+var highlightShortValue = function(hightlightResult, letter_padding){
+    var letterPadding = letter_padding | 50,
+    stringValue = hightlightResult,
+    startIndex, endIndex, startString, endString;
+
+  startIndex = Math.max( stringValue.indexOf('<em>') - letterPadding, 0 );
+  endIndex = Math.min( stringValue.lastIndexOf('</em>') + letterPadding, stringValue.length );
+
+  startString =  ( startIndex > 0 ) ? '... ' : '';
+  endString = ( endString !== stringValue.length ) ? ' ...' : '';
+
+  return startString + stringValue.substring(startIndex, endIndex) + endString;
+
+}
+
 var search = instantsearch({
   appId: 'YORNOA2EPS',
   apiKey: '6f2b9a275341d6961c799a2981b9d663',
@@ -64,26 +79,11 @@ search.addWidget(
     templates: {
       empty: noResultsTemplate,
       item: getTemplateByID('template-hit-coach')
-      // item:  function(data){
-      //   console.log(data);
-      //   return 'hit';
-      // }
     },
     transformData: function(hit) {
       console.log(hit);
       if(hit._highlightResult.bio.matchedWords.length > 0){
-        var letterPadding = 50,
-            stringValue = hit._highlightResult.bio.value,
-            startIndex, endIndex, startString, endString;
-
-        startIndex = Math.max( stringValue.indexOf('<em>') - letterPadding, 0 );
-        endIndex = Math.min( stringValue.lastIndexOf('</em>') + letterPadding, stringValue.length );
-
-        startString =  ( startIndex > 0 ) ? '... ' : '';
-        endString = ( endString !== stringValue.length ) ? ' ...' : '';
-
-        console.log(startIndex + ' ' + endIndex);
-        hit.bio_short = startString + stringValue.substring(startIndex, endIndex) + endString;
+        hit.bio_short = highlightShortValue(hit._highlightResult.bio.value)
       }else{
         hit.bio_short = hit.bio.substr(0, 165) + '...';
       }
@@ -94,15 +94,30 @@ search.addWidget(
       
       if(hit.packages){
         hit.package_count = hit.packages.length;
-        var startPrice = 0;
+        var startPrice;
         
-        for(var i = 0, l = hit.packages.length; i < l; i++){
-          console.log(startPrice);
-          startPrice = Math.max(startPrice, hit.packages[i].price);
+        for(var i = 0, l = hit.package_count; i < l; i++){
+          //Finds the lowest package price
+          if(startPrice == undefined){
+            startPrice = hit.packages[i].price;
+          }else{
+            startPrice = Math.min(startPrice, hit.packages[i].price);
+          }
+
+          //Shorten the package description
+          hit.packages[i].desc_short = hit.packages[i].description.substr(0, 100) + '...';
         }
 
         hit.package_starting_price = startPrice;
       }
+
+      // if(hit._highlightResult.packages){
+      //   $.each(hit._highlightResult.packages, function(singlePackage){
+      //     // if(singlePackage.package_title.matchedWords.length > 0){
+
+      //     // }
+      //   });
+      // }
       
       return hit;
     }
