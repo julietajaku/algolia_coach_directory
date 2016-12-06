@@ -6,7 +6,7 @@
   <title>JSON utility converter</title>
 </head>
 <body>
-	<h1>JSON utility converster</h1>
+	<h1>JSON utility converter</h1>
 	<p>A very basic sandbox for utility scripts that add and remove properites to the JSON database for Algolia.</p>
 	<h3>Output</h3>
 	<textarea name="output" id="output" cols="30" rows="10"></textarea>
@@ -42,8 +42,6 @@
 
 		function taskFixGeoProperties(data){
 			startTime = Date.now();
-
-			
 
 			for(var i = 0, l = data.length; i < l; i++){
 				data[i]._geoloc = {

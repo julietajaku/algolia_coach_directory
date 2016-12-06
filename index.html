@@ -4,6 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Coaches | Algolia</title>
+  <script src="https://use.typekit.net/wpz6tgk.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />  
@@ -13,7 +15,7 @@
 <body>
 
   <header>
-    <div class="container-fluid">
+    <div class="container">
       <div class="row">
         <div class="col-xs-8 col-sm-3"> <h1 class="title"> Find Your Coach </h1></div>
         <div class="col-xs-4 col-sm-2 col-sm-push-7"><a class="is-logo" href="https://www.gallupexchange.com/Home/Index"><img src="logo-is.png" width="100"></a></div>        
@@ -24,7 +26,7 @@
       </div>
     </div>
   </header>
-  <section class="container-fluid">
+  <section class="container">
     <div class="row">
       <aside class="col-sm-3">
         <h3 class="facet-category-title">Filter Results</h3>
@@ -66,6 +68,7 @@
           </div>
           <h3 class="title">Search Results</h3>
           <hr>
+          <div id="current-filters"></div>
         </div>
         <section id="hits" class="container-fluid"></section>
         <div id="pagination"></div>
@@ -74,6 +77,68 @@
       </main>
     </div>
   </section>
+
+  <!-- Templates -->
+  <script type="text/html" id="template-hit-coach">
+
+    <article class="hit">
+      <div class="row">
+        <div class="col-sm-4 col-md-3">
+          <div class="coach-picture" style="background-image:url({{imagepath}});"></div>
+          <div class="coach-full-bio-link">
+            <a href="#" class="btn btn-primary">View Bio</a>
+          </div>
+        </div>
+        <div class="col-sm-8 col-md-9">
+          <div class="coach-bio-core">
+            <div class="row">
+              <div class="col-sm-8">
+                <h3 class="coach-fullname"><a href="{{URL}}" target="_blank">{{{_highlightResult.firstname.value}}} {{{_highlightResult.lastname.value}}}</a>
+                </h3>
+                <small class="coach-title">{{{_highlightResult.title.value}}}</small>
+                <small class="coach-location">{{city}}, {{state}}</small>
+              </div>
+              <div class="col-sm-4">
+                <div class="coach-reviews-desc">
+                  <div class="coach-reviews-stars">
+                    <span class="coach-reviews-stars-average" {{review_percentage}}></span>
+                  </div>
+
+                  <small class="coach-reviews-numbers">
+                    {{#reviews.count}}
+                      {{reviews.average}} <span class="coach-reviews-count">({{reviews.count}}) Reviews</span> 
+                    {{/reviews.count}}
+                  </small>
+                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+          <div class="coach-bio-summary">
+            {{{bio_short}}} <a href="#">View Full Bio</a>
+          </div>
+<!--           <div class="coach-matched-terms-desc">
+            <small class="coach-matched-terms-label">matched terms</small>
+          </div> -->
+          {{#package_count}}
+          <div class="coach-packages-desc">
+            <small>
+            <span class="label label-default">{{package_count}}</span> Packages starting at: $100
+            <a href="#" class="pull-right">View All</a>
+            </small>
+          </div>
+          {{/package_count}}
+        </div>
+      </div>
+
+    </article>
+
+  </script>
+
+  <script type="text/html" id="template-hit-coach-and-package">
+    
+  </script>
 
   <!-- Scripts -->
   <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>  

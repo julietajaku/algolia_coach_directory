@@ -1,5 +1,7 @@
+
+
 body {
-  font-family: Verdana, sans-serif;
+  font-family: "aktiv-grotesk", sans-serif;
 }
 
 a {
@@ -8,7 +10,7 @@ a {
 }
 
 a:hover {
-  color: #275937;
+  color: #3a8c2c;
   text-decoration: underline;
 }
 
@@ -88,7 +90,7 @@ header .input-group .input-group-btn button {
 
 aside {
   // max-height: 670px;
-  border-right: 3px solid #e0e0e0;
+  //border-right: 3px solid #e0e0e0;
   overflow: hidden;
 }
 
@@ -251,9 +253,15 @@ aside .ais-price-ranges--button:focus {
   font-size: .8em;
 }
 
+/**
+ *
+ * Hit Template
+ *
+ */
+
+
 .hit {
-  height: 165px;
-  padding: 10px;
+  padding: 1em;
   margin-bottom: 10px;
   border-bottom: solid 1px #EEE;
   border: solid 1px #EEE;
@@ -261,63 +269,107 @@ aside .ais-price-ranges--button:focus {
   position: relative;
 }
 
-.hit .coach-picture {
-  width: 75px;
-  height: 75px;
+.coach-picture {
+  width: 120px;
+  height: 120px;
   background-size: 100%;
   background-position: center;
   background-color: #ececec;
   border-radius: 50%;
   margin: 0 auto;
+  margin-bottom: 1em;
 }
 
-.hit .coach-picture img {
-  max-width: 50px;
-}
-
-.hit .coach-desc {
-
-}
-
-.hit .coach-fullname {
-  font-weight: bold;
-  color: #000000;
-  margin: 4px 0;
+.coach-full-bio-link{
   text-align: center;
-  // min-width: 120px;
-  // min-height: 34px;
 }
 
-.hit .coach-title {
+.coach-bio-core{
+  margin-bottom: 1em;
+}
+
+.coach-fullname {
+  font-weight: bold;
+  margin: 4px 0;
+}
+
+.coach-title {
   color: #000000;
-  font-size: .7em;
-  margin: 0 0 8px;
-  // min-width: 120px;
-  // min-height: 26px;
+  display: block;
 }
 
-.hit .coach-location {
-  color: #b9b9b9;
-  font-size: .75em;
-  margin: 0 0 8px;
-  // min-width: 120px;
-  // min-height: 30px;
+.coach-location {
+  color: #929292;
+  display: block;
+}
+
+.coach-reviews-desc{
+  margin-top: .5em;
+}
+
+@media (min-width:768px){
+  .coach-reviews-desc{
+    margin-top: 0;
+    text-align: right;
+  }
 }
 
 
-/*.hit .coach-description {
-    font-size: .8em;
-    margin: 0 0 10px;
-    color: #a2a2a2; }
-  .hit .coach-date {
-    margin-bottom: 10px; }
-  /*.hit .coach-title {
-    font-size: 1.1em;
-    font-weight: bold;
-    color: #000000;
-    float: right;
-    letter-spacing: -1px; }*/
+.coach-reviews-stars{
+  width: 92px;
+  height: 15px;
+  background-image: url(review-stars-default.png);
+  background-size: 92px 15px;
+  display: inline-block;
+  position: relative;
+}
 
+.coach-reviews-stars-average{
+  width: 92px;
+  height: 15px;
+  background-image: url(review-stars.png);
+  background-size: 92px 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0%;
+}
+
+
+.coach-reviews-numbers{
+  display: block;
+}
+
+.coach-reviews-count{
+  color: #929292;
+}
+
+.coach-bio-summary{
+  margin-bottom: .5em;
+}
+
+.coach-bio-summary a{
+  white-space: nowrap;
+}
+
+.coach-matched-terms-desc{
+  margin-bottom: .5em;
+  text-transform: uppercase;
+
+}
+
+.coach-matched-terms-label{
+    letter-spacing: 1px;
+    border-right: 1px solid #000;
+    padding-right: .5em;
+}
+
+.coach-packages-desc{
+  border-top: 2px solid #e0e0e0;
+  padding-top: .5em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 
 .hit em {
   color: #000000;
@@ -384,3 +436,48 @@ aside .ais-price-ranges--button:focus {
 .drop-down{
   float: right;
 }
+
+.label > div{
+  display: inline-block;
+}
+
+.ais-current-refined-values--item{
+  display: inline-block;
+  margin-right: .5em;
+}
+
+/**
+ *
+ * Bootstrap overwrites
+ *
+ */
+
+.btn-primary {
+    color: #fff;
+    background-color: #61c250;
+    border-color: #61c250;
+}
+
+.btn-primary:hover{
+  background-color: #3a8c2c;
+  border-color: #3a8c2c;
+}
+
+.label{
+  padding: .4em .6em .3em .6em;
+  vertical-align: middle;
+  border-radius: .75em;
+}
+
+small{
+  font-size: 11px;
+}
+// .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+//     padding-right: 5px;
+//     padding-left: 5px;
+// }
+
+// .row {
+//     margin-right: -5px;
+//     margin-left: -5px;
+// }

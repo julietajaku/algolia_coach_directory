@@ -1,13 +1,17 @@
 'use strict';
 /* global instantsearch */
 
+var getTemplateByID = function(ID){
+  return document.getElementById(ID).innerHTML.toString();
+}
+
 var search = instantsearch({
   appId: 'YORNOA2EPS',
   apiKey: '6f2b9a275341d6961c799a2981b9d663',
   indexName: 'coach_packages',
   searchParameters: {
-    getRankingInfo: true
-    //aroundLatLngViaIP: true
+    getRankingInfo: true,
+    // aroundLatLngViaIP: true
   }
 });
 
@@ -25,13 +29,7 @@ search.addWidget(
 );
 
 search.on('render', function() {
-  console.log(this);
-  $('.coach-picture img').addClass('transparent');
-  $('.coach-picture img').one('load', function() {
-      $(this).removeClass('transparent');
-  }).each(function() {
-      /*if(this.complete)*/ $(this).load();
-  });
+  // console.log(data);
 });
 
 var hitTemplate =
@@ -65,21 +63,40 @@ search.addWidget(
     highlightPostTag: "</em>",    
     templates: {
       empty: noResultsTemplate,
-      item:  function(data){
-        console.log(data);
-        return 'hit';
-      }
+      item: getTemplateByID('template-hit-coach')
+      // item:  function(data){
+      //   console.log(data);
+      //   return 'hit';
+      // }
     },
     transformData: function(hit) {
-      hit.stars = [];
-      for (var i = 1; i <= 5; ++i) {
-        hit.stars.push(i <= hit.rating);
+      console.log(hit);
+      if(hit._highlightResult.bio.matchedWords.length > 0){
+        var letterPadding = 50,
+            stringValue = hit._highlightResult.bio.value,
+            startIndex, endIndex, startString, endString;
+
+        startIndex = Math.max( stringValue.indexOf('<em>') - letterPadding, 0 );
+        endIndex = Math.min( stringValue.lastIndexOf('</em>') + letterPadding, stringValue.length );
+
+        startString =  ( startIndex > 0 ) ? '... ' : '';
+        endString = ( endString !== stringValue.length ) ? ' ...' : '';
+
+        console.log(startIndex + ' ' + endIndex);
+        hit.bio_short = startString + stringValue.substring(startIndex, endIndex) + endString;
+      }else{
+        hit.bio_short = hit.bio.substr(0, 165) + '...';
       }
+      
+      if(hit.reviews){
+        hit.review_percentage = 'style=width:' + (hit.reviews.average / 5) * 100 + '%;';
+      }
+      
+      if(hit.packages){
+        hit.package_count = hit.packages.length;
+      }
+      
       return hit;
-    },
-    cssClasses: {
-      root: 'row',
-      item: 'col-xs-6 col-sm-4'
     }
   })
 );
@@ -218,6 +235,27 @@ search.addWidget(
       root: 'btn btn-block btn-default'
     },
     autoHideContainer: true
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.currentRefinedValues({
+    container: '#current-filters',
+    clearAll: 'after',
+    templates: {
+      item: function(data){
+        console.log(data);
+        var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' +
+        data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>'
+        return s;
+      }
+    },
+    attributes: [
+      { name: 'chris' }
+    ],
+    cssClasses: {
+      link: 'label label-default'
+    }
   })
 );
 
