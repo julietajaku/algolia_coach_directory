@@ -94,6 +94,14 @@ search.addWidget(
       
       if(hit.packages){
         hit.package_count = hit.packages.length;
+        var startPrice = 0;
+        
+        for(var i = 0, l = hit.packages.length; i < l; i++){
+          console.log(startPrice);
+          startPrice = Math.max(startPrice, hit.packages[i].price);
+        }
+
+        hit.package_starting_price = startPrice;
       }
       
       return hit;
