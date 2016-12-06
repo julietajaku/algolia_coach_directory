@@ -4,7 +4,11 @@
 var search = instantsearch({
   appId: 'YORNOA2EPS',
   apiKey: '6f2b9a275341d6961c799a2981b9d663',
-  indexName: 'coach_packages'
+  indexName: 'coach_packages',
+  searchParameters: {
+    getRankingInfo: true
+    //aroundLatLngViaIP: true
+  }
 });
 
 search.addWidget(
@@ -61,7 +65,10 @@ search.addWidget(
     highlightPostTag: "</em>",    
     templates: {
       empty: noResultsTemplate,
-      item:  hitTemplate
+      item:  function(data){
+        console.log(data);
+        return 'hit';
+      }
     },
     transformData: function(hit) {
       hit.stars = [];

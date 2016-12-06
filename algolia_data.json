@@ -10,10 +10,6 @@
     "city": "Lawrence",
     "state": "KS",
     "citystate": "KS > Lawrence",
-    "latitude": 38.9499492,
-    "longitude": -95.2658318,
-    "_geoloc__lat": 38.9499492,
-    "_geoloc__lng": -95.2658318,
     "packages": [{
         "userid": 3960401,
         "packageid": 14,
@@ -79,7 +75,11 @@
         "average": 5,
         "count": 12
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.9499492,
+        "lng": -95.2658318
+    }
 }, {
     "userid": 4653105,
     "firstname": "Alison",
@@ -92,10 +92,6 @@
     "city": "Denver",
     "state": "CO",
     "citystate": "CO > Denver",
-    "latitude": 39.9960635,
-    "longitude": -105.0908147,
-    "_geoloc__lat": 39.9960635,
-    "_geoloc__lng": -105.0908147,
     "packages": [{
         "userid": 4653105,
         "packageid": 181,
@@ -173,7 +169,11 @@
         "average": 4.6,
         "count": 19
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.9960635,
+        "lng": -105.0908147
+    }
 }, {
     "userid": 2334955,
     "firstname": "Allyn Bader",
@@ -186,10 +186,6 @@
     "city": "Elizabeth",
     "state": "CO",
     "citystate": "CO > Elizabeth",
-    "latitude": 39.3415844,
-    "longitude": -104.6121475,
-    "_geoloc__lat": 39.3415844,
-    "_geoloc__lng": -104.6121475,
     "packages": [{
         "userid": 2334955,
         "packageid": 198,
@@ -231,7 +227,11 @@
         "average": 4.4,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.3415844,
+        "lng": -104.6121475
+    }
 }, {
     "userid": 3094939,
     "firstname": "Ann",
@@ -244,10 +244,6 @@
     "city": "Simpsonville",
     "state": "SC",
     "citystate": "SC > Simpsonville",
-    "latitude": 34.7692466,
-    "longitude": -82.2365981,
-    "_geoloc__lat": 34.7692466,
-    "_geoloc__lng": -82.2365981,
     "packages": [{
         "userid": 3094939,
         "packageid": 26,
@@ -277,7 +273,11 @@
         "average": 5,
         "count": 22
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 34.7692466,
+        "lng": -82.2365981
+    }
 }, {
     "userid": 1179066,
     "firstname": "Anne",
@@ -290,10 +290,6 @@
     "city": "Seattle",
     "state": "WA",
     "citystate": "WA > Seattle",
-    "latitude": 47.6600087,
-    "longitude": -122.3425575,
-    "_geoloc__lat": 47.6600087,
-    "_geoloc__lng": -122.3425575,
     "packages": [{
         "userid": 1179066,
         "packageid": 176,
@@ -311,7 +307,11 @@
         "average": 4,
         "count": 25
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 47.6600087,
+        "lng": -122.3425575
+    }
 }, {
     "userid": 75815,
     "firstname": "Barbara",
@@ -324,10 +324,6 @@
     "city": "Houston",
     "state": "TX",
     "citystate": "TX > Houston",
-    "latitude": 29.7484861,
-    "longitude": -95.4699173,
-    "_geoloc__lat": 29.7484861,
-    "_geoloc__lng": -95.4699173,
     "packages": [{
         "userid": 75815,
         "packageid": 134,
@@ -357,7 +353,11 @@
         "average": 4.8,
         "count": 26
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 29.7484861,
+        "lng": -95.4699173
+    }
 }, {
     "userid": 1896061,
     "firstname": "Barbara",
@@ -370,10 +370,6 @@
     "city": "Forsyth",
     "state": "IL",
     "citystate": "IL > Forsyth",
-    "latitude": 39.9201446,
-    "longitude": -88.9653226,
-    "_geoloc__lat": 39.9201446,
-    "_geoloc__lng": -88.9653226,
     "packages": [{
         "userid": 1896061,
         "packageid": 27,
@@ -391,7 +387,11 @@
         "average": 3.6,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.9201446,
+        "lng": -88.9653226
+    }
 }, {
     "userid": 433669,
     "firstname": "Beth",
@@ -404,10 +404,6 @@
     "city": "Charlotte",
     "state": "NC",
     "citystate": "NC > Charlotte",
-    "latitude": 35.1274285,
-    "longitude": -80.8599193,
-    "_geoloc__lat": 35.1274285,
-    "_geoloc__lng": -80.8599193,
     "packages": [{
         "userid": 433669,
         "packageid": 265,
@@ -449,7 +445,11 @@
         "average": 5,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 35.1274285,
+        "lng": -80.8599193
+    }
 }, {
     "userid": 3733170,
     "firstname": "Bethany",
@@ -462,10 +462,6 @@
     "city": "East Greenwich",
     "state": "RI",
     "citystate": "RI > East Greenwich",
-    "latitude": 41.6496052,
-    "longitude": -71.4893013,
-    "_geoloc__lat": 41.6496052,
-    "_geoloc__lng": -71.4893013,
     "packages": [{
         "userid": 3733170,
         "packageid": 363,
@@ -543,7 +539,11 @@
         "average": 4,
         "count": 15
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 41.6496052,
+        "lng": -71.4893013
+    }
 }, {
     "userid": 86104,
     "firstname": "Bob",
@@ -556,15 +556,15 @@
     "city": "Houston",
     "state": "TX",
     "citystate": "TX > Houston",
-    "latitude": 29.7765065,
-    "longitude": -95.4201377,
-    "_geoloc__lat": 29.7765065,
-    "_geoloc__lng": -95.4201377,
     "reviews": {
         "average": 3.6,
         "count": 27
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 29.7765065,
+        "lng": -95.4201377
+    }
 }, {
     "userid": 4627815,
     "firstname": "Brenda",
@@ -577,10 +577,6 @@
     "city": "Fort Worth",
     "state": "TX",
     "citystate": "TX > Fort Worth",
-    "latitude": 32.7579468,
-    "longitude": -97.3246534,
-    "_geoloc__lat": 32.7579468,
-    "_geoloc__lng": -97.3246534,
     "packages": [{
         "userid": 4627815,
         "packageid": 250,
@@ -610,7 +606,11 @@
         "average": 3.1,
         "count": 14
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 32.7579468,
+        "lng": -97.3246534
+    }
 }, {
     "userid": 957626,
     "firstname": "Brent",
@@ -623,10 +623,6 @@
     "city": "Sherman",
     "state": "TX",
     "citystate": "TX > Sherman",
-    "latitude": 33.6805008,
-    "longitude": -96.7279918,
-    "_geoloc__lat": 33.6805008,
-    "_geoloc__lng": -96.7279918,
     "packages": [{
         "userid": 957626,
         "packageid": 149,
@@ -680,7 +676,11 @@
         "average": 4.6,
         "count": 29
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 33.6805008,
+        "lng": -96.7279918
+    }
 }, {
     "userid": 4916037,
     "firstname": "Brodie",
@@ -693,15 +693,15 @@
     "city": "Cincinnati",
     "state": "OH",
     "citystate": "OH > Cincinnati",
-    "latitude": 39.1629772,
-    "longitude": -84.4540213,
-    "_geoloc__lat": 39.1629772,
-    "_geoloc__lng": -84.4540213,
     "reviews": {
         "average": 3.2,
         "count": 14
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.1629772,
+        "lng": -84.4540213
+    }
 }, {
     "userid": 4864019,
     "firstname": "Bruce",
@@ -714,10 +714,6 @@
     "city": "Dallas",
     "state": "TX",
     "citystate": "TX > Dallas",
-    "latitude": 32.8225166,
-    "longitude": -96.7761686,
-    "_geoloc__lat": 32.8225166,
-    "_geoloc__lng": -96.7761686,
     "packages": [{
         "userid": 4864019,
         "packageid": 227,
@@ -735,7 +731,11 @@
         "average": 5,
         "count": 25
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 32.8225166,
+        "lng": -96.7761686
+    }
 }, {
     "userid": 323737,
     "firstname": "Buddy",
@@ -748,15 +748,15 @@
     "city": "Austin",
     "state": "TX",
     "citystate": "TX > Austin",
-    "latitude": 30.3081307,
-    "longitude": -97.681943,
-    "_geoloc__lat": 30.3081307,
-    "_geoloc__lng": -97.681943,
     "reviews": {
         "average": 3.8,
         "count": 17
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 30.3081307,
+        "lng": -97.681943
+    }
 }, {
     "userid": 80901,
     "firstname": "Carol",
@@ -769,10 +769,6 @@
     "city": "Vienna",
     "state": "VA",
     "citystate": "VA > Vienna",
-    "latitude": 38.9457197,
-    "longitude": -77.2979782,
-    "_geoloc__lat": 38.9457197,
-    "_geoloc__lng": -77.2979782,
     "packages": [{
         "userid": 80901,
         "packageid": 55,
@@ -790,7 +786,11 @@
         "average": 3.6,
         "count": 12
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.9457197,
+        "lng": -77.2979782
+    }
 }, {
     "userid": 745464,
     "firstname": "Carol",
@@ -803,10 +803,6 @@
     "city": "Guilford",
     "state": "CT",
     "citystate": "CT > Guilford",
-    "latitude": 41.3395325,
-    "longitude": -72.6978931,
-    "_geoloc__lat": 41.3395325,
-    "_geoloc__lng": -72.6978931,
     "packages": [{
         "userid": 745464,
         "packageid": 147,
@@ -884,7 +880,11 @@
         "average": 5,
         "count": 5
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 41.3395325,
+        "lng": -72.6978931
+    }
 }, {
     "userid": 579493,
     "firstname": "Chuck",
@@ -897,10 +897,6 @@
     "city": "Cave Creek",
     "state": "AZ",
     "citystate": "AZ > Cave Creek",
-    "latitude": 33.8752397,
-    "longitude": -111.9284017,
-    "_geoloc__lat": 33.8752397,
-    "_geoloc__lng": -111.9284017,
     "packages": [{
         "userid": 579493,
         "packageid": 162,
@@ -942,7 +938,11 @@
         "average": 4.8,
         "count": 28
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 33.8752397,
+        "lng": -111.9284017
+    }
 }, {
     "userid": 4603259,
     "firstname": "Cindi",
@@ -955,10 +955,6 @@
     "city": "Charlotte",
     "state": "NC",
     "citystate": "NC > Charlotte",
-    "latitude": 35.0535496,
-    "longitude": -80.8211696,
-    "_geoloc__lat": 35.0535496,
-    "_geoloc__lng": -80.8211696,
     "packages": [{
         "userid": 4603259,
         "packageid": 303,
@@ -1012,7 +1008,11 @@
         "average": 3.4,
         "count": 8
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 35.0535496,
+        "lng": -80.8211696
+    }
 }, {
     "userid": 112313,
     "firstname": "Cindy",
@@ -1025,15 +1025,15 @@
     "city": "Anchorage",
     "state": "AK",
     "citystate": "AK > Anchorage",
-    "latitude": 61.191144,
-    "longitude": -149.8902415,
-    "_geoloc__lat": 61.191144,
-    "_geoloc__lng": -149.8902415,
     "reviews": {
         "average": 4.8,
         "count": 13
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 61.191144,
+        "lng": -149.8902415
+    }
 }, {
     "userid": 2043761,
     "firstname": "Cindy",
@@ -1046,10 +1046,6 @@
     "city": "South Milwaukee",
     "state": "WI",
     "citystate": "WI > South Milwaukee",
-    "latitude": 42.9121206,
-    "longitude": -87.8647961,
-    "_geoloc__lat": 42.9121206,
-    "_geoloc__lng": -87.8647961,
     "packages": [{
         "userid": 2043761,
         "packageid": 141,
@@ -1079,7 +1075,11 @@
         "average": 4.7,
         "count": 7
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 42.9121206,
+        "lng": -87.8647961
+    }
 }, {
     "userid": 4258697,
     "firstname": "Cindy",
@@ -1092,10 +1092,6 @@
     "city": "Aubrey",
     "state": "TX",
     "citystate": "TX > Aubrey",
-    "latitude": 33.2647059,
-    "longitude": -96.9853474,
-    "_geoloc__lat": 33.2647059,
-    "_geoloc__lng": -96.9853474,
     "packages": [{
         "userid": 4258697,
         "packageid": 347,
@@ -1125,7 +1121,11 @@
         "average": 5,
         "count": 13
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 33.2647059,
+        "lng": -96.9853474
+    }
 }, {
     "userid": 3955217,
     "firstname": "Corrie",
@@ -1138,10 +1138,6 @@
     "city": "Los Angeles",
     "state": "CA",
     "citystate": "CA > Los Angeles",
-    "latitude": 33.9516114,
-    "longitude": -118.3875775,
-    "_geoloc__lat": 33.9516114,
-    "_geoloc__lng": -118.3875775,
     "packages": [{
         "userid": 3955217,
         "packageid": 105,
@@ -1159,7 +1155,11 @@
         "average": 3.3,
         "count": 18
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 33.9516114,
+        "lng": -118.3875775
+    }
 }, {
     "userid": 94576,
     "firstname": "Craig",
@@ -1172,10 +1172,6 @@
     "city": "Marietta",
     "state": "GA",
     "citystate": "GA > Marietta",
-    "latitude": 33.9346756,
-    "longitude": -84.5955732,
-    "_geoloc__lat": 33.9346756,
-    "_geoloc__lng": -84.5955732,
     "packages": [{
         "userid": 94576,
         "packageid": 189,
@@ -1217,7 +1213,11 @@
         "average": 4.9,
         "count": 22
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 33.9346756,
+        "lng": -84.5955732
+    }
 }, {
     "userid": 1036117,
     "firstname": "Dan",
@@ -1230,10 +1230,6 @@
     "city": "Eau Claire",
     "state": "WI",
     "citystate": "WI > Eau Claire",
-    "latitude": 44.7470586,
-    "longitude": -91.5015009,
-    "_geoloc__lat": 44.7470586,
-    "_geoloc__lng": -91.5015009,
     "packages": [{
         "userid": 1036117,
         "packageid": 22,
@@ -1263,7 +1259,11 @@
         "average": 4.3,
         "count": 24
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 44.7470586,
+        "lng": -91.5015009
+    }
 }, {
     "userid": 3677710,
     "firstname": "Danielle",
@@ -1276,10 +1276,6 @@
     "city": "Omaha",
     "state": "NE",
     "citystate": "NE > Omaha",
-    "latitude": 41.2954735,
-    "longitude": -95.9938339,
-    "_geoloc__lat": 41.2954735,
-    "_geoloc__lng": -95.9938339,
     "packages": [{
         "userid": 3677710,
         "packageid": 42,
@@ -1309,7 +1305,11 @@
         "average": 4,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 41.2954735,
+        "lng": -95.9938339
+    }
 }, {
     "userid": 12900,
     "firstname": "David",
@@ -1322,10 +1322,6 @@
     "city": "St. Louis",
     "state": "MO",
     "citystate": "MO > St. Louis",
-    "latitude": 38.6157474,
-    "longitude": -90.3513021,
-    "_geoloc__lat": 38.6157474,
-    "_geoloc__lng": -90.3513021,
     "packages": [{
         "userid": 12900,
         "packageid": 195,
@@ -1367,7 +1363,11 @@
         "average": 5,
         "count": 19
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 38.6157474,
+        "lng": -90.3513021
+    }
 }, {
     "userid": 654682,
     "firstname": "David",
@@ -1380,10 +1380,6 @@
     "city": "West Bend",
     "state": "WI",
     "citystate": "WI > West Bend",
-    "latitude": 43.3724402,
-    "longitude": -88.148657,
-    "_geoloc__lat": 43.3724402,
-    "_geoloc__lng": -88.148657,
     "packages": [{
         "userid": 654682,
         "packageid": 362,
@@ -1425,7 +1421,11 @@
         "average": 5,
         "count": 6
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 43.3724402,
+        "lng": -88.148657
+    }
 }, {
     "userid": 348100,
     "firstname": "Dian",
@@ -1438,15 +1438,15 @@
     "city": "Raleigh",
     "state": "NC",
     "citystate": "NC > Raleigh",
-    "latitude": 35.8409242,
-    "longitude": -78.6228504,
-    "_geoloc__lat": 35.8409242,
-    "_geoloc__lng": -78.6228504,
     "reviews": {
         "average": 3.9,
         "count": 26
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 35.8409242,
+        "lng": -78.6228504
+    }
 }, {
     "userid": 49924,
     "firstname": "Eugene",
@@ -1459,10 +1459,6 @@
     "city": "St. Louis",
     "state": "MO",
     "citystate": "MO > St. Louis",
-    "latitude": 38.494606,
-    "longitude": -90.4596721,
-    "_geoloc__lat": 38.494606,
-    "_geoloc__lng": -90.4596721,
     "packages": [{
         "userid": 49924,
         "packageid": 13,
@@ -1504,7 +1500,11 @@
         "average": 3.9,
         "count": 23
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 38.494606,
+        "lng": -90.4596721
+    }
 }, {
     "userid": 4524298,
     "firstname": "Fiona",
@@ -1517,10 +1517,6 @@
     "city": "Washington DC Metro",
     "state": "MD",
     "citystate": "MD > Washington DC Metro",
-    "latitude": 38.9894702,
-    "longitude": -77.1370115,
-    "_geoloc__lat": 38.9894702,
-    "_geoloc__lng": -77.1370115,
     "packages": [{
         "userid": 4524298,
         "packageid": 172,
@@ -1550,7 +1546,11 @@
         "average": 4.9,
         "count": 18
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.9894702,
+        "lng": -77.1370115
+    }
 }, {
     "userid": 573461,
     "firstname": "George A",
@@ -1562,10 +1562,6 @@
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/george_a_garza.jpg",
     "city": "San Antonio",
     "state": "TX",
-    "latitude": 29.5269768,
-    "longitude": -98.6105703,
-    "_geoloc__lat": 29.5269768,
-    "_geoloc__lng": -98.6105703,
     "packages": [{
         "userid": 573461,
         "packageid": 23,
@@ -1583,7 +1579,11 @@
         "average": 4.5,
         "count": 8
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 29.5269768,
+        "lng": -98.6105703
+    }
 }, {
     "userid": 4605644,
     "firstname": "Greg",
@@ -1596,10 +1596,6 @@
     "city": "Brattleboro",
     "state": "VT",
     "citystate": "VT > Brattleboro",
-    "latitude": 42.8503275,
-    "longitude": -72.561284,
-    "_geoloc__lat": 42.8503275,
-    "_geoloc__lng": -72.561284,
     "packages": [{
         "userid": 4605644,
         "packageid": 342,
@@ -1617,7 +1613,11 @@
         "average": 5,
         "count": 10
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 42.8503275,
+        "lng": -72.561284
+    }
 }, {
     "userid": 2611682,
     "firstname": "Heather",
@@ -1630,15 +1630,15 @@
     "city": "Noblesville",
     "state": "IN",
     "citystate": "IN > Noblesville",
-    "latitude": 40.0683417,
-    "longitude": -86.0631561,
-    "_geoloc__lat": 40.0683417,
-    "_geoloc__lng": -86.0631561,
     "reviews": {
         "average": 5,
         "count": 15
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 40.0683417,
+        "lng": -86.0631561
+    }
 }, {
     "userid": 1525387,
     "firstname": "Henriet",
@@ -1651,10 +1651,6 @@
     "city": "Redmond",
     "state": "WA",
     "citystate": "WA > Redmond",
-    "latitude": 47.6556113,
-    "longitude": -122.0243323,
-    "_geoloc__lat": 47.6556113,
-    "_geoloc__lng": -122.0243323,
     "packages": [{
         "userid": 1525387,
         "packageid": 334,
@@ -1684,7 +1680,11 @@
         "average": 5,
         "count": 29
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 47.6556113,
+        "lng": -122.0243323
+    }
 }, {
     "userid": 30880,
     "firstname": "Henry",
@@ -1696,15 +1696,15 @@
     "city": "Washington DC Metro",
     "state": "VA",
     "citystate": "VA > Washington DC Metro",
-    "latitude": 38.8923513,
-    "longitude": -77.3266991,
-    "_geoloc__lat": 38.8923513,
-    "_geoloc__lng": -77.3266991,
     "reviews": {
         "average": 3.7,
         "count": 17
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 38.8923513,
+        "lng": -77.3266991
+    }
 }, {
     "userid": 4821468,
     "firstname": "Jamie",
@@ -1716,10 +1716,6 @@
     "city": "Los Angeles",
     "state": "CA",
     "citystate": "CA > Los Angeles",
-    "latitude": 34.0448583,
-    "longitude": -118.4484367,
-    "_geoloc__lat": 34.0448583,
-    "_geoloc__lng": -118.4484367,
     "packages": [{
         "userid": 4821468,
         "packageid": 349,
@@ -1749,7 +1745,11 @@
         "average": 3.9,
         "count": 9
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 34.0448583,
+        "lng": -118.4484367
+    }
 }, {
     "userid": 831929,
     "firstname": "Jan",
@@ -1761,10 +1761,6 @@
     "city": "Ellicott City",
     "state": "MD",
     "citystate": "MD > Ellicott City",
-    "latitude": 39.2590567,
-    "longitude": -76.8951551,
-    "_geoloc__lat": 39.2590567,
-    "_geoloc__lng": -76.8951551,
     "packages": [{
         "userid": 831929,
         "packageid": 356,
@@ -1782,7 +1778,11 @@
         "average": 4.5,
         "count": 22
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 39.2590567,
+        "lng": -76.8951551
+    }
 }, {
     "userid": 355273,
     "firstname": "Jayne",
@@ -1794,10 +1794,6 @@
     "city": "Tampa",
     "state": "FL",
     "citystate": "FL > Tampa",
-    "latitude": 28.0003221,
-    "longitude": -82.5889012,
-    "_geoloc__lat": 28.0003221,
-    "_geoloc__lng": -82.5889012,
     "packages": [{
         "userid": 355273,
         "packageid": 37,
@@ -1815,7 +1811,11 @@
         "average": 3.6,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 28.0003221,
+        "lng": -82.5889012
+    }
 }, {
     "userid": 4517216,
     "firstname": "Jeanmarie",
@@ -1827,10 +1827,6 @@
     "city": "Tampa Bay",
     "state": "FL",
     "citystate": "FL > Tampa Bay",
-    "latitude": 28.3965412,
-    "longitude": -82.4969331,
-    "_geoloc__lat": 28.3965412,
-    "_geoloc__lng": -82.4969331,
     "packages": [{
         "userid": 4517216,
         "packageid": 32,
@@ -1848,7 +1844,11 @@
         "average": 5,
         "count": 8
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 28.3965412,
+        "lng": -82.4969331
+    }
 }, {
     "userid": 211326,
     "firstname": "Jennifer",
@@ -1860,10 +1860,6 @@
     "city": "Berkeley",
     "state": "CA",
     "citystate": "CA > Berkeley",
-    "latitude": 37.8357202,
-    "longitude": -122.1178261,
-    "_geoloc__lat": 37.8357202,
-    "_geoloc__lng": -122.1178261,
     "packages": [{
         "userid": 211326,
         "packageid": 15,
@@ -1893,7 +1889,11 @@
         "average": 5,
         "count": 9
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 37.8357202,
+        "lng": -122.1178261
+    }
 }, {
     "userid": 532727,
     "firstname": "Jennifer",
@@ -1905,15 +1905,15 @@
     "city": "Houston",
     "state": "TX",
     "citystate": "TX > Houston",
-    "latitude": 29.4773092,
-    "longitude": -95.5302337,
-    "_geoloc__lat": 29.4773092,
-    "_geoloc__lng": -95.5302337,
     "reviews": {
         "average": 3.2,
         "count": 21
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 29.4773092,
+        "lng": -95.5302337
+    }
 }, {
     "userid": 4250268,
     "firstname": "Jennifer",
@@ -1925,10 +1925,6 @@
     "city": "Washington",
     "state": "DC",
     "citystate": "DC > Washington",
-    "latitude": 38.912068,
-    "longitude": -77.0190228,
-    "_geoloc__lat": 38.912068,
-    "_geoloc__lng": -77.0190228,
     "packages": [{
         "userid": 4250268,
         "packageid": 293,
@@ -2018,7 +2014,11 @@
         "average": 4.2,
         "count": 16
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.912068,
+        "lng": -77.0190228
+    }
 }, {
     "userid": 4384428,
     "firstname": "Jennifer",
@@ -2030,15 +2030,15 @@
     "city": "Louisivlle",
     "state": "KY",
     "citystate": "KY > Louisivlle",
-    "latitude": 38.1173105,
-    "longitude": -85.5715015,
-    "_geoloc__lat": 38.1173105,
-    "_geoloc__lng": -85.5715015,
     "reviews": {
         "average": 5,
         "count": 28
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.1173105,
+        "lng": -85.5715015
+    }
 }, {
     "userid": 1962566,
     "firstname": "Jim",
@@ -2050,15 +2050,15 @@
     "city": "Newburyport",
     "state": "MA",
     "citystate": "MA > Newburyport",
-    "latitude": 42.8104135,
-    "longitude": -70.8892886,
-    "_geoloc__lat": 42.8104135,
-    "_geoloc__lng": -70.8892886,
     "reviews": {
         "average": 3.5,
         "count": 18
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 42.8104135,
+        "lng": -70.8892886
+    }
 }, {
     "userid": 168564,
     "firstname": "Joan",
@@ -2070,10 +2070,6 @@
     "city": "Chagrin Falls",
     "state": "OH",
     "citystate": "OH > Chagrin Falls",
-    "latitude": 41.3698038,
-    "longitude": -81.2739073,
-    "_geoloc__lat": 41.3698038,
-    "_geoloc__lng": -81.2739073,
     "packages": [{
         "userid": 168564,
         "packageid": 319,
@@ -2139,7 +2135,11 @@
         "average": 4.4,
         "count": 17
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 41.3698038,
+        "lng": -81.2739073
+    }
 }, {
     "userid": 3483698,
     "firstname": "John",
@@ -2151,10 +2151,6 @@
     "city": "Lawrence",
     "state": "KS",
     "citystate": "KS > Lawrence",
-    "latitude": 38.8851891,
-    "longitude": -95.3730176,
-    "_geoloc__lat": 38.8851891,
-    "_geoloc__lng": -95.3730176,
     "packages": [{
         "userid": 3483698,
         "packageid": 231,
@@ -2232,7 +2228,11 @@
         "average": 5,
         "count": 30
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 38.8851891,
+        "lng": -95.3730176
+    }
 }, {
     "userid": 1779271,
     "firstname": "Josh",
@@ -2244,10 +2244,6 @@
     "city": "Des Moines",
     "state": "IA",
     "citystate": "IA > Des Moines",
-    "latitude": 41.6304923,
-    "longitude": -93.7333537,
-    "_geoloc__lat": 41.6304923,
-    "_geoloc__lng": -93.7333537,
     "packages": [{
         "userid": 1779271,
         "packageid": 29,
@@ -2325,7 +2321,11 @@
         "average": 4.2,
         "count": 6
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 41.6304923,
+        "lng": -93.7333537
+    }
 }, {
     "userid": 71944,
     "firstname": "Judy",
@@ -2337,10 +2337,6 @@
     "city": "Cape May",
     "state": "NJ",
     "citystate": "NJ > Cape May",
-    "latitude": 38.9638626,
-    "longitude": -74.9091853,
-    "_geoloc__lat": 38.9638626,
-    "_geoloc__lng": -74.9091853,
     "packages": [{
         "userid": 71944,
         "packageid": 210,
@@ -2430,7 +2426,11 @@
         "average": 3.4,
         "count": 9
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.9638626,
+        "lng": -74.9091853
+    }
 }, {
     "userid": 259524,
     "firstname": "Karen",
@@ -2442,15 +2442,15 @@
     "city": "Rochester",
     "state": "MI",
     "citystate": "MI > Rochester",
-    "latitude": 42.6678914,
-    "longitude": -83.1327332,
-    "_geoloc__lat": 42.6678914,
-    "_geoloc__lng": -83.1327332,
     "reviews": {
         "average": 4.4,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 42.6678914,
+        "lng": -83.1327332
+    }
 }, {
     "userid": 913871,
     "firstname": "Kathie",
@@ -2462,10 +2462,6 @@
     "city": "Coppell",
     "state": "TX",
     "citystate": "TX > Coppell",
-    "latitude": 32.9618763,
-    "longitude": -96.9960925,
-    "_geoloc__lat": 32.9618763,
-    "_geoloc__lng": -96.9960925,
     "packages": [{
         "userid": 913871,
         "packageid": 116,
@@ -2543,7 +2539,11 @@
         "average": 3.6,
         "count": 12
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 32.9618763,
+        "lng": -96.9960925
+    }
 }, {
     "userid": 678611,
     "firstname": "Kathy",
@@ -2555,10 +2555,6 @@
     "city": "San Antonio",
     "state": "TX",
     "citystate": "TX > San Antonio",
-    "latitude": 29.5944226,
-    "longitude": -98.4568128,
-    "_geoloc__lat": 29.5944226,
-    "_geoloc__lng": -98.4568128,
     "packages": [{
         "userid": 678611,
         "packageid": 102,
@@ -2576,7 +2572,11 @@
         "average": 4.8,
         "count": 28
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 29.5944226,
+        "lng": -98.4568128
+    }
 }, {
     "userid": 1426287,
     "firstname": "Katie",
@@ -2588,10 +2588,6 @@
     "city": "Raleigh",
     "state": "NC",
     "citystate": "NC > Raleigh",
-    "latitude": 35.1739185,
-    "longitude": -79.3690831,
-    "_geoloc__lat": 35.1739185,
-    "_geoloc__lng": -79.3690831,
     "packages": [{
         "userid": 1426287,
         "packageid": 318,
@@ -2741,7 +2737,11 @@
         "average": 4.6,
         "count": 27
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 35.1739185,
+        "lng": -79.3690831
+    }
 }, {
     "userid": 2867908,
     "firstname": "Katie",
@@ -2754,10 +2754,6 @@
     "city": "Sun Prairie",
     "state": "WI",
     "citystate": "WI > Sun Prairie",
-    "latitude": 43.1912263,
-    "longitude": -89.189643,
-    "_geoloc__lat": 43.1912263,
-    "_geoloc__lng": -89.189643,
     "packages": [{
         "userid": 2867908,
         "packageid": 150,
@@ -2847,7 +2843,11 @@
         "average": 5,
         "count": 14
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 43.1912263,
+        "lng": -89.189643
+    }
 }, {
     "userid": 2702354,
     "firstname": "Kim",
@@ -2859,10 +2859,6 @@
     "city": "Greenville",
     "state": "SC",
     "citystate": "SC > Greenville",
-    "latitude": 34.930605,
-    "longitude": -82.4353271,
-    "_geoloc__lat": 34.930605,
-    "_geoloc__lng": -82.4353271,
     "packages": [{
         "userid": 2702354,
         "packageid": 312,
@@ -2880,7 +2876,11 @@
         "average": 4.9,
         "count": 30
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 34.930605,
+        "lng": -82.4353271
+    }
 }, {
     "userid": 1957828,
     "firstname": "Kimberly",
@@ -2892,10 +2892,6 @@
     "city": "St. Louis",
     "state": "MO",
     "citystate": "MO > St. Louis",
-    "latitude": 38.494606,
-    "longitude": -90.4596721,
-    "_geoloc__lat": 38.494606,
-    "_geoloc__lng": -90.4596721,
     "packages": [{
         "userid": 1957828,
         "packageid": 135,
@@ -2937,7 +2933,11 @@
         "average": 5,
         "count": 27
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.494606,
+        "lng": -90.4596721
+    }
 }, {
     "userid": 4687439,
     "firstname": "Kirsten",
@@ -2949,10 +2949,6 @@
     "city": "Santa Barbara",
     "state": "CA",
     "citystate": "CA > Santa Barbara",
-    "latitude": 34.4381407,
-    "longitude": -119.6151426,
-    "_geoloc__lat": 34.4381407,
-    "_geoloc__lng": -119.6151426,
     "packages": [{
         "userid": 4687439,
         "packageid": 238,
@@ -2982,7 +2978,11 @@
         "average": 3.6,
         "count": 15
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 34.4381407,
+        "lng": -119.6151426
+    }
 }, {
     "userid": 2225913,
     "firstname": "Kristen",
@@ -2994,10 +2994,6 @@
     "city": "Stillwater",
     "state": "MN",
     "citystate": "MN > Stillwater",
-    "latitude": 45.0579684,
-    "longitude": -92.8470124,
-    "_geoloc__lat": 45.0579684,
-    "_geoloc__lng": -92.8470124,
     "packages": [{
         "userid": 2225913,
         "packageid": 64,
@@ -3027,7 +3023,11 @@
         "average": 3.8,
         "count": 10
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 45.0579684,
+        "lng": -92.8470124
+    }
 }, {
     "userid": 2363746,
     "firstname": "Lisa",
@@ -3039,10 +3039,6 @@
     "city": "Austin",
     "state": "TX",
     "citystate": "TX > Austin",
-    "latitude": 30.401356,
-    "longitude": -97.7525352,
-    "_geoloc__lat": 30.401356,
-    "_geoloc__lng": -97.7525352,
     "packages": [{
         "userid": 2363746,
         "packageid": 314,
@@ -3096,7 +3092,11 @@
         "average": 3.1,
         "count": 18
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 30.401356,
+        "lng": -97.7525352
+    }
 }, {
     "userid": 2577685,
     "firstname": "Lisa",
@@ -3108,10 +3108,6 @@
     "city": "Colorado Springs",
     "state": "CO",
     "citystate": "CO > Colorado Springs",
-    "latitude": 38.9301358,
-    "longitude": -104.8804893,
-    "_geoloc__lat": 38.9301358,
-    "_geoloc__lng": -104.8804893,
     "packages": [{
         "userid": 2577685,
         "packageid": 187,
@@ -3129,7 +3125,11 @@
         "average": 3.2,
         "count": 16
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.9301358,
+        "lng": -104.8804893
+    }
 }, {
     "userid": 3233760,
     "firstname": "Lorraine",
@@ -3141,10 +3141,6 @@
     "city": "Arlington",
     "state": "VA",
     "citystate": "VA > Arlington",
-    "latitude": 38.8845126,
-    "longitude": -77.0938583,
-    "_geoloc__lat": 38.8845126,
-    "_geoloc__lng": -77.0938583,
     "packages": [{
         "userid": 3233760,
         "packageid": 272,
@@ -3198,7 +3194,11 @@
         "average": 4.5,
         "count": 8
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.8845126,
+        "lng": -77.0938583
+    }
 }, {
     "userid": 1623977,
     "firstname": "Mailin",
@@ -3210,10 +3210,6 @@
     "city": "Columbus",
     "state": "OH",
     "citystate": "OH > Columbus",
-    "latitude": 40.1296424,
-    "longitude": -83.025396,
-    "_geoloc__lat": 40.1296424,
-    "_geoloc__lng": -83.025396,
     "packages": [{
         "userid": 1623977,
         "packageid": 164,
@@ -3291,7 +3287,11 @@
         "average": 3.6,
         "count": 12
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 40.1296424,
+        "lng": -83.025396
+    }
 }, {
     "userid": 606308,
     "firstname": "Maria",
@@ -3303,10 +3303,6 @@
     "city": "Boulder",
     "state": "CO",
     "citystate": "CO > Boulder",
-    "latitude": 40.038629,
-    "longitude": -105.3716684,
-    "_geoloc__lat": 40.038629,
-    "_geoloc__lng": -105.3716684,
     "packages": [{
         "userid": 606308,
         "packageid": 375,
@@ -3324,7 +3320,11 @@
         "average": 4.3,
         "count": 22
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 40.038629,
+        "lng": -105.3716684
+    }
 }, {
     "userid": 1246963,
     "firstname": "Marisa",
@@ -3336,10 +3336,6 @@
     "city": "Hallandale Beach",
     "state": "FL",
     "citystate": "FL > Hallandale Beach",
-    "latitude": 25.9823108,
-    "longitude": -80.1484407,
-    "_geoloc__lat": 25.9823108,
-    "_geoloc__lng": -80.1484407,
     "packages": [{
         "userid": 1246963,
         "packageid": 171,
@@ -3357,7 +3353,11 @@
         "average": 3.3,
         "count": 17
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 25.9823108,
+        "lng": -80.1484407
+    }
 }, {
     "userid": 1728498,
     "firstname": "Mark",
@@ -3369,10 +3369,6 @@
     "city": "Vienna",
     "state": "VA",
     "citystate": "VA > Vienna",
-    "latitude": 38.9457197,
-    "longitude": -77.2979782,
-    "_geoloc__lat": 38.9457197,
-    "_geoloc__lng": -77.2979782,
     "packages": [{
         "userid": 1728498,
         "packageid": 352,
@@ -3426,7 +3422,11 @@
         "average": 5,
         "count": 10
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 38.9457197,
+        "lng": -77.2979782
+    }
 }, {
     "userid": 721609,
     "firstname": "Mary",
@@ -3438,10 +3438,6 @@
     "city": "Williston",
     "state": "VT",
     "citystate": "VT > Williston",
-    "latitude": 44.4315664,
-    "longitude": -73.1059193,
-    "_geoloc__lat": 44.4315664,
-    "_geoloc__lng": -73.1059193,
     "packages": [{
         "userid": 721609,
         "packageid": 191,
@@ -3519,7 +3515,11 @@
         "average": 4.7,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 44.4315664,
+        "lng": -73.1059193
+    }
 }, {
     "userid": 3600177,
     "firstname": "Melanie",
@@ -3531,10 +3531,6 @@
     "city": "Madison",
     "state": "WI",
     "citystate": "WI > Madison",
-    "latitude": 43.0716332,
-    "longitude": -89.4600369,
-    "_geoloc__lat": 43.0716332,
-    "_geoloc__lng": -89.4600369,
     "packages": [{
         "userid": 3600177,
         "packageid": 31,
@@ -3612,7 +3608,11 @@
         "average": 5,
         "count": 9
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 43.0716332,
+        "lng": -89.4600369
+    }
 }, {
     "userid": 3723917,
     "firstname": "Melissa",
@@ -3624,10 +3624,6 @@
     "city": "Sandy",
     "state": "UT",
     "citystate": "UT > Sandy",
-    "latitude": 40.5510478,
-    "longitude": -111.7376178,
-    "_geoloc__lat": 40.5510478,
-    "_geoloc__lng": -111.7376178,
     "packages": [{
         "userid": 3723917,
         "packageid": 28,
@@ -3645,7 +3641,11 @@
         "average": 3,
         "count": 22
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 40.5510478,
+        "lng": -111.7376178
+    }
 }, {
     "userid": 172740,
     "firstname": "Michael",
@@ -3657,10 +3657,6 @@
     "city": "San Diego",
     "state": "CA",
     "citystate": "CA > San Diego",
-    "latitude": 32.7269669,
-    "longitude": -117.1647094,
-    "_geoloc__lat": 32.7269669,
-    "_geoloc__lng": -117.1647094,
     "packages": [{
         "userid": 172740,
         "packageid": 47,
@@ -3738,7 +3734,11 @@
         "average": 3.3,
         "count": 8
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 32.7269669,
+        "lng": -117.1647094
+    }
 }, {
     "userid": 4962879,
     "firstname": "Michelle",
@@ -3750,10 +3750,6 @@
     "city": "Chesapeake",
     "state": "VA",
     "citystate": "VA > Chesapeake",
-    "latitude": 36.8032821,
-    "longitude": -76.4215988,
-    "_geoloc__lat": 36.8032821,
-    "_geoloc__lng": -76.4215988,
     "packages": [{
         "userid": 4962879,
         "packageid": 341,
@@ -3771,7 +3767,11 @@
         "average": 5,
         "count": 7
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 36.8032821,
+        "lng": -76.4215988
+    }
 }, {
     "userid": 299147,
     "firstname": "Mike",
@@ -3783,10 +3783,6 @@
     "city": "Plano",
     "state": "TX",
     "citystate": "TX > Plano",
-    "latitude": 33.0386278,
-    "longitude": -96.8243812,
-    "_geoloc__lat": 33.0386278,
-    "_geoloc__lng": -96.8243812,
     "packages": [{
         "userid": 299147,
         "packageid": 279,
@@ -3804,7 +3800,11 @@
         "average": 4.1,
         "count": 16
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 33.0386278,
+        "lng": -96.8243812
+    }
 }, {
     "userid": 4321919,
     "firstname": "Neil",
@@ -3816,10 +3816,6 @@
     "city": "Appleton",
     "state": "WI",
     "citystate": "WI > Appleton",
-    "latitude": 44.3316981,
-    "longitude": -88.4210006,
-    "_geoloc__lat": 44.3316981,
-    "_geoloc__lng": -88.4210006,
     "packages": [{
         "userid": 4321919,
         "packageid": 96,
@@ -3873,7 +3869,11 @@
         "average": 3.8,
         "count": 13
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 44.3316981,
+        "lng": -88.4210006
+    }
 }, {
     "userid": 1860561,
     "firstname": "Noreen",
@@ -3885,10 +3885,6 @@
     "city": "Bismarck",
     "state": "ND",
     "citystate": "ND > Bismarck",
-    "latitude": 46.7359015,
-    "longitude": -100.6637567,
-    "_geoloc__lat": 46.7359015,
-    "_geoloc__lng": -100.6637567,
     "packages": [{
         "userid": 1860561,
         "packageid": 157,
@@ -3918,7 +3914,11 @@
         "average": 3.6,
         "count": 23
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 46.7359015,
+        "lng": -100.6637567
+    }
 }, {
     "userid": 2067651,
     "firstname": "Pam",
@@ -3930,10 +3930,6 @@
     "city": "Pittsburgh",
     "state": "PA",
     "citystate": "PA > Pittsburgh",
-    "latitude": 40.4475255,
-    "longitude": -79.9933976,
-    "_geoloc__lat": 40.4475255,
-    "_geoloc__lng": -79.9933976,
     "packages": [{
         "userid": 2067651,
         "packageid": 57,
@@ -3975,7 +3971,11 @@
         "average": 3.9,
         "count": 22
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 40.4475255,
+        "lng": -79.9933976
+    }
 }, {
     "userid": 17783,
     "firstname": "Patricia",
@@ -3987,15 +3987,15 @@
     "city": "Oakland",
     "state": "CA",
     "citystate": "CA > Oakland",
-    "latitude": 37.8134679,
-    "longitude": -122.307917,
-    "_geoloc__lat": 37.8134679,
-    "_geoloc__lng": -122.307917,
     "reviews": {
         "average": 3.4,
         "count": 17
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 37.8134679,
+        "lng": -122.307917
+    }
 }, {
     "userid": 889418,
     "firstname": "Patty",
@@ -4007,15 +4007,15 @@
     "city": "Festus",
     "state": "MO",
     "citystate": "MO > Festus",
-    "latitude": 38.1259347,
-    "longitude": -90.3936722,
-    "_geoloc__lat": 38.1259347,
-    "_geoloc__lng": -90.3936722,
     "reviews": {
         "average": 3.3,
         "count": 26
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 38.1259347,
+        "lng": -90.3936722
+    }
 }, {
     "userid": 124436,
     "firstname": "Renee",
@@ -4027,15 +4027,15 @@
     "city": "Greenville",
     "state": "SC",
     "citystate": "SC > Greenville",
-    "latitude": 34.7882567,
-    "longitude": -82.5402275,
-    "_geoloc__lat": 34.7882567,
-    "_geoloc__lng": -82.5402275,
     "reviews": {
         "average": 4.4,
         "count": 16
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 34.7882567,
+        "lng": -82.5402275
+    }
 }, {
     "userid": 1096573,
     "firstname": "Ryan",
@@ -4047,10 +4047,6 @@
     "city": "Salt Lake City",
     "state": "UT",
     "citystate": "UT > Salt Lake City",
-    "latitude": 40.5510478,
-    "longitude": -111.7376178,
-    "_geoloc__lat": 40.5510478,
-    "_geoloc__lng": -111.7376178,
     "packages": [{
         "userid": 1096573,
         "packageid": 274,
@@ -4092,7 +4088,11 @@
         "average": 4.6,
         "count": 28
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 40.5510478,
+        "lng": -111.7376178
+    }
 }, {
     "userid": 121976,
     "firstname": "Sandy",
@@ -4104,10 +4104,6 @@
     "city": "Baltimore",
     "state": "MD",
     "citystate": "MD > Baltimore",
-    "latitude": 39.2227668,
-    "longitude": -76.4505243,
-    "_geoloc__lat": 39.2227668,
-    "_geoloc__lng": -76.4505243,
     "packages": [{
         "userid": 121976,
         "packageid": 242,
@@ -4125,7 +4121,11 @@
         "average": 5,
         "count": 14
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.2227668,
+        "lng": -76.4505243
+    }
 }, {
     "userid": 4332360,
     "firstname": "Sandy",
@@ -4138,10 +4138,6 @@
     "city": "Omaha",
     "state": "NE",
     "citystate": "NE > Omaha",
-    "latitude": 41.2395091,
-    "longitude": -96.2004383,
-    "_geoloc__lat": 41.2395091,
-    "_geoloc__lng": -96.2004383,
     "packages": [{
         "userid": 4332360,
         "packageid": 39,
@@ -4159,7 +4155,11 @@
         "average": 4.3,
         "count": 8
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 41.2395091,
+        "lng": -96.2004383
+    }
 }, {
     "userid": 37028,
     "firstname": "Sarah",
@@ -4171,15 +4171,15 @@
     "city": "Indianapolis",
     "state": "IN",
     "citystate": "IN > Indianapolis",
-    "latitude": 39.8878841,
-    "longitude": -86.1853474,
-    "_geoloc__lat": 39.8878841,
-    "_geoloc__lng": -86.1853474,
     "reviews": {
         "average": 3,
         "count": 17
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.8878841,
+        "lng": -86.1853474
+    }
 }, {
     "userid": 807945,
     "firstname": "Sarah",
@@ -4191,10 +4191,6 @@
     "city": "Denver",
     "state": "CO",
     "citystate": "CO > Denver",
-    "latitude": 39.7698122,
-    "longitude": -105.0148322,
-    "_geoloc__lat": 39.7698122,
-    "_geoloc__lng": -105.0148322,
     "packages": [{
         "userid": 807945,
         "packageid": 126,
@@ -4284,7 +4280,11 @@
         "average": 4.6,
         "count": 7
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.7698122,
+        "lng": -105.0148322
+    }
 }, {
     "userid": 185712,
     "firstname": "Scott",
@@ -4296,10 +4296,6 @@
     "city": "South Easton",
     "state": "MA",
     "citystate": "MA > South Easton",
-    "latitude": 42.0041954,
-    "longitude": -71.0854325,
-    "_geoloc__lat": 42.0041954,
-    "_geoloc__lng": -71.0854325,
     "packages": [{
         "userid": 185712,
         "packageid": 84,
@@ -4317,7 +4313,11 @@
         "average": 3.1,
         "count": 23
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 42.0041954,
+        "lng": -71.0854325
+    }
 }, {
     "userid": 3043323,
     "firstname": "Shannon Nicole",
@@ -4329,10 +4329,6 @@
     "city": "Claremont",
     "state": "CA",
     "citystate": "CA > Claremont",
-    "latitude": 34.1707374,
-    "longitude": -117.702148,
-    "_geoloc__lat": 34.1707374,
-    "_geoloc__lng": -117.702148,
     "packages": [{
         "userid": 3043323,
         "packageid": 65,
@@ -4386,7 +4382,11 @@
         "average": 5,
         "count": 28
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 34.1707374,
+        "lng": -117.702148
+    }
 }, {
     "userid": 2206481,
     "firstname": "Sharri",
@@ -4398,15 +4398,15 @@
     "city": "Boston",
     "state": "MA",
     "citystate": "MA > Boston",
-    "latitude": 42.3613114,
-    "longitude": -71.0482911,
-    "_geoloc__lat": 42.3613114,
-    "_geoloc__lng": -71.0482911,
     "reviews": {
         "average": 4.2,
         "count": 21
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 42.3613114,
+        "lng": -71.0482911
+    }
 }, {
     "userid": 4509023,
     "firstname": "Shira",
@@ -4419,10 +4419,6 @@
     "city": "Fort Mill",
     "state": "SC",
     "citystate": "SC > Fort Mill",
-    "latitude": 35.018217,
-    "longitude": -80.9318332,
-    "_geoloc__lat": 35.018217,
-    "_geoloc__lng": -80.9318332,
     "packages": [{
         "userid": 4509023,
         "packageid": 103,
@@ -4464,7 +4460,11 @@
         "average": 5,
         "count": 20
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 35.018217,
+        "lng": -80.9318332
+    }
 }, {
     "userid": 13141,
     "firstname": "Steven",
@@ -4476,10 +4476,6 @@
     "city": "Rome",
     "state": "GA",
     "citystate": "GA > Rome",
-    "latitude": 34.2566577,
-    "longitude": -85.1271907,
-    "_geoloc__lat": 34.2566577,
-    "_geoloc__lng": -85.1271907,
     "packages": [{
         "userid": 13141,
         "packageid": 20,
@@ -4497,7 +4493,11 @@
         "average": 3.1,
         "count": 26
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 34.2566577,
+        "lng": -85.1271907
+    }
 }, {
     "userid": 3922268,
     "firstname": "Tammy",
@@ -4509,10 +4509,6 @@
     "city": "Omaha",
     "state": "NE",
     "citystate": "NE > Omaha",
-    "latitude": 41.25,
-    "longitude": -95.93,
-    "_geoloc__lat": 41.25,
-    "_geoloc__lng": -95.93,
     "packages": [{
         "userid": 3922268,
         "packageid": 156,
@@ -4530,7 +4526,11 @@
         "average": 3.3,
         "count": 9
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 41.25,
+        "lng": -95.93
+    }
 }, {
     "userid": 4325697,
     "firstname": "Tanya",
@@ -4542,10 +4542,6 @@
     "city": "Playa Vista",
     "state": "CA",
     "citystate": "CA > Playa Vista",
-    "latitude": 33.9744806,
-    "longitude": -118.4177707,
-    "_geoloc__lat": 33.9744806,
-    "_geoloc__lng": -118.4177707,
     "packages": [{
         "userid": 4325697,
         "packageid": 53,
@@ -4563,7 +4559,11 @@
         "average": 3.5,
         "count": 21
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 33.9744806,
+        "lng": -118.4177707
+    }
 }, {
     "userid": 242898,
     "firstname": "Tara",
@@ -4575,15 +4575,15 @@
     "city": "Kalamazoo",
     "state": "MI",
     "citystate": "MI > Kalamazoo",
-    "latitude": 42.2956109,
-    "longitude": -85.6639168,
-    "_geoloc__lat": 42.2956109,
-    "_geoloc__lng": -85.6639168,
     "reviews": {
         "average": 4.2,
         "count": 8
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 42.2956109,
+        "lng": -85.6639168
+    }
 }, {
     "userid": 5152796,
     "firstname": "Terri",
@@ -4595,10 +4595,6 @@
     "city": "Stone Mountain",
     "state": "GA",
     "citystate": "GA > Stone Mountain",
-    "latitude": 33.7994803,
-    "longitude": -84.1909841,
-    "_geoloc__lat": 33.7994803,
-    "_geoloc__lng": -84.1909841,
     "packages": [{
         "userid": 5152796,
         "packageid": 151,
@@ -4628,7 +4624,11 @@
         "average": 4.8,
         "count": 6
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 33.7994803,
+        "lng": -84.1909841
+    }
 }, {
     "userid": 30134,
     "firstname": "Tico",
@@ -4640,10 +4640,6 @@
     "city": "Woodland",
     "state": "CA",
     "citystate": "CA > Woodland",
-    "latitude": 38.6651725,
-    "longitude": -121.856261,
-    "_geoloc__lat": 38.6651725,
-    "_geoloc__lng": -121.856261,
     "packages": [{
         "userid": 30134,
         "packageid": 24,
@@ -4661,7 +4657,11 @@
         "average": 4.9,
         "count": 6
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 38.6651725,
+        "lng": -121.856261
+    }
 }, {
     "userid": 102761,
     "firstname": "Traci",
@@ -4674,10 +4674,6 @@
     "city": "Waterloo",
     "state": "IA",
     "citystate": "IA > Waterloo",
-    "latitude": 42.4285686,
-    "longitude": -92.3616203,
-    "_geoloc__lat": 42.4285686,
-    "_geoloc__lng": -92.3616203,
     "packages": [{
         "userid": 102761,
         "packageid": 21,
@@ -4695,7 +4691,11 @@
         "average": 4.7,
         "count": 11
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 42.4285686,
+        "lng": -92.3616203
+    }
 }, {
     "userid": 2322584,
     "firstname": "Travis",
@@ -4707,10 +4707,6 @@
     "city": "San Diego",
     "state": "CA",
     "citystate": "CA > San Diego",
-    "latitude": 32.9657005,
-    "longitude": -117.1147095,
-    "_geoloc__lat": 32.9657005,
-    "_geoloc__lng": -117.1147095,
     "packages": [{
         "userid": 2322584,
         "packageid": 67,
@@ -4920,7 +4916,11 @@
         "average": 5,
         "count": 23
     },
-    "gender": "Male"
+    "gender": "Male",
+    "_geoloc": {
+        "lat": 32.9657005,
+        "lng": -117.1147095
+    }
 }, {
     "userid": 50595,
     "firstname": "TyAnn",
@@ -4932,10 +4932,6 @@
     "city": "Dripping Springs",
     "state": "TX",
     "citystate": "TX > Dripping Springs",
-    "latitude": 30.2076538,
-    "longitude": -98.1120116,
-    "_geoloc__lat": 30.2076538,
-    "_geoloc__lng": -98.1120116,
     "packages": [{
         "userid": 50595,
         "packageid": 61,
@@ -4965,7 +4961,11 @@
         "average": 3.5,
         "count": 11
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 30.2076538,
+        "lng": -98.1120116
+    }
 }, {
     "userid": 107030,
     "firstname": "Vickie",
@@ -4977,10 +4977,6 @@
     "city": "Andalusia",
     "state": "AL",
     "citystate": "AL > Andalusia",
-    "latitude": 31.1939511,
-    "longitude": -86.5602614,
-    "_geoloc__lat": 31.1939511,
-    "_geoloc__lng": -86.5602614,
     "packages": [{
         "userid": 107030,
         "packageid": 25,
@@ -4998,7 +4994,11 @@
         "average": 3.6,
         "count": 9
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 31.1939511,
+        "lng": -86.5602614
+    }
 }, {
     "userid": 4157592,
     "firstname": "Vikki",
@@ -5010,10 +5010,6 @@
     "city": "Mission",
     "state": "KS",
     "citystate": "KS > Mission",
-    "latitude": 39.0246739,
-    "longitude": -94.6708709,
-    "_geoloc__lat": 39.0246739,
-    "_geoloc__lng": -94.6708709,
     "packages": [{
         "userid": 4157592,
         "packageid": 45,
@@ -5055,5 +5051,9 @@
         "average": 5,
         "count": 27
     },
-    "gender": "Woman"
+    "gender": "Woman",
+    "_geoloc": {
+        "lat": 39.0246739,
+        "lng": -94.6708709
+    }
 }]

@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>JSON utility converter</title>
+</head>
+<body>
+	<h1>JSON utility converster</h1>
+	<p>A very basic sandbox for utility scripts that add and remove properites to the JSON database for Algolia.</p>
+	<h3>Output</h3>
+	<textarea name="output" id="output" cols="30" rows="10"></textarea>
+
+
+	<script src="algolia_data.json"></script>
+	<!-- JQuery to help speed up writing code -->
+	<script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
+
+
+	<script>
+		/**
+		 *
+		 * Where all the magic happens
+		 *
+		 */
+
+		 // Only works on a server environment
+		 // $.getJSON('algolia_data.json', function (data,err) {
+		 // 	runApp(data);
+		 // });
+
+	 	var startTime, 
+	 		outputArea = document.getElementById('output');
+
+		function renderOutput(data){
+			var finalJSON = JSON.stringify(data);
+
+			console.log(JSON.stringify(data));
+			outputArea.value = finalJSON;
+			console.log( 'finshed in: ' + ( Date.now() - startTime ) + 'ms' );
+		}
+
+		function taskFixGeoProperties(data){
+			startTime = Date.now();
+
+			
+
+			for(var i = 0, l = data.length; i < l; i++){
+				data[i]._geoloc = {
+					lat: data[i].latitude,
+					lng: data[i].longitude
+				}
+				delete data[i].latitude;
+				delete data[i].longitude;
+				delete data[i]._geoloc__lat;
+				delete data[i]._geoloc__lng;
+			}
+
+			renderOutput(data);
+		}
+		
+	</script>
+</body>
+</html>
