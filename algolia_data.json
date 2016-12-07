@@ -1,5 +1,5 @@
 [{
-    "userid": 3960401,
+    "objectID": 3960401,
     "firstname": "Abby",
     "lastname": "Coffin",
     "title": "Director, Advising Center",
@@ -10,7 +10,7 @@
     "state": "KS",
     "citystate": "KS > Lawrence",
     "packages": [{
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 14,
         "session_type": "One-On-One",
         "package_title": "Getting To Know Your Strengths Introductory Session",
@@ -22,7 +22,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 259,
         "session_type": "One-On-One",
         "package_title": "Build A Bridge to Your Future Introductory Session",
@@ -34,7 +34,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 260,
         "session_type": "One-On-One",
         "package_title": "Build A Bridge to Your Future",
@@ -46,7 +46,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 261,
         "session_type": "One-On-One",
         "package_title": "Creating a Culture of Engagement Introductory Session",
@@ -58,7 +58,7 @@
         "specialties": ["Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 262,
         "session_type": "One-On-One",
         "package_title": "Creating A Culture of Engagement",
@@ -80,7 +80,7 @@
         "lng": -95.2658318
     }
 }, {
-    "userid": 4653105,
+    "objectID": 4653105,
     "firstname": "Alison",
     "lastname": "Stokes",
     "title": "L&D Adviser -British Foreign Office",
@@ -91,7 +91,7 @@
     "state": "CO",
     "citystate": "CO > Denver",
     "packages": [{
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 181,
         "session_type": "One-On-One",
         "package_title": "Initial Strength Coaching Session",
@@ -103,7 +103,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 182,
         "session_type": "One-On-One",
         "package_title": "Initial Strength Coaching Session for Executives and Leaders",
@@ -115,7 +115,7 @@
         "specialties": ["Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 183,
         "session_type": "Team",
         "package_title": "Start with Talent- End with Strengths- Half Day",
@@ -127,7 +127,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 184,
         "session_type": "Team",
         "package_title": "Start with Talent- End with Strengths- Full day",
@@ -139,7 +139,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 185,
         "session_type": "One-On-One",
         "package_title": "Individual Coaching Package",
@@ -151,7 +151,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 203,
         "session_type": "One-On-One",
         "package_title": "Executive Coaching Package",
@@ -173,7 +173,7 @@
         "lng": -105.0908147
     }
 }, {
-    "userid": 2334955,
+    "objectID": 2334955,
     "firstname": "Allyn Bader",
     "lastname": "Barclay",
     "title": "Strengths Coach and Consultant",
@@ -184,7 +184,7 @@
     "state": "CO",
     "citystate": "CO > Elizabeth",
     "packages": [{
-        "userid": 2334955,
+        "objectID": 2334955,
         "packageid": 198,
         "session_type": "One-On-One",
         "package_title": "Introduction and Exploration",
@@ -196,7 +196,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2334955,
+        "objectID": 2334955,
         "packageid": 199,
         "session_type": "One-On-One",
         "package_title": "Individual Coaching Package: Three Sessions",
@@ -208,7 +208,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2334955,
+        "objectID": 2334955,
         "packageid": 201,
         "session_type": "Team",
         "package_title": "Introduction to Team Building for Managers and Teams",
@@ -230,7 +230,7 @@
         "lng": -104.6121475
     }
 }, {
-    "userid": 3094939,
+    "objectID": 3094939,
     "firstname": "Ann",
     "lastname": "Harris",
     "title": "Strengths Evangelist",
@@ -241,7 +241,7 @@
     "state": "SC",
     "citystate": "SC > Simpsonville",
     "packages": [{
-        "userid": 3094939,
+        "objectID": 3094939,
         "packageid": 26,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -253,7 +253,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3094939,
+        "objectID": 3094939,
         "packageid": 100,
         "session_type": "Team",
         "package_title": "Team Collaboration Package",
@@ -275,7 +275,7 @@
         "lng": -82.2365981
     }
 }, {
-    "userid": 1179066,
+    "objectID": 1179066,
     "firstname": "Anne",
     "lastname": "Lancaster",
     "title": "CIO",
@@ -286,7 +286,7 @@
     "state": "WA",
     "citystate": "WA > Seattle",
     "packages": [{
-        "userid": 1179066,
+        "objectID": 1179066,
         "packageid": 176,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -308,7 +308,7 @@
         "lng": -122.3425575
     }
 }, {
-    "userid": 75815,
+    "objectID": 75815,
     "firstname": "Barbara",
     "lastname": "Stewart",
     "title": "Founder",
@@ -319,7 +319,7 @@
     "state": "TX",
     "citystate": "TX > Houston",
     "packages": [{
-        "userid": 75815,
+        "objectID": 75815,
         "packageid": 134,
         "session_type": "Team",
         "package_title": "Leading With Your Strengths - Workshops for Teams",
@@ -331,7 +331,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 75815,
+        "objectID": 75815,
         "packageid": 146,
         "session_type": "One-On-One",
         "package_title": "Strengths for Business Owners",
@@ -353,7 +353,7 @@
         "lng": -95.4699173
     }
 }, {
-    "userid": 1896061,
+    "objectID": 1896061,
     "firstname": "Barbara",
     "lastname": "Barber",
     "title": "Certified Gallup Strengths coach",
@@ -364,7 +364,7 @@
     "state": "IL",
     "citystate": "IL > Forsyth",
     "packages": [{
-        "userid": 1896061,
+        "objectID": 1896061,
         "packageid": 27,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -386,7 +386,7 @@
         "lng": -88.9653226
     }
 }, {
-    "userid": 433669,
+    "objectID": 433669,
     "firstname": "Beth",
     "lastname": "Hoffberg",
     "title": "Coach",
@@ -397,7 +397,7 @@
     "state": "NC",
     "citystate": "NC > Charlotte",
     "packages": [{
-        "userid": 433669,
+        "objectID": 433669,
         "packageid": 265,
         "session_type": "One-On-One",
         "package_title": "Using Your Top 5 Strengths - 90 Minute Session",
@@ -409,7 +409,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 433669,
+        "objectID": 433669,
         "packageid": 266,
         "session_type": "Team",
         "package_title": "Couples Strengths Coaching (6 sessions)",
@@ -421,7 +421,7 @@
         "specialties": ["Life Coach", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 433669,
+        "objectID": 433669,
         "packageid": 267,
         "session_type": "One-On-One",
         "package_title": "Strengths Based Career Coaching",
@@ -443,7 +443,7 @@
         "lng": -80.8599193
     }
 }, {
-    "userid": 3733170,
+    "objectID": 3733170,
     "firstname": "Bethany",
     "lastname": "Warburton",
     "title": "Principle Consultant",
@@ -454,7 +454,7 @@
     "state": "RI",
     "citystate": "RI > East Greenwich",
     "packages": [{
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 363,
         "session_type": "One-On-One",
         "package_title": "Individual Top 5 Deep Dive",
@@ -466,7 +466,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 364,
         "session_type": "Team",
         "package_title": "Team Building Session",
@@ -478,7 +478,7 @@
         "specialties": ["Consulting Team", "Leadership", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 365,
         "session_type": "One-On-One",
         "package_title": "Manager Deep Dive",
@@ -490,7 +490,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 366,
         "session_type": "Team",
         "package_title": "Organizational Transformation and Performance Management",
@@ -502,7 +502,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 367,
         "session_type": "One-On-One",
         "package_title": "Students and Families",
@@ -514,7 +514,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 368,
         "session_type": "One-On-One",
         "package_title": "Veterans Discount - One on One Top 5 Strengths Deep Dive",
@@ -536,7 +536,7 @@
         "lng": -71.4893013
     }
 }, {
-    "userid": 86104,
+    "objectID": 86104,
     "firstname": "Bob",
     "lastname": "Meyer",
     "title": "CEO",
@@ -556,7 +556,7 @@
         "lng": -95.4201377
     }
 }, {
-    "userid": 4627815,
+    "objectID": 4627815,
     "firstname": "Brenda",
     "lastname": "Worley",
     "title": "Gallup Certified Strengths Coach",
@@ -567,7 +567,7 @@
     "state": "TX",
     "citystate": "TX > Fort Worth",
     "packages": [{
-        "userid": 4627815,
+        "objectID": 4627815,
         "packageid": 250,
         "session_type": "One-On-One",
         "package_title": "Introductory Coaching Session",
@@ -579,7 +579,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4627815,
+        "objectID": 4627815,
         "packageid": 251,
         "session_type": "Team",
         "package_title": "Build a Strong Positive Culture of Engagement",
@@ -601,7 +601,7 @@
         "lng": -97.3246534
     }
 }, {
-    "userid": 957626,
+    "objectID": 957626,
     "firstname": "Brent",
     "lastname": "O'Bannon",
     "title": "Global Strengths Champion Coach",
@@ -612,7 +612,7 @@
     "state": "TX",
     "citystate": "TX > Sherman",
     "packages": [{
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 149,
         "session_type": "Team",
         "package_title": "1 Day Leading Strengths Team Coaching",
@@ -624,7 +624,7 @@
         "specialties": ["Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 159,
         "session_type": "One-On-One",
         "package_title": "3 Month Breakthrough With Strengths Coaching Package",
@@ -636,7 +636,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 160,
         "session_type": "One-On-One",
         "package_title": "3 Session Breakthrough With Strengths Coaching Package",
@@ -648,7 +648,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 161,
         "session_type": "One-On-One",
         "package_title": "6 Month Strengths Champion Train the Trainer Program",
@@ -670,7 +670,7 @@
         "lng": -96.7279918
     }
 }, {
-    "userid": 4916037,
+    "objectID": 4916037,
     "firstname": "Brodie",
     "lastname": "Theis",
     "title": "Principal Consultant",
@@ -690,7 +690,7 @@
         "lng": -84.4540213
     }
 }, {
-    "userid": 4864019,
+    "objectID": 4864019,
     "firstname": "Bruce",
     "lastname": "MacFadyen",
     "title": "CEO",
@@ -701,7 +701,7 @@
     "state": "TX",
     "citystate": "TX > Dallas",
     "packages": [{
-        "userid": 4864019,
+        "objectID": 4864019,
         "packageid": 227,
         "session_type": "One-On-One",
         "package_title": "Introductory Session for Executive and Manager Coaching",
@@ -723,7 +723,7 @@
         "lng": -96.7761686
     }
 }, {
-    "userid": 323737,
+    "objectID": 323737,
     "firstname": "Buddy",
     "lastname": "Fichera",
     "title": "CEO/Executive Coach",
@@ -743,7 +743,7 @@
         "lng": -97.681943
     }
 }, {
-    "userid": 80901,
+    "objectID": 80901,
     "firstname": "Carol",
     "lastname": "Bellini",
     "title": "Leadership and Strengths Coach",
@@ -754,7 +754,7 @@
     "state": "VA",
     "citystate": "VA > Vienna",
     "packages": [{
-        "userid": 80901,
+        "objectID": 80901,
         "packageid": 55,
         "session_type": "Team",
         "package_title": "StrengthsFinder for Leaders & Teams",
@@ -776,7 +776,7 @@
         "lng": -77.2979782
     }
 }, {
-    "userid": 745464,
+    "objectID": 745464,
     "firstname": "Carol",
     "lastname": "Rizzolo",
     "title": "Personal and Executive Coach",
@@ -787,7 +787,7 @@
     "state": "CT",
     "citystate": "CT > Guilford",
     "packages": [{
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 147,
         "session_type": "One-On-One",
         "package_title": "WOMEN EXPLORING CHANGE",
@@ -799,7 +799,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 148,
         "session_type": "One-On-One",
         "package_title": "HOUSTON WE HAVE CONTACT! NAVIGATING A SUCCESSFUL COLLEGE LAUNCH PROCESS FOR HIGH SCHOOL SENIORS AND THEIR FAMILIES",
@@ -811,7 +811,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 177,
         "session_type": "One-On-One",
         "package_title": "CREATING AN EXCITING AND DYNAMIC RETIREMENT!",
@@ -823,7 +823,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 178,
         "session_type": "One-On-One",
         "package_title": "CHANGE AHEAD! : NAVIGATING LIFE\"S TRANSITIONS",
@@ -835,7 +835,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 179,
         "session_type": "One-On-One",
         "package_title": "COACHING FOR THE COMPASSIONATE CAREGIVER",
@@ -847,7 +847,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 351,
         "session_type": "One-On-One",
         "package_title": "CREATING THE FUTURE OF YOUR DREAMS!",
@@ -869,7 +869,7 @@
         "lng": -72.6978931
     }
 }, {
-    "userid": 579493,
+    "objectID": 579493,
     "firstname": "Chuck",
     "lastname": "Jackson",
     "title": "Gallup Certified Coach",
@@ -880,7 +880,7 @@
     "state": "AZ",
     "citystate": "AZ > Cave Creek",
     "packages": [{
-        "userid": 579493,
+        "objectID": 579493,
         "packageid": 162,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -892,7 +892,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 579493,
+        "objectID": 579493,
         "packageid": 163,
         "session_type": "One-On-One",
         "package_title": "Private Coaching Session",
@@ -904,7 +904,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 579493,
+        "objectID": 579493,
         "packageid": 281,
         "session_type": "One-On-One",
         "package_title": "Private Coaching - 6 Sessions",
@@ -926,7 +926,7 @@
         "lng": -111.9284017
     }
 }, {
-    "userid": 4603259,
+    "objectID": 4603259,
     "firstname": "Cindi",
     "lastname": "Basenspiler",
     "title": "Strengths-Coach, Managing Director",
@@ -937,7 +937,7 @@
     "state": "NC",
     "citystate": "NC > Charlotte",
     "packages": [{
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 303,
         "session_type": "One-On-One",
         "package_title": "60-Days of Transition Coaching - Your Life. Better Than Ever.",
@@ -949,7 +949,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 304,
         "session_type": "One-On-One",
         "package_title": "60-Days of Executive Coaching - Your Life. Better Than Ever.",
@@ -961,7 +961,7 @@
         "specialties": ["Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 305,
         "session_type": "Team",
         "package_title": "3-Hour Workshop: Building Strong Teams (Includes StrengthFinder and Q-12 Team Engagement Assessments for up to 8)",
@@ -973,7 +973,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 306,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -995,7 +995,7 @@
         "lng": -80.8211696
     }
 }, {
-    "userid": 112313,
+    "objectID": 112313,
     "firstname": "Cindy",
     "lastname": "Baldwin",
     "title": "Coach",
@@ -1015,7 +1015,7 @@
         "lng": -149.8902415
     }
 }, {
-    "userid": 2043761,
+    "objectID": 2043761,
     "firstname": "Cindy",
     "lastname": "Jackson",
     "title": "Coach & HR Consultant",
@@ -1026,7 +1026,7 @@
     "state": "WI",
     "citystate": "WI > South Milwaukee",
     "packages": [{
-        "userid": 2043761,
+        "objectID": 2043761,
         "packageid": 141,
         "session_type": "One-On-One",
         "package_title": "Reaching Your Best Self With Strengths",
@@ -1038,7 +1038,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2043761,
+        "objectID": 2043761,
         "packageid": 142,
         "session_type": "Team",
         "package_title": "Building Team Effectiveness Through Strengths Partnerships",
@@ -1060,7 +1060,7 @@
         "lng": -87.8647961
     }
 }, {
-    "userid": 4258697,
+    "objectID": 4258697,
     "firstname": "Cindy",
     "lastname": "Mitchell",
     "title": "Coach",
@@ -1071,7 +1071,7 @@
     "state": "TX",
     "citystate": "TX > Aubrey",
     "packages": [{
-        "userid": 4258697,
+        "objectID": 4258697,
         "packageid": 347,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1083,7 +1083,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4258697,
+        "objectID": 4258697,
         "packageid": 348,
         "session_type": "Team",
         "package_title": "Strengths Based Teams",
@@ -1105,7 +1105,7 @@
         "lng": -96.9853474
     }
 }, {
-    "userid": 3955217,
+    "objectID": 3955217,
     "firstname": "Corrie",
     "lastname": "Greathouse Sloan",
     "title": "Founder and President",
@@ -1116,7 +1116,7 @@
     "state": "CA",
     "citystate": "CA > Los Angeles",
     "packages": [{
-        "userid": 3955217,
+        "objectID": 3955217,
         "packageid": 105,
         "session_type": "One-On-One",
         "package_title": "Recovery",
@@ -1138,7 +1138,7 @@
         "lng": -118.3875775
     }
 }, {
-    "userid": 94576,
+    "objectID": 94576,
     "firstname": "Craig",
     "lastname": "Tucker",
     "title": "Business Leader and Strengths Coach",
@@ -1149,7 +1149,7 @@
     "state": "GA",
     "citystate": "GA > Marietta",
     "packages": [{
-        "userid": 94576,
+        "objectID": 94576,
         "packageid": 189,
         "session_type": "One-On-One",
         "package_title": "Transitioning to a New Role or Team",
@@ -1161,7 +1161,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 94576,
+        "objectID": 94576,
         "packageid": 240,
         "session_type": "One-On-One",
         "package_title": "Strengths Journey - Self Awareness and Leadership for Managers",
@@ -1173,7 +1173,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 94576,
+        "objectID": 94576,
         "packageid": 255,
         "session_type": "One-On-One",
         "package_title": "Understanding and Utilizing your Strengths",
@@ -1195,7 +1195,7 @@
         "lng": -84.5955732
     }
 }, {
-    "userid": 1036117,
+    "objectID": 1036117,
     "firstname": "Dan",
     "lastname": "Burns",
     "title": "Certified Leadership Coach",
@@ -1206,7 +1206,7 @@
     "state": "WI",
     "citystate": "WI > Eau Claire",
     "packages": [{
-        "userid": 1036117,
+        "objectID": 1036117,
         "packageid": 22,
         "session_type": "One-On-One",
         "package_title": "Initial Session: Explore Your Leadership and Coaching Direction",
@@ -1218,7 +1218,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1036117,
+        "objectID": 1036117,
         "packageid": 228,
         "session_type": "One-On-One",
         "package_title": "Transformational Leadership Coaching",
@@ -1240,7 +1240,7 @@
         "lng": -91.5015009
     }
 }, {
-    "userid": 3677710,
+    "objectID": 3677710,
     "firstname": "Danielle",
     "lastname": "Smith",
     "title": "Certified Strengths Coach",
@@ -1251,7 +1251,7 @@
     "state": "NE",
     "citystate": "NE > Omaha",
     "packages": [{
-        "userid": 3677710,
+        "objectID": 3677710,
         "packageid": 42,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1263,7 +1263,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3677710,
+        "objectID": 3677710,
         "packageid": 43,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1285,7 +1285,7 @@
         "lng": -95.9938339
     }
 }, {
-    "userid": 12900,
+    "objectID": 12900,
     "firstname": "David",
     "lastname": "Gurian",
     "title": "Principal Consultant and Coach",
@@ -1296,7 +1296,7 @@
     "state": "MO",
     "citystate": "MO > St. Louis",
     "packages": [{
-        "userid": 12900,
+        "objectID": 12900,
         "packageid": 195,
         "session_type": "One-On-One",
         "package_title": "Strengths-Based Leadership Coaching",
@@ -1308,7 +1308,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 12900,
+        "objectID": 12900,
         "packageid": 196,
         "session_type": "One-On-One",
         "package_title": "Senior Leader Coaching",
@@ -1320,7 +1320,7 @@
         "specialties": ["Executive Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 12900,
+        "objectID": 12900,
         "packageid": 197,
         "session_type": "One-On-One",
         "package_title": "9 Step Organizational Culture",
@@ -1342,7 +1342,7 @@
         "lng": -90.3513021
     }
 }, {
-    "userid": 654682,
+    "objectID": 654682,
     "firstname": "David",
     "lastname": "Schleif",
     "title": "Gallup Certified Strengths Coach",
@@ -1353,7 +1353,7 @@
     "state": "WI",
     "citystate": "WI > West Bend",
     "packages": [{
-        "userid": 654682,
+        "objectID": 654682,
         "packageid": 362,
         "session_type": "Team",
         "package_title": "Creating Strength In Technical Teams",
@@ -1365,7 +1365,7 @@
         "specialties": ["Leadership", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 654682,
+        "objectID": 654682,
         "packageid": 369,
         "session_type": "Team",
         "package_title": "Understanding Talents and Strengths",
@@ -1377,7 +1377,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 654682,
+        "objectID": 654682,
         "packageid": 370,
         "session_type": "One-On-One",
         "package_title": "Introductory Session - The Clifton StrengthsFinder",
@@ -1399,7 +1399,7 @@
         "lng": -88.148657
     }
 }, {
-    "userid": 348100,
+    "objectID": 348100,
     "firstname": "Dian",
     "lastname": "Christian",
     "title": "owner",
@@ -1419,7 +1419,7 @@
         "lng": -78.6228504
     }
 }, {
-    "userid": 49924,
+    "objectID": 49924,
     "firstname": "Eugene",
     "lastname": "Taylor",
     "title": "Owner / President",
@@ -1430,7 +1430,7 @@
     "state": "MO",
     "citystate": "MO > St. Louis",
     "packages": [{
-        "userid": 49924,
+        "objectID": 49924,
         "packageid": 13,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (Top 5 Themes)",
@@ -1442,7 +1442,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 49924,
+        "objectID": 49924,
         "packageid": 138,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (All 34 Themes)",
@@ -1454,7 +1454,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 49924,
+        "objectID": 49924,
         "packageid": 139,
         "session_type": "One-On-One",
         "package_title": "Advanced StrengthsFinder 2.0 (Top 5 Themes)",
@@ -1476,7 +1476,7 @@
         "lng": -90.4596721
     }
 }, {
-    "userid": 4524298,
+    "objectID": 4524298,
     "firstname": "Fiona",
     "lastname": "Grant",
     "title": "FJ Grant Coaching & Consulting",
@@ -1487,7 +1487,7 @@
     "state": "MD",
     "citystate": "MD > Washington DC Metro",
     "packages": [{
-        "userid": 4524298,
+        "objectID": 4524298,
         "packageid": 172,
         "session_type": "One-On-One",
         "package_title": "Executive Energy Reboot - Where did my mojo go?",
@@ -1499,7 +1499,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4524298,
+        "objectID": 4524298,
         "packageid": 190,
         "session_type": "One-On-One",
         "package_title": "Diversity Leadership - Creating and Maintaining Momentum",
@@ -1521,7 +1521,7 @@
         "lng": -77.1370115
     }
 }, {
-    "userid": 573461,
+    "objectID": 573461,
     "firstname": "George A",
     "lastname": "Garza",
     "title": "Engagement and Strengths Consultant",
@@ -1531,7 +1531,7 @@
     "city": "San Antonio",
     "state": "TX",
     "packages": [{
-        "userid": 573461,
+        "objectID": 573461,
         "packageid": 23,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1553,7 +1553,7 @@
         "lng": -98.6105703
     }
 }, {
-    "userid": 4605644,
+    "objectID": 4605644,
     "firstname": "Greg",
     "lastname": "Hessel",
     "title": "Principal",
@@ -1564,7 +1564,7 @@
     "state": "VT",
     "citystate": "VT > Brattleboro",
     "packages": [{
-        "userid": 4605644,
+        "objectID": 4605644,
         "packageid": 342,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1586,7 +1586,7 @@
         "lng": -72.561284
     }
 }, {
-    "userid": 2611682,
+    "objectID": 2611682,
     "firstname": "Heather",
     "lastname": "Nicole",
     "title": "Leadership Development Professional",
@@ -1606,7 +1606,7 @@
         "lng": -86.0631561
     }
 }, {
-    "userid": 1525387,
+    "objectID": 1525387,
     "firstname": "Henriet",
     "lastname": "Schapelhouman",
     "title": "President",
@@ -1617,7 +1617,7 @@
     "state": "WA",
     "citystate": "WA > Redmond",
     "packages": [{
-        "userid": 1525387,
+        "objectID": 1525387,
         "packageid": 334,
         "session_type": "One-On-One",
         "package_title": "Initial coaching session",
@@ -1629,7 +1629,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "DUTCH, ENGLISH-AMERICAN"
     }, {
-        "userid": 1525387,
+        "objectID": 1525387,
         "packageid": 335,
         "session_type": "One-On-One",
         "package_title": "Informational and Introductory Session",
@@ -1651,7 +1651,7 @@
         "lng": -122.0243323
     }
 }, {
-    "userid": 30880,
+    "objectID": 30880,
     "firstname": "Henry",
     "lastname": "Lescault",
     "title": "Behavioral Change Coach",
@@ -1671,7 +1671,7 @@
         "lng": -77.3266991
     }
 }, {
-    "userid": 4821468,
+    "objectID": 4821468,
     "firstname": "Jamie",
     "lastname": "Douraghy",
     "title": "Founder",
@@ -1682,7 +1682,7 @@
     "state": "CA",
     "citystate": "CA > Los Angeles",
     "packages": [{
-        "userid": 4821468,
+        "objectID": 4821468,
         "packageid": 349,
         "session_type": "One-On-One",
         "package_title": "Introductory Session to understand how to build on your strengths",
@@ -1694,7 +1694,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4821468,
+        "objectID": 4821468,
         "packageid": 350,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -1716,7 +1716,7 @@
         "lng": -118.4484367
     }
 }, {
-    "userid": 831929,
+    "objectID": 831929,
     "firstname": "Jan",
     "lastname": "Makela",
     "title": "Gallup Certified Coach",
@@ -1727,7 +1727,7 @@
     "state": "MD",
     "citystate": "MD > Ellicott City",
     "packages": [{
-        "userid": 831929,
+        "objectID": 831929,
         "packageid": 356,
         "session_type": "Team",
         "package_title": "Strength Based Leadership for Organizations and Teams",
@@ -1749,7 +1749,7 @@
         "lng": -76.8951551
     }
 }, {
-    "userid": 355273,
+    "objectID": 355273,
     "firstname": "Jayne",
     "lastname": "Jenkins",
     "title": "Executive PCC & Strengths Coach",
@@ -1760,7 +1760,7 @@
     "state": "FL",
     "citystate": "FL > Tampa",
     "packages": [{
-        "userid": 355273,
+        "objectID": 355273,
         "packageid": 37,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1782,7 +1782,7 @@
         "lng": -82.5889012
     }
 }, {
-    "userid": 4517216,
+    "objectID": 4517216,
     "firstname": "Jeanmarie",
     "lastname": "Zabilowicz",
     "title": "Strengths Coach and HR Consultant",
@@ -1793,7 +1793,7 @@
     "state": "FL",
     "citystate": "FL > Tampa Bay",
     "packages": [{
-        "userid": 4517216,
+        "objectID": 4517216,
         "packageid": 32,
         "session_type": "One-On-One",
         "package_title": "Leveraging Your Strengths for Peak Performance in Life, Work and Relationships",
@@ -1815,7 +1815,7 @@
         "lng": -82.4969331
     }
 }, {
-    "userid": 211326,
+    "objectID": 211326,
     "firstname": "Jennifer",
     "lastname": "Selke",
     "title": "Summer Camp Dir/Faculty UC Berkeley",
@@ -1826,7 +1826,7 @@
     "state": "CA",
     "citystate": "CA > Berkeley",
     "packages": [{
-        "userid": 211326,
+        "objectID": 211326,
         "packageid": 15,
         "session_type": "One-On-One",
         "package_title": "How to Use Your Strengths to Forward Your Career",
@@ -1838,7 +1838,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 211326,
+        "objectID": 211326,
         "packageid": 180,
         "session_type": "One-On-One",
         "package_title": "How to Apply Your StrengthsFinder Results to Your Life",
@@ -1860,7 +1860,7 @@
         "lng": -122.1178261
     }
 }, {
-    "userid": 532727,
+    "objectID": 532727,
     "firstname": "Jennifer",
     "lastname": "Miller",
     "title": "Coach",
@@ -1880,7 +1880,7 @@
         "lng": -95.5302337
     }
 }, {
-    "userid": 4250268,
+    "objectID": 4250268,
     "firstname": "Jennifer",
     "lastname": "McNelly",
     "title": "Executive Director",
@@ -1891,7 +1891,7 @@
     "state": "DC",
     "citystate": "DC > Washington",
     "packages": [{
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 293,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (Introductory Session)",
@@ -1903,7 +1903,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 295,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (3 Coaching Sessions)",
@@ -1915,7 +1915,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 296,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (6 Coaching Sessions)",
@@ -1927,7 +1927,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 297,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (12 Coaching Sessions)",
@@ -1939,7 +1939,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 300,
         "session_type": "Team",
         "package_title": "Advancing Women in Manufacturing (Up 25 individuals)",
@@ -1951,7 +1951,7 @@
         "specialties": ["Career", "Executive Coach", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 301,
         "session_type": "Team",
         "package_title": "Advancing Women in Manufacturing (Up 100 individuals)",
@@ -1963,7 +1963,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 302,
         "session_type": "Team",
         "package_title": "Advancing Women in Manufacturing (Up 300 individuals)",
@@ -1985,7 +1985,7 @@
         "lng": -77.0190228
     }
 }, {
-    "userid": 4384428,
+    "objectID": 4384428,
     "firstname": "Jennifer",
     "lastname": "Brockhoff",
     "title": "Director - Human Resources",
@@ -2005,7 +2005,7 @@
         "lng": -85.5715015
     }
 }, {
-    "userid": 1962566,
+    "objectID": 1962566,
     "firstname": "Jim",
     "lastname": "Supple",
     "title": "Coach and Consultant",
@@ -2025,7 +2025,7 @@
         "lng": -70.8892886
     }
 }, {
-    "userid": 168564,
+    "objectID": 168564,
     "firstname": "Joan",
     "lastname": "Nosal",
     "title": "Executive Coach",
@@ -2036,7 +2036,7 @@
     "state": "OH",
     "citystate": "OH > Chagrin Falls",
     "packages": [{
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 319,
         "session_type": "One-On-One",
         "package_title": "Exam your full 34 Strengths",
@@ -2048,7 +2048,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 320,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -2060,7 +2060,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 321,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -2072,7 +2072,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 322,
         "session_type": "One-On-One",
         "package_title": "Strengths Coaching Executive Package",
@@ -2084,7 +2084,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 336,
         "session_type": "One-On-One",
         "package_title": "Develop Talents into Strengths 6 week Package",
@@ -2106,7 +2106,7 @@
         "lng": -81.2739073
     }
 }, {
-    "userid": 3483698,
+    "objectID": 3483698,
     "firstname": "John",
     "lastname": "Augusto, Ph.D.",
     "title": "Gallup Certified Strengths Coach",
@@ -2117,7 +2117,7 @@
     "state": "KS",
     "citystate": "KS > Lawrence",
     "packages": [{
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 231,
         "session_type": "One-On-One",
         "package_title": "Well Being: Get started",
@@ -2129,7 +2129,7 @@
         "specialties": ["Career", "Executive Coach", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 232,
         "session_type": "One-On-One",
         "package_title": "Well Being: Claim Your Strengths",
@@ -2141,7 +2141,7 @@
         "specialties": ["Career", "Executive Coach", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 234,
         "session_type": "One-On-One",
         "package_title": "Living Your Strengths",
@@ -2153,7 +2153,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 235,
         "session_type": "One-On-One",
         "package_title": "Living Your Strengths",
@@ -2165,7 +2165,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 248,
         "session_type": "Team",
         "package_title": "Keynote & Coaching Session",
@@ -2177,7 +2177,7 @@
         "specialties": ["Career", "Leadership", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 268,
         "session_type": "One-On-One",
         "package_title": "Lead with Strengths",
@@ -2199,7 +2199,7 @@
         "lng": -95.3730176
     }
 }, {
-    "userid": 1779271,
+    "objectID": 1779271,
     "firstname": "Josh",
     "lastname": "Kester",
     "title": "Independent Coach",
@@ -2210,7 +2210,7 @@
     "state": "IA",
     "citystate": "IA > Des Moines",
     "packages": [{
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 29,
         "session_type": "Team",
         "package_title": "Team Session",
@@ -2222,7 +2222,7 @@
         "specialties": ["Career", "Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 109,
         "session_type": "Team",
         "package_title": "Keynote Presentation",
@@ -2234,7 +2234,7 @@
         "specialties": ["Career", "Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 110,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -2246,7 +2246,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 111,
         "session_type": "One-On-One",
         "package_title": "Career Exploration",
@@ -2258,7 +2258,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 112,
         "session_type": "Team",
         "package_title": "How to Coach Your Team",
@@ -2270,7 +2270,7 @@
         "specialties": ["Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 113,
         "session_type": "One-On-One",
         "package_title": "Becoming A Strengths Organization",
@@ -2292,7 +2292,7 @@
         "lng": -93.7333537
     }
 }, {
-    "userid": 71944,
+    "objectID": 71944,
     "firstname": "Judy",
     "lastname": "Bertotto",
     "title": "Strengths Lady   Discovery Coach",
@@ -2303,7 +2303,7 @@
     "state": "NJ",
     "citystate": "NJ > Cape May",
     "packages": [{
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 210,
         "session_type": "One-On-One",
         "package_title": "What is Your Personal Brand of excellence? Can You Describe What You Bring? Discover What Your Stengths Are.",
@@ -2315,7 +2315,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 211,
         "session_type": "One-On-One",
         "package_title": "Apply Your Strengths - Amplify Your Brand - How Can You Effectively Use Your Strengths?",
@@ -2327,7 +2327,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 212,
         "session_type": "One-On-One",
         "package_title": "Discover/Unpack/Learn and then Apply/Use Your Strengths",
@@ -2339,7 +2339,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 213,
         "session_type": "Team",
         "package_title": "Team Dynamics - Consultation - Strengths-based Development Proven to Positively Impact: Engagement, Profit, Safety, Sales, Turnover",
@@ -2351,7 +2351,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 230,
         "session_type": "One-On-One",
         "package_title": "Gift Package - Give the gift of Strengths - Self-Awareness - Confidence - Development - to someone - Graduation, life transition",
@@ -2363,7 +2363,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 236,
         "session_type": "One-On-One",
         "package_title": "Be the Best Version of You - You are 1 in 33 million - Positively Impact Your Quality of Life/Well-being",
@@ -2375,7 +2375,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 257,
         "session_type": "One-On-One",
         "package_title": "What is Your Brand? Personalized Elevator Speech? LinkedIn Profile? Resume Info?",
@@ -2397,7 +2397,7 @@
         "lng": -74.9091853
     }
 }, {
-    "userid": 259524,
+    "objectID": 259524,
     "firstname": "Karen",
     "lastname": "Biebuyck",
     "title": "Founder, Principal Consultant",
@@ -2417,7 +2417,7 @@
         "lng": -83.1327332
     }
 }, {
-    "userid": 913871,
+    "objectID": 913871,
     "firstname": "Kathie",
     "lastname": "Gautille",
     "title": "Strengths Coach",
@@ -2428,7 +2428,7 @@
     "state": "TX",
     "citystate": "TX > Coppell",
     "packages": [{
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 116,
         "session_type": "One-On-One",
         "package_title": "You have taken the CliftonStrengths Assessment...now what?",
@@ -2440,7 +2440,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 117,
         "session_type": "One-On-One",
         "package_title": "GOT GOALS?  Goal setting session -- Two hour coaching session",
@@ -2452,7 +2452,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 118,
         "session_type": "One-On-One",
         "package_title": "Strengths Discovery & Goal Setting -- (2) Two hours sessions",
@@ -2464,7 +2464,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 119,
         "session_type": "Team",
         "package_title": "Growing an Engaged Team -- Team Building for performance & results!",
@@ -2476,7 +2476,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 120,
         "session_type": "One-On-One",
         "package_title": "Changing the career course with confidence!    CAREER COACHING",
@@ -2488,7 +2488,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 121,
         "session_type": "Team",
         "package_title": "Celebrating the unique beauty within every woman -- Women of faith",
@@ -2510,7 +2510,7 @@
         "lng": -96.9960925
     }
 }, {
-    "userid": 678611,
+    "objectID": 678611,
     "firstname": "Kathy",
     "lastname": "Kersten",
     "title": "CEO",
@@ -2521,7 +2521,7 @@
     "state": "TX",
     "citystate": "TX > San Antonio",
     "packages": [{
-        "userid": 678611,
+        "objectID": 678611,
         "packageid": 102,
         "session_type": "Team",
         "package_title": "Strengths Session for High-Growth, High Impact Teams",
@@ -2543,7 +2543,7 @@
         "lng": -98.4568128
     }
 }, {
-    "userid": 1426287,
+    "objectID": 1426287,
     "firstname": "Katie",
     "lastname": "Christy",
     "title": "Gallup Certified Strengths Coach",
@@ -2554,7 +2554,7 @@
     "state": "NC",
     "citystate": "NC > Raleigh",
     "packages": [{
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 318,
         "session_type": "Team",
         "package_title": "Finding and Flexing Your Strengths",
@@ -2566,7 +2566,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 323,
         "session_type": "Team",
         "package_title": "Forming Powerful Partnerships",
@@ -2578,7 +2578,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 324,
         "session_type": "Team",
         "package_title": "Johari Window Strengths Session",
@@ -2590,7 +2590,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 325,
         "session_type": "Team",
         "package_title": "Theme Dynamics Strengths Session",
@@ -2602,7 +2602,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 326,
         "session_type": "Team",
         "package_title": "Raw/Refined Strengths Session",
@@ -2614,7 +2614,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 327,
         "session_type": "Team",
         "package_title": "Strong Enough",
@@ -2626,7 +2626,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 328,
         "session_type": "Team",
         "package_title": "Making Happiness a Habit",
@@ -2638,7 +2638,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 329,
         "session_type": "Team",
         "package_title": "Strengths-Based Vision Board",
@@ -2650,7 +2650,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 330,
         "session_type": "Team",
         "package_title": "Strengths-Based Goal Setting",
@@ -2662,7 +2662,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 331,
         "session_type": "One-On-One",
         "package_title": "Harnessing the Power of the StrengthsFinder Assessment",
@@ -2674,7 +2674,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 332,
         "session_type": "One-On-One",
         "package_title": "Strengths-Based Parenting",
@@ -2686,7 +2686,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 333,
         "session_type": "Team",
         "package_title": "ACTIVATE- a corporate wellness program",
@@ -2708,7 +2708,7 @@
         "lng": -79.3690831
     }
 }, {
-    "userid": 2867908,
+    "objectID": 2867908,
     "firstname": "Katie",
     "lastname": "McCloskey",
     "title": "Strengths Coach & HR Consultant",
@@ -2719,7 +2719,7 @@
     "state": "WI",
     "citystate": "WI > Sun Prairie",
     "packages": [{
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 150,
         "session_type": "One-On-One",
         "package_title": "Students:  High School, College or Recent Grads confused about \"What\"s Next\" or  \"How\" to get there? (Starter Package)",
@@ -2731,7 +2731,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 214,
         "session_type": "One-On-One",
         "package_title": "Job Transition: Seeking a Dream Job or Next Promotion?,  Not Sure What\"s Next? (Starter Package)",
@@ -2743,7 +2743,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 215,
         "session_type": "One-On-One",
         "package_title": "Transition Back Into the Workforce (Starter Package)",
@@ -2755,7 +2755,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 216,
         "session_type": "One-On-One",
         "package_title": "Improving Work Performance: Moving From Struggling to Successful",
@@ -2767,7 +2767,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 217,
         "session_type": "One-On-One",
         "package_title": "Improve Your Leadership Skills: Executives, Managers, Supervisors, & Aspiring Leaders",
@@ -2779,7 +2779,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 218,
         "session_type": "Team",
         "package_title": "Cultivating  a Strengths-Based Culture: Team Building Kick Off",
@@ -2791,7 +2791,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 220,
         "session_type": "Team",
         "package_title": "Quick Overview for Teams",
@@ -2813,7 +2813,7 @@
         "lng": -89.189643
     }
 }, {
-    "userid": 2702354,
+    "objectID": 2702354,
     "firstname": "Kim",
     "lastname": "Keefer",
     "title": "Furman University, Shucker Center",
@@ -2824,7 +2824,7 @@
     "state": "SC",
     "citystate": "SC > Greenville",
     "packages": [{
-        "userid": 2702354,
+        "objectID": 2702354,
         "packageid": 312,
         "session_type": "Team",
         "package_title": "Leaders BUILD Great Teams!",
@@ -2846,7 +2846,7 @@
         "lng": -82.4353271
     }
 }, {
-    "userid": 1957828,
+    "objectID": 1957828,
     "firstname": "Kimberly",
     "lastname": "Taylor",
     "title": "Vice President",
@@ -2857,7 +2857,7 @@
     "state": "MO",
     "citystate": "MO > St. Louis",
     "packages": [{
-        "userid": 1957828,
+        "objectID": 1957828,
         "packageid": 135,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (Top 5 Themes)",
@@ -2869,7 +2869,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1957828,
+        "objectID": 1957828,
         "packageid": 136,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (All 34 Themes)",
@@ -2881,7 +2881,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1957828,
+        "objectID": 1957828,
         "packageid": 137,
         "session_type": "One-On-One",
         "package_title": "Advanced StrengthsFinder 2.0 (Top 5 Themes)",
@@ -2903,7 +2903,7 @@
         "lng": -90.4596721
     }
 }, {
-    "userid": 4687439,
+    "objectID": 4687439,
     "firstname": "Kirsten",
     "lastname": "Cavendish",
     "title": "CEO",
@@ -2914,7 +2914,7 @@
     "state": "CA",
     "citystate": "CA > Santa Barbara",
     "packages": [{
-        "userid": 4687439,
+        "objectID": 4687439,
         "packageid": 238,
         "session_type": "Team",
         "package_title": "Team Strengths coaching, from the people who advise many of the worlds most admired brands",
@@ -2926,7 +2926,7 @@
         "specialties": ["Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4687439,
+        "objectID": 4687439,
         "packageid": 239,
         "session_type": "One-On-One",
         "package_title": "Personal strengths coaching, from the people who advise many of the worlds most admired brands",
@@ -2948,7 +2948,7 @@
         "lng": -119.6151426
     }
 }, {
-    "userid": 2225913,
+    "objectID": 2225913,
     "firstname": "Kristen",
     "lastname": "Suro",
     "title": "Strengths Development Coach, Strengths Consultant",
@@ -2959,7 +2959,7 @@
     "state": "MN",
     "citystate": "MN > Stillwater",
     "packages": [{
-        "userid": 2225913,
+        "objectID": 2225913,
         "packageid": 64,
         "session_type": "One-On-One",
         "package_title": "Who are you in Strength? Individual session.",
@@ -2971,7 +2971,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2225913,
+        "objectID": 2225913,
         "packageid": 286,
         "session_type": "One-On-One",
         "package_title": "Apply your Strengths for Individuals",
@@ -2993,7 +2993,7 @@
         "lng": -92.8470124
     }
 }, {
-    "userid": 2363746,
+    "objectID": 2363746,
     "firstname": "Lisa",
     "lastname": "Cummings",
     "title": "CEO, Lead Through Strengths",
@@ -3004,7 +3004,7 @@
     "state": "TX",
     "citystate": "TX > Austin",
     "packages": [{
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 314,
         "session_type": "One-On-One",
         "package_title": "1x1 StrengthsFinder Coaching Call for Leaders or High Potential Employees",
@@ -3016,7 +3016,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 315,
         "session_type": "One-On-One",
         "package_title": "1x1 StrengthsFinder Coaching Call (5-Session Package) for Leaders or High Potential Employees",
@@ -3028,7 +3028,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 316,
         "session_type": "Team",
         "package_title": "Virtual Team Training - StrengthsFinder Lunch ’N Learn - Live & On Camera for Up To 200 Participants",
@@ -3040,7 +3040,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 317,
         "session_type": "Team",
         "package_title": "Instructor Led Virtual StrengthsFinder Team Training - Live & On Camera for Up To 200 Participants",
@@ -3062,7 +3062,7 @@
         "lng": -97.7525352
     }
 }, {
-    "userid": 2577685,
+    "objectID": 2577685,
     "firstname": "Lisa",
     "lastname": "Rice",
     "title": "Executive Vice President",
@@ -3073,7 +3073,7 @@
     "state": "CO",
     "citystate": "CO > Colorado Springs",
     "packages": [{
-        "userid": 2577685,
+        "objectID": 2577685,
         "packageid": 187,
         "session_type": "Team",
         "package_title": "Strong Teams, Strong Performance",
@@ -3095,7 +3095,7 @@
         "lng": -104.8804893
     }
 }, {
-    "userid": 3233760,
+    "objectID": 3233760,
     "firstname": "Lorraine",
     "lastname": "Nordlinger",
     "title": "President/Lead Consultant",
@@ -3106,7 +3106,7 @@
     "state": "VA",
     "citystate": "VA > Arlington",
     "packages": [{
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 272,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -3118,7 +3118,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 273,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -3130,7 +3130,7 @@
         "specialties": ["Leadership", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 283,
         "session_type": "One-On-One",
         "package_title": "9-Week Developmental Coaching Process Personal and Professional growth.",
@@ -3142,7 +3142,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 284,
         "session_type": "One-On-One",
         "package_title": "Six Pack for Success!",
@@ -3164,7 +3164,7 @@
         "lng": -77.0938583
     }
 }, {
-    "userid": 1623977,
+    "objectID": 1623977,
     "firstname": "Mailin",
     "lastname": "Young",
     "title": "Asst Dir of Ldshp & Talent Dvlpmt",
@@ -3175,7 +3175,7 @@
     "state": "OH",
     "citystate": "OH > Columbus",
     "packages": [{
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 164,
         "session_type": "One-On-One",
         "package_title": "Introductory Session (Corporate)",
@@ -3187,7 +3187,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 165,
         "session_type": "One-On-One",
         "package_title": "Introductory Session (Non-Profit)",
@@ -3199,7 +3199,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 166,
         "session_type": "One-On-One",
         "package_title": "One-On-One Coaching Package (Corporate)",
@@ -3211,7 +3211,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 167,
         "session_type": "One-On-One",
         "package_title": "One-On-One Coaching Package (Non-Profit)",
@@ -3223,7 +3223,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 169,
         "session_type": "Team",
         "package_title": "High-Performace Strengths-Based Teams (Team Session 2)",
@@ -3235,7 +3235,7 @@
         "specialties": ["Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 170,
         "session_type": "Team",
         "package_title": "Faith-based Leadership Development",
@@ -3257,7 +3257,7 @@
         "lng": -83.025396
     }
 }, {
-    "userid": 606308,
+    "objectID": 606308,
     "firstname": "Maria",
     "lastname": "Brinck",
     "title": "Executive Coach and Leadership Consultant",
@@ -3268,7 +3268,7 @@
     "state": "CO",
     "citystate": "CO > Boulder",
     "packages": [{
-        "userid": 606308,
+        "objectID": 606308,
         "packageid": 375,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -3290,7 +3290,7 @@
         "lng": -105.3716684
     }
 }, {
-    "userid": 1246963,
+    "objectID": 1246963,
     "firstname": "Marisa",
     "lastname": "Rivera",
     "title": "President of Mpowerment Works, LLC",
@@ -3301,7 +3301,7 @@
     "state": "FL",
     "citystate": "FL > Hallandale Beach",
     "packages": [{
-        "userid": 1246963,
+        "objectID": 1246963,
         "packageid": 171,
         "session_type": "Team",
         "package_title": "Teams/Group Coaching",
@@ -3323,7 +3323,7 @@
         "lng": -80.1484407
     }
 }, {
-    "userid": 1728498,
+    "objectID": 1728498,
     "firstname": "Mark",
     "lastname": "Krieger",
     "title": "Principle Strengths Coach",
@@ -3334,7 +3334,7 @@
     "state": "VA",
     "citystate": "VA > Vienna",
     "packages": [{
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 352,
         "session_type": "One-On-One",
         "package_title": "Individual Strengths Development Coaching – Explore Your Potential:",
@@ -3346,7 +3346,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 353,
         "session_type": "Team",
         "package_title": "Introduction to Individual and Team Strengths - Discover Your Potential:",
@@ -3358,7 +3358,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 354,
         "session_type": "One-On-One",
         "package_title": "TAKE ACTION - Unleash Your Potential to Achieve Transformative Growth:",
@@ -3370,7 +3370,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 355,
         "session_type": "One-On-One",
         "package_title": "Coaching Test Drive - 1 Hour Individual Coaching Session",
@@ -3392,7 +3392,7 @@
         "lng": -77.2979782
     }
 }, {
-    "userid": 721609,
+    "objectID": 721609,
     "firstname": "Mary",
     "lastname": "McEwen",
     "title": "Organizational Development",
@@ -3403,7 +3403,7 @@
     "state": "VT",
     "citystate": "VT > Williston",
     "packages": [{
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 191,
         "session_type": "Team",
         "package_title": "Goal Crushing Leadership & Management Team Coaching",
@@ -3415,7 +3415,7 @@
         "specialties": ["Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 192,
         "session_type": "One-On-One",
         "package_title": "360° Success for Middle Managers – Introductory Session",
@@ -3427,7 +3427,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 193,
         "session_type": "One-On-One",
         "package_title": "360° Success for Middle Managers – Advanced Level",
@@ -3439,7 +3439,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 194,
         "session_type": "One-On-One",
         "package_title": "360° Success for Middle Managers – Elite Level",
@@ -3451,7 +3451,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 288,
         "session_type": "One-On-One",
         "package_title": "Getting That New Job or Promotion! – Introductory Session",
@@ -3463,7 +3463,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 289,
         "session_type": "One-On-One",
         "package_title": "Getting That New Job or Promotion! – Advanced Level",
@@ -3485,7 +3485,7 @@
         "lng": -73.1059193
     }
 }, {
-    "userid": 3600177,
+    "objectID": 3600177,
     "firstname": "Melanie",
     "lastname": "Schneider",
     "title": "Director of Student Affairs, Univ of WI-Madison",
@@ -3496,7 +3496,7 @@
     "state": "WI",
     "citystate": "WI > Madison",
     "packages": [{
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 31,
         "session_type": "One-On-One",
         "package_title": "Master your Strengths, Unleash Your Potential (4 sessions, recommended approach)",
@@ -3508,7 +3508,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 60,
         "session_type": "One-On-One",
         "package_title": "Discover Your Strengths (Session 1, 60 minutes)",
@@ -3520,7 +3520,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 145,
         "session_type": "One-On-One",
         "package_title": "Developing Your Strengths (Session 2, 60 minutes)",
@@ -3532,7 +3532,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 358,
         "session_type": "One-On-One",
         "package_title": "Strengths Discovery (One session, 90 minutes)",
@@ -3544,7 +3544,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 359,
         "session_type": "One-On-One",
         "package_title": "Leveraging Your Strengths (Session 3, 60 minutes)",
@@ -3556,7 +3556,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 360,
         "session_type": "One-On-One",
         "package_title": "Investing in Your Talents (Session 4, 60 minutes)",
@@ -3578,7 +3578,7 @@
         "lng": -89.4600369
     }
 }, {
-    "userid": 3723917,
+    "objectID": 3723917,
     "firstname": "Melissa",
     "lastname": "Young",
     "title": "Owner",
@@ -3589,7 +3589,7 @@
     "state": "UT",
     "citystate": "UT > Sandy",
     "packages": [{
-        "userid": 3723917,
+        "objectID": 3723917,
         "packageid": 28,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -3611,7 +3611,7 @@
         "lng": -111.7376178
     }
 }, {
-    "userid": 172740,
+    "objectID": 172740,
     "firstname": "Michael",
     "lastname": "Dauphinee",
     "title": "Coach, Consultant, Speaker",
@@ -3622,7 +3622,7 @@
     "state": "CA",
     "citystate": "CA > San Diego",
     "packages": [{
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 47,
         "session_type": "One-On-One",
         "package_title": "Clifton StrengthFinder Report Interpretation Session",
@@ -3634,7 +3634,7 @@
         "specialties": ["Career", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 48,
         "session_type": "Team",
         "package_title": "Team StrengthsFinder Discovery Session",
@@ -3646,7 +3646,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 49,
         "session_type": "One-On-One",
         "package_title": "Strengths-based Performance Coaching",
@@ -3658,7 +3658,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 50,
         "session_type": "Team",
         "package_title": "Team Performance Coaching",
@@ -3670,7 +3670,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 51,
         "session_type": "One-On-One",
         "package_title": "Transition Coaching",
@@ -3682,7 +3682,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 52,
         "session_type": "One-On-One",
         "package_title": "Strengths Adventure Expedition- Patagonia, Peru, Nepal",
@@ -3704,7 +3704,7 @@
         "lng": -117.1647094
     }
 }, {
-    "userid": 4962879,
+    "objectID": 4962879,
     "firstname": "Michelle",
     "lastname": "Avery",
     "title": "Organizational Development",
@@ -3715,7 +3715,7 @@
     "state": "VA",
     "citystate": "VA > Chesapeake",
     "packages": [{
-        "userid": 4962879,
+        "objectID": 4962879,
         "packageid": 341,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -3737,7 +3737,7 @@
         "lng": -76.4215988
     }
 }, {
-    "userid": 299147,
+    "objectID": 299147,
     "firstname": "Mike",
     "lastname": "Shaw",
     "title": "Partner at People Edge",
@@ -3748,7 +3748,7 @@
     "state": "TX",
     "citystate": "TX > Plano",
     "packages": [{
-        "userid": 299147,
+        "objectID": 299147,
         "packageid": 279,
         "session_type": "One-On-One",
         "package_title": "Build Strong Teams",
@@ -3770,7 +3770,7 @@
         "lng": -96.8243812
     }
 }, {
-    "userid": 4321919,
+    "objectID": 4321919,
     "firstname": "Neil",
     "lastname": "Ihde",
     "title": "Speaker/Trainer",
@@ -3781,7 +3781,7 @@
     "state": "WI",
     "citystate": "WI > Appleton",
     "packages": [{
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 96,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experiences (5 sessions)",
@@ -3793,7 +3793,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 97,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experiences (3 sessions)",
@@ -3805,7 +3805,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 98,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experience (Full day)",
@@ -3817,7 +3817,7 @@
         "specialties": ["Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 99,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experience (Half-day)",
@@ -3839,7 +3839,7 @@
         "lng": -88.4210006
     }
 }, {
-    "userid": 1860561,
+    "objectID": 1860561,
     "firstname": "Noreen",
     "lastname": "Keesey",
     "title": "Gallup Certified Strengths Coach",
@@ -3850,7 +3850,7 @@
     "state": "ND",
     "citystate": "ND > Bismarck",
     "packages": [{
-        "userid": 1860561,
+        "objectID": 1860561,
         "packageid": 157,
         "session_type": "One-On-One",
         "package_title": "I\"m curious!",
@@ -3862,7 +3862,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1860561,
+        "objectID": 1860561,
         "packageid": 158,
         "session_type": "One-On-One",
         "package_title": "Finding my purpose...",
@@ -3884,7 +3884,7 @@
         "lng": -100.6637567
     }
 }, {
-    "userid": 2067651,
+    "objectID": 2067651,
     "firstname": "Pam",
     "lastname": "Fletcher",
     "title": "President & Chief Coach",
@@ -3895,7 +3895,7 @@
     "state": "PA",
     "citystate": "PA > Pittsburgh",
     "packages": [{
-        "userid": 2067651,
+        "objectID": 2067651,
         "packageid": 57,
         "session_type": "One-On-One",
         "package_title": "12 month (full cycle) Executive Performance Coaching",
@@ -3907,7 +3907,7 @@
         "specialties": ["Executive Coach", "Leadership", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2067651,
+        "objectID": 2067651,
         "packageid": 58,
         "session_type": "One-On-One",
         "package_title": "Career directions - students (high school through college)",
@@ -3919,7 +3919,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2067651,
+        "objectID": 2067651,
         "packageid": 59,
         "session_type": "One-On-One",
         "package_title": "An Introduction to Strengths",
@@ -3941,7 +3941,7 @@
         "lng": -79.9933976
     }
 }, {
-    "userid": 17783,
+    "objectID": 17783,
     "firstname": "Patricia",
     "lastname": "Bennett",
     "title": "President and CEO",
@@ -3961,7 +3961,7 @@
         "lng": -122.307917
     }
 }, {
-    "userid": 889418,
+    "objectID": 889418,
     "firstname": "Patty",
     "lastname": "Meyer",
     "title": "Senior Trainer, Developer and Coach",
@@ -3981,7 +3981,7 @@
         "lng": -90.3936722
     }
 }, {
-    "userid": 124436,
+    "objectID": 124436,
     "firstname": "Renee",
     "lastname": "Anderson",
     "title": "Gallup Certified Strengths Coach",
@@ -4001,7 +4001,7 @@
         "lng": -82.5402275
     }
 }, {
-    "userid": 1096573,
+    "objectID": 1096573,
     "firstname": "Ryan",
     "lastname": "Houmand",
     "title": "Executive Coach",
@@ -4012,7 +4012,7 @@
     "state": "UT",
     "citystate": "UT > Salt Lake City",
     "packages": [{
-        "userid": 1096573,
+        "objectID": 1096573,
         "packageid": 274,
         "session_type": "One-On-One",
         "package_title": "Managers: Be An Engaging Leader",
@@ -4024,7 +4024,7 @@
         "specialties": ["Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1096573,
+        "objectID": 1096573,
         "packageid": 275,
         "session_type": "Team",
         "package_title": "Building the World\"s Most Engaged Teams (Full Day)",
@@ -4036,7 +4036,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1096573,
+        "objectID": 1096573,
         "packageid": 277,
         "session_type": "Team",
         "package_title": "Building the World\"s Most Engaged Teams (Half Day)",
@@ -4058,7 +4058,7 @@
         "lng": -111.7376178
     }
 }, {
-    "userid": 121976,
+    "objectID": 121976,
     "firstname": "Sandy",
     "lastname": "Adams-Doyle",
     "title": "Certified Gallup Strengths Coach",
@@ -4069,7 +4069,7 @@
     "state": "MD",
     "citystate": "MD > Baltimore",
     "packages": [{
-        "userid": 121976,
+        "objectID": 121976,
         "packageid": 242,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -4091,7 +4091,7 @@
         "lng": -76.4505243
     }
 }, {
-    "userid": 4332360,
+    "objectID": 4332360,
     "firstname": "Sandy",
     "lastname": "Lane",
     "title": "Ms",
@@ -4103,7 +4103,7 @@
     "state": "NE",
     "citystate": "NE > Omaha",
     "packages": [{
-        "userid": 4332360,
+        "objectID": 4332360,
         "packageid": 39,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -4125,7 +4125,7 @@
         "lng": -96.2004383
     }
 }, {
-    "userid": 37028,
+    "objectID": 37028,
     "firstname": "Sarah",
     "lastname": "Robinson",
     "title": "Strengths Coach - Business Owner",
@@ -4145,7 +4145,7 @@
         "lng": -86.1853474
     }
 }, {
-    "userid": 807945,
+    "objectID": 807945,
     "firstname": "Sarah",
     "lastname": "Engel",
     "title": "Gallup-Certified Strengths Coach",
@@ -4156,7 +4156,7 @@
     "state": "CO",
     "citystate": "CO > Denver",
     "packages": [{
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 126,
         "session_type": "One-On-One",
         "package_title": "Maximizer Package for Women (Activator Series)",
@@ -4168,7 +4168,7 @@
         "specialties": ["Career", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 128,
         "session_type": "One-On-One",
         "package_title": "Activator Package for Managers",
@@ -4180,7 +4180,7 @@
         "specialties": ["Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 129,
         "session_type": "One-On-One",
         "package_title": "Activator Package for Managers (Relator Series)",
@@ -4192,7 +4192,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 130,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery Package, Small Teams",
@@ -4204,7 +4204,7 @@
         "specialties": ["Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 131,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery and Strengths Domain Package, Small Teams",
@@ -4216,7 +4216,7 @@
         "specialties": ["Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 132,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery Package, Large Teams",
@@ -4228,7 +4228,7 @@
         "specialties": ["Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 133,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery and Strengths Domain Package (Large Teams)",
@@ -4250,7 +4250,7 @@
         "lng": -105.0148322
     }
 }, {
-    "userid": 185712,
+    "objectID": 185712,
     "firstname": "Scott",
     "lastname": "Mackes",
     "title": "Founder",
@@ -4261,7 +4261,7 @@
     "state": "MA",
     "citystate": "MA > South Easton",
     "packages": [{
-        "userid": 185712,
+        "objectID": 185712,
         "packageid": 84,
         "session_type": "One-On-One",
         "package_title": "StrengthsFinder Coaching for Entrepreneurs",
@@ -4283,7 +4283,7 @@
         "lng": -71.0854325
     }
 }, {
-    "userid": 3043323,
+    "objectID": 3043323,
     "firstname": "Shannon Nicole",
     "lastname": "Bobo",
     "title": "Global Leadership Consultant",
@@ -4294,7 +4294,7 @@
     "state": "CA",
     "citystate": "CA > Claremont",
     "packages": [{
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 65,
         "session_type": "One-On-One",
         "package_title": "Global Executive Coaching",
@@ -4306,7 +4306,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 66,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -4318,7 +4318,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 81,
         "session_type": "One-On-One",
         "package_title": "Life Coaching for Transitions",
@@ -4330,7 +4330,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 200,
         "session_type": "Team",
         "package_title": "Strengths Development for Multicultural Teams",
@@ -4352,7 +4352,7 @@
         "lng": -117.702148
     }
 }, {
-    "userid": 2206481,
+    "objectID": 2206481,
     "firstname": "Sharri",
     "lastname": "Harmel",
     "title": "Career Consultant",
@@ -4372,7 +4372,7 @@
         "lng": -71.0482911
     }
 }, {
-    "userid": 4509023,
+    "objectID": 4509023,
     "firstname": "Shira",
     "lastname": "Sagal",
     "title": "Coaching Artist",
@@ -4383,7 +4383,7 @@
     "state": "SC",
     "citystate": "SC > Fort Mill",
     "packages": [{
-        "userid": 4509023,
+        "objectID": 4509023,
         "packageid": 103,
         "session_type": "One-On-One",
         "package_title": "Unlock Your Genius - 6 Sessions, 30 min each (Intro plus focus on five)",
@@ -4395,7 +4395,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4509023,
+        "objectID": 4509023,
         "packageid": 104,
         "session_type": "One-On-One",
         "package_title": "Discover Your Genius - Introductory 30 Minute Session",
@@ -4407,7 +4407,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4509023,
+        "objectID": 4509023,
         "packageid": 144,
         "session_type": "One-On-One",
         "package_title": "Discover Your Genius In Depth - Introductory 90 Minute Session",
@@ -4429,7 +4429,7 @@
         "lng": -80.9318332
     }
 }, {
-    "userid": 13141,
+    "objectID": 13141,
     "firstname": "Steven",
     "lastname": "Rubado",
     "title": "Gallup Certified Strengths Coach",
@@ -4440,7 +4440,7 @@
     "state": "GA",
     "citystate": "GA > Rome",
     "packages": [{
-        "userid": 13141,
+        "objectID": 13141,
         "packageid": 20,
         "session_type": "Team",
         "package_title": "Team Essentials",
@@ -4462,7 +4462,7 @@
         "lng": -85.1271907
     }
 }, {
-    "userid": 3922268,
+    "objectID": 3922268,
     "firstname": "Tammy",
     "lastname": "Madsen",
     "title": "Strengths Coach  |  Professor",
@@ -4473,7 +4473,7 @@
     "state": "NE",
     "citystate": "NE > Omaha",
     "packages": [{
-        "userid": 3922268,
+        "objectID": 3922268,
         "packageid": 156,
         "session_type": "One-On-One",
         "package_title": "#CareerGoals",
@@ -4495,7 +4495,7 @@
         "lng": -95.93
     }
 }, {
-    "userid": 4325697,
+    "objectID": 4325697,
     "firstname": "Tanya",
     "lastname": "Finks",
     "title": "Coach",
@@ -4506,7 +4506,7 @@
     "state": "CA",
     "citystate": "CA > Playa Vista",
     "packages": [{
-        "userid": 4325697,
+        "objectID": 4325697,
         "packageid": 53,
         "session_type": "One-On-One",
         "package_title": "Individual Transition Coaching",
@@ -4528,7 +4528,7 @@
         "lng": -118.4177707
     }
 }, {
-    "userid": 242898,
+    "objectID": 242898,
     "firstname": "Tara",
     "lastname": "Nisenson",
     "title": "Coach",
@@ -4548,7 +4548,7 @@
         "lng": -85.6639168
     }
 }, {
-    "userid": 5152796,
+    "objectID": 5152796,
     "firstname": "Terri",
     "lastname": "Kelly",
     "title": "Coaching women at a career crossroads",
@@ -4559,7 +4559,7 @@
     "state": "GA",
     "citystate": "GA > Stone Mountain",
     "packages": [{
-        "userid": 5152796,
+        "objectID": 5152796,
         "packageid": 151,
         "session_type": "One-On-One",
         "package_title": "I\"m at a Career Crossroads",
@@ -4571,7 +4571,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 5152796,
+        "objectID": 5152796,
         "packageid": 152,
         "session_type": "One-On-One",
         "package_title": "One Hour Discovery Coaching Session",
@@ -4593,7 +4593,7 @@
         "lng": -84.1909841
     }
 }, {
-    "userid": 30134,
+    "objectID": 30134,
     "firstname": "Tico",
     "lastname": "Zendejas",
     "title": "Executive Director",
@@ -4604,7 +4604,7 @@
     "state": "CA",
     "citystate": "CA > Woodland",
     "packages": [{
-        "userid": 30134,
+        "objectID": 30134,
         "packageid": 24,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -4626,7 +4626,7 @@
         "lng": -121.856261
     }
 }, {
-    "userid": 102761,
+    "objectID": 102761,
     "firstname": "Traci",
     "lastname": "McCausland",
     "title": "Engagement and Strengths Consultant",
@@ -4637,7 +4637,7 @@
     "state": "IA",
     "citystate": "IA > Waterloo",
     "packages": [{
-        "userid": 102761,
+        "objectID": 102761,
         "packageid": 21,
         "session_type": "One-On-One",
         "package_title": "Succeeding With Your Strengths in Your Career",
@@ -4659,7 +4659,7 @@
         "lng": -92.3616203
     }
 }, {
-    "userid": 2322584,
+    "objectID": 2322584,
     "firstname": "Travis",
     "lastname": "Hall",
     "title": "Gallup Certified Strengths Coach",
@@ -4670,7 +4670,7 @@
     "state": "CA",
     "citystate": "CA > San Diego",
     "packages": [{
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 67,
         "session_type": "One-On-One",
         "package_title": "Session 1: Strengths Foundations",
@@ -4682,7 +4682,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 68,
         "session_type": "One-On-One",
         "package_title": "Session 2: Strengths Dynamics",
@@ -4694,7 +4694,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 69,
         "session_type": "One-On-One",
         "package_title": "Session 3: Strengths Intervention",
@@ -4706,7 +4706,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 70,
         "session_type": "One-On-One",
         "package_title": "Session 4: Strengths Development",
@@ -4718,7 +4718,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 71,
         "session_type": "One-On-One",
         "package_title": "Strengths Coaching Package: 4 Sessions",
@@ -4730,7 +4730,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 72,
         "session_type": "One-On-One",
         "package_title": "Leadership Coaching: Session 1",
@@ -4742,7 +4742,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 73,
         "session_type": "One-On-One",
         "package_title": "Management Coaching: Session 1",
@@ -4754,7 +4754,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 74,
         "session_type": "One-On-One",
         "package_title": "Entrepreneur Coaching: Session 1",
@@ -4766,7 +4766,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 75,
         "session_type": "One-On-One",
         "package_title": "Sales Coaching: Session 1",
@@ -4778,7 +4778,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 76,
         "session_type": "One-On-One",
         "package_title": "Learning & Memory - Session 1",
@@ -4790,7 +4790,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 78,
         "session_type": "One-On-One",
         "package_title": "Management Coaching Package: 5 Sessions",
@@ -4802,7 +4802,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 79,
         "session_type": "One-On-One",
         "package_title": "Entrepreneur Coaching Package: 5 Sessions",
@@ -4814,7 +4814,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 80,
         "session_type": "One-On-One",
         "package_title": "Sales Coaching Package: 5 Sessions",
@@ -4826,7 +4826,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 307,
         "session_type": "Team",
         "package_title": "Team Workshop 1: The DNA of Talent",
@@ -4838,7 +4838,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 308,
         "session_type": "Team",
         "package_title": "Team Workshop 2: The DNA of Individuals",
@@ -4850,7 +4850,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 310,
         "session_type": "Team",
         "package_title": "Team Workshop 4: The DNA of Excellence",
@@ -4862,7 +4862,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 311,
         "session_type": "Team",
         "package_title": "Team Workshop Package: 4 Workshops",
@@ -4884,7 +4884,7 @@
         "lng": -117.1147095
     }
 }, {
-    "userid": 50595,
+    "objectID": 50595,
     "firstname": "TyAnn",
     "lastname": "Osborn",
     "title": "Founder and Principal Consultant",
@@ -4895,7 +4895,7 @@
     "state": "TX",
     "citystate": "TX > Dripping Springs",
     "packages": [{
-        "userid": 50595,
+        "objectID": 50595,
         "packageid": 61,
         "session_type": "One-On-One",
         "package_title": "Executive 1:1 Coaching Package",
@@ -4907,7 +4907,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 50595,
+        "objectID": 50595,
         "packageid": 63,
         "session_type": "One-On-One",
         "package_title": "Strengths Discovery Workshop",
@@ -4929,7 +4929,7 @@
         "lng": -98.1120116
     }
 }, {
-    "userid": 107030,
+    "objectID": 107030,
     "firstname": "Vickie",
     "lastname": "Oakley",
     "title": "Director of Human Resources",
@@ -4940,7 +4940,7 @@
     "state": "AL",
     "citystate": "AL > Andalusia",
     "packages": [{
-        "userid": 107030,
+        "objectID": 107030,
         "packageid": 25,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -4962,7 +4962,7 @@
         "lng": -86.5602614
     }
 }, {
-    "userid": 4157592,
+    "objectID": 4157592,
     "firstname": "Vikki",
     "lastname": "Nicometo",
     "title": "Strengths Coach",
@@ -4973,7 +4973,7 @@
     "state": "KS",
     "citystate": "KS > Mission",
     "packages": [{
-        "userid": 4157592,
+        "objectID": 4157592,
         "packageid": 45,
         "session_type": "One-On-One",
         "package_title": "Ideal Career Exploration",
@@ -4985,7 +4985,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4157592,
+        "objectID": 4157592,
         "packageid": 46,
         "session_type": "One-On-One",
         "package_title": "Strengths Deep Dive",
@@ -4997,7 +4997,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4157592,
+        "objectID": 4157592,
         "packageid": 88,
         "session_type": "Team",
         "package_title": "Supercharge Your Team - From Good to Great",
