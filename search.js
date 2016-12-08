@@ -30,11 +30,11 @@ var highlightShortValue = function(hightlightResult, letter_padding){
 }
 
 var transformDataHits = function(hit){
-  console.log(hit);
+  // console.log(hit);
 
-  if(hit._highlightResult.bio.matchedWords.length > 0){
+  if(hit._highlightResult && hit._highlightResult.bio.matchedWords.length > 0){
     hit.bio_short = highlightShortValue(hit._highlightResult.bio.value)
-  }else{
+  }else if(hit.bio){
     hit.bio_short = hit.bio.substr(0, 165) + '...';
   }
   
@@ -58,7 +58,7 @@ var transformDataHits = function(hit){
   }
 
   //Shorten the package description
-  if(hit._highlightResult.packages){
+  if(hit._highlightResult && hit._highlightResult.packages){
 
     var highlightPackages = hit._highlightResult.packages.sort(function(a,b){
       return  b.description.matchedWords.length - a.description.matchedWords.length;
@@ -277,7 +277,9 @@ search.addWidget(
       {name: 'coach_packages_price_asc', label: 'Price High to Low'},
       {name: 'coach_packages_price_desc', label: 'Price Low to High'},
       {name: 'coach_packages_ratings_desc', label: 'Ratings High to Low'},
-      {name: 'coach_packages_ratings_asc', label: 'Ratings Low to High'}
+      {name: 'coach_packages_ratings_asc', label: 'Ratings Low to High'},
+      {name: 'coach_packages_geo_desc', label: 'Distance Farthest to Closest'},
+      {name: 'coach_packages_geo_asc', label: 'Distance Closest to Farthest'}            
     ],
     label:'sort by'
   })
@@ -305,17 +307,53 @@ search.addWidget(
       item: function(data){
         console.log(data);
         var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' +
-        data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>'
+        data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>';
         return s;
       }
     },
-    attributes: [
-      { name: 'chris' }
-    ],
     cssClasses: {
       link: 'label label-default'
     }
+
   })
 );
+
+
+instantsearch.widgets.distanceSort = function distanceSort(options) {
+  var isChecked;
+
+  return {
+    init: function(params) {
+
+      $('aside').on('click','input[value="In Person"]', function(){
+
+        isChecked = $('aside input[value="In Person"]').prop('checked');
+
+        if(isChecked){
+          params.helper.setQueryParameter('aroundLatLngViaIP', true).search();
+        }else{
+          params.helper.setQueryParameter('aroundLatLngViaIP', false).search();
+        }
+      })
+    },
+    render: function(params) {
+
+      //console.log(params);
+      isChecked = $('aside input[value="In Person"]').prop('checked');
+
+      if(isChecked){
+        params.helper.setQueryParameter('aroundLatLngViaIP', true).search();
+      }else{
+        params.helper.setQueryParameter('aroundLatLngViaIP', false).search();
+      }
+
+      //console.log(hits);
+    }
+  }
+}
+
+  search.addWidget(
+    instantsearch.widgets.distanceSort()
+  );
 
 search.start();

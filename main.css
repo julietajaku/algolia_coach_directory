@@ -235,7 +235,7 @@ aside .ais-price-ranges--button:focus {
 }
 
 #clear-all {
-  display: block !important;
+  //display: block !important;
   margin-bottom: 16px;
   margin-top: 16px;
 }
@@ -486,6 +486,7 @@ aside .ais-price-ranges--button:focus {
 .ais-current-refined-values--item{
   display: inline-block;
   margin-right: .5em;
+  font-size: 1.15em;
 }
 
 /**
