@@ -1,17 +1,16 @@
 [{
-    "userid": 3960401,
+    "objectID": 3960401,
     "firstname": "Abby",
     "lastname": "Coffin",
     "title": "Director, Advising Center",
     "bio": "I am an academic advisor and Director of Academic Advising at the University of Kansas. In this role, I have developed others for twelve years. I work primarily with college students, but also spend time working with professional staff and faculty. I have been a Gallup-Certified Strengths Coach since early 2016. My coaching has been centered around work with clients in corporations, non-profits and higher education. My approach to coaching is highly customized to the individual needs of my clients. As a relator, I am interested in genuinely getting to know you, understanding your needs for coaching and how I can help you reach your goals. I apply focus and discipline to all aspects of my own life, but am more apt to lean in to your talents to help you unlock your goals, dreams, and vision for the future. In my work with students and clients, I love nothing more then the opportunity to connect with individuals and to invest in ways to live out your passion.",
-    "location": "",
     "postalcode": 66045,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/f17fab98-e50a-4dd2-810c-f5784f9aa748.jpg",
     "city": "Lawrence",
     "state": "KS",
     "citystate": "KS > Lawrence",
     "packages": [{
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 14,
         "session_type": "One-On-One",
         "package_title": "Getting To Know Your Strengths Introductory Session",
@@ -23,7 +22,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 259,
         "session_type": "One-On-One",
         "package_title": "Build A Bridge to Your Future Introductory Session",
@@ -35,7 +34,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 260,
         "session_type": "One-On-One",
         "package_title": "Build A Bridge to Your Future",
@@ -47,7 +46,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 261,
         "session_type": "One-On-One",
         "package_title": "Creating a Culture of Engagement Introductory Session",
@@ -59,7 +58,7 @@
         "specialties": ["Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3960401,
+        "objectID": 3960401,
         "packageid": 262,
         "session_type": "One-On-One",
         "package_title": "Creating A Culture of Engagement",
@@ -81,19 +80,18 @@
         "lng": -95.2658318
     }
 }, {
-    "userid": 4653105,
+    "objectID": 4653105,
     "firstname": "Alison",
     "lastname": "Stokes",
     "title": "L&D Adviser -British Foreign Office",
     "bio": "Alison brings over 18 years of experience working with audiences across a variety of industries and in over 7 countries. She has a true passion for building and coaching high performance teams, leadershipand organizational development, and has proven success with a variety of local and multi-national corporations on several levels of operation. She is noted for her ability to create and facilitate dynamic, high-engagement, learning environments that manage the balance between active participation, meaningful reflection, and application toward business strategy.  Alison designs and delivers programs that skillfully blend relevant classroom content with experiential learning, psychological and behavioral assessments, and various forms of peer and observer feedback. She is particularly focused on translating program experiences into sustained, long term behavioral change through peer coaching and follow-up.",
-    "location": "",
     "postalcode": 80026,
-    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/alison_stokes.jpg",
+    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/1e08387e-ea08-45b6-8ef9-ed7c82d81324/100x100",
     "city": "Denver",
     "state": "CO",
     "citystate": "CO > Denver",
     "packages": [{
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 181,
         "session_type": "One-On-One",
         "package_title": "Initial Strength Coaching Session",
@@ -105,7 +103,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 182,
         "session_type": "One-On-One",
         "package_title": "Initial Strength Coaching Session for Executives and Leaders",
@@ -117,7 +115,7 @@
         "specialties": ["Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 183,
         "session_type": "Team",
         "package_title": "Start with Talent- End with Strengths- Half Day",
@@ -129,7 +127,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 184,
         "session_type": "Team",
         "package_title": "Start with Talent- End with Strengths- Full day",
@@ -141,7 +139,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 185,
         "session_type": "One-On-One",
         "package_title": "Individual Coaching Package",
@@ -153,7 +151,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4653105,
+        "objectID": 4653105,
         "packageid": 203,
         "session_type": "One-On-One",
         "package_title": "Executive Coaching Package",
@@ -175,19 +173,18 @@
         "lng": -105.0908147
     }
 }, {
-    "userid": 2334955,
+    "objectID": 2334955,
     "firstname": "Allyn Bader",
     "lastname": "Barclay",
     "title": "Strengths Coach and Consultant",
     "bio": "Over 25 years of training and management experience. Transitioned from corporate management and coaching to personal coaching after learning about and loving the Clifton StrengthsFinder program. Allyn headed up several training departments for large companies including Delta Airlines, JD Edwards (now Oracle), Mincom and URS Corporation. Key programs focused on manager and employee development, safety, quality and project management. Allyn is an accomplished trainer on systems training up through management development. Allyn’s goal as a manager was to coach and mentor her employees. She also provided coaching training to over 650 managers. The best part of management was the employee’s she was able to coach throughout her career. Allyn is also a Certified Project Management Professional has a Certificate in Human and Animal Interactions from the University of Denver’s School of Social Work.  Her Bachelor’s Degree was in Sociology and Social Work with a Masters in Applied Communication.  She is a certified facilitator in Helping Others Succeed, Leading Technical Professionals, Crucial Conversations and Accountability. In coordination with Corporate Training Materials Allyn has a large repertoire of workshops.  Her primary focus is coaching individuals to help them achieve personal goals and satisfaction, manager and team development, and helping Project Managers to manage and develop their teams.",
-    "location": "",
     "postalcode": 80107,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/af9887cb-0d24-4758-a2cb-8bb2103dbb7c.jpg",
     "city": "Elizabeth",
     "state": "CO",
     "citystate": "CO > Elizabeth",
     "packages": [{
-        "userid": 2334955,
+        "objectID": 2334955,
         "packageid": 198,
         "session_type": "One-On-One",
         "package_title": "Introduction and Exploration",
@@ -199,7 +196,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2334955,
+        "objectID": 2334955,
         "packageid": 199,
         "session_type": "One-On-One",
         "package_title": "Individual Coaching Package: Three Sessions",
@@ -211,7 +208,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2334955,
+        "objectID": 2334955,
         "packageid": 201,
         "session_type": "Team",
         "package_title": "Introduction to Team Building for Managers and Teams",
@@ -233,19 +230,18 @@
         "lng": -104.6121475
     }
 }, {
-    "userid": 3094939,
+    "objectID": 3094939,
     "firstname": "Ann",
     "lastname": "Harris",
     "title": "Strengths Evangelist",
     "bio": "Ann started her Strengths Journey in 2010 at her parish church. It was there she discovered her calling to help EVERY person on the PLANET to fall in love with their talents. She has conducted multiple workshop and retreats, trained facilitators and coached hundreds of people in her local community. Ann lives in Greenville, SC now but grew up as an \"Army Brat\" moving frequently. She graduated from Virginia Tech with a degree in Mechanical Engineering and spent most of her career at Shell Oil/Chemical company, with a brief time at Fluor Corporation. She has traveled the world, visiting 4 of the 7 continents and has lived in Singapore, China and Germany. Ann loves jet engines, Sudoku puzzles, coffee and the laughter and chaos of her large family. She enjoys working with teams (#Arranger #6), schools and students, small business and faith based groups and is absolutely passionate about the Clifton Strengthsfinder tool. Ann\"s enthusiasm has led her to become a certified coach and to start her coaching practice - \"FIRED UP - Igniting natural talents to fuel a life of purpose, passion and productivity.",
-    "location": "",
     "postalcode": 29681,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/blank.png",
     "city": "Simpsonville",
     "state": "SC",
     "citystate": "SC > Simpsonville",
     "packages": [{
-        "userid": 3094939,
+        "objectID": 3094939,
         "packageid": 26,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -257,7 +253,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3094939,
+        "objectID": 3094939,
         "packageid": 100,
         "session_type": "Team",
         "package_title": "Team Collaboration Package",
@@ -279,19 +275,18 @@
         "lng": -82.2365981
     }
 }, {
-    "userid": 1179066,
+    "objectID": 1179066,
     "firstname": "Anne",
     "lastname": "Lancaster",
     "title": "CIO",
     "bio": "Anne Lancaster is the founder of Lancaster Consulting LLC, a strategic consulting company created to build sustainable and inspirational businesses by working with individuals, teams, and organizations that invest in developing effective strengths-based leadership programs. Since 2008, Lancaster Consulting LLC has successfully consulted with over 25 companies and more than 800 individuals. Anne leads and supports executives, senior managers, individuals, and teams to identify, understand and capitalize on their core talents, build strengths, and align with their performance/business strategies. All programs are highly customized. A strategist and lifelong learner, Anne received her MBA from Boston College, Graduate School of Management and her BS in Medical Technology from Northeastern University in Boston, MA. Most recent certifications include Gallup-Certified Strengths Coach, CoreClarity Facilitator, and the Power of TED* Practitioner.  Anne is a multi-talented artist and photographer. In her spare time she can be found creating stone carvings, casting bronzes, climbing mountains, dancing Argentinean tango, and documenting life’s moments with her photography. https://www.linkedin.com/pub/anne-lancaster/6/97b/9b5 https://www.coreclarity.net/cf-anne-lancaster",
-    "location": "",
     "postalcode": 98103,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/anne_lancaster.jpg",
     "city": "Seattle",
     "state": "WA",
     "citystate": "WA > Seattle",
     "packages": [{
-        "userid": 1179066,
+        "objectID": 1179066,
         "packageid": 176,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -313,19 +308,18 @@
         "lng": -122.3425575
     }
 }, {
-    "userid": 75815,
+    "objectID": 75815,
     "firstname": "Barbara",
     "lastname": "Stewart",
     "title": "Founder",
     "bio": "As a coach, trainer and speaker, Barbara works with the owners and leaders of small and mid-sized firms on business strategy and team development using a strengths-based approach.  A focus on professional and personal development allows her to support these leaders as they take their companies, employees and themselves from good to great. Barbara is a Gallup-Certified Strengths Coach, a Professional Certified Coach (PCC) by the International Coach Federation (ICF) and a Professional Member of the National Speakers Association (NSA).  Her 20-plus years of experience as a financial advisor and small business owner provide her with a unique perspective as she helps clients work smarter, accelerate performance and enjoy a higher quality of life. Through one-on-one coaching, Barbara supports her clients in identifying their natural talents and making the most of them to develop the lives and businesses of their dreams. Leading with a discovery session that helps clients articulate what they really want, Barbara strategizes with her clients to develop an action plan to reach their goals. Discovery also includes the use of the Clifton StrengthsFinder® assessment to help clients name, claim, and aim their unique strengths. Workshops, retreats and team-building sessions are offered separately or as a supplement to one-on-one coaching. Business owners and leaders find the introduction of Strengths-based language and leadership to have a hugely energizing effect on their teams. The group is given a new language with which to understand the value that each team member brings, improving collaboration and job satisfaction. Contact Barbara at her office in Houston, Texas at 713-623-2808. She is available for keynotes, workshops, retreats, team-building sessions, and one-on-one coaching throughout the United States and globally. Learn more at www.acceluspartners.com.Connect with Barbara on LinkedIn.",
-    "location": "",
     "postalcode": 77056,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/008d1d9d-9521-4827-a872-40892ea40167.jpg",
     "city": "Houston",
     "state": "TX",
     "citystate": "TX > Houston",
     "packages": [{
-        "userid": 75815,
+        "objectID": 75815,
         "packageid": 134,
         "session_type": "Team",
         "package_title": "Leading With Your Strengths - Workshops for Teams",
@@ -337,7 +331,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 75815,
+        "objectID": 75815,
         "packageid": 146,
         "session_type": "One-On-One",
         "package_title": "Strengths for Business Owners",
@@ -359,19 +353,18 @@
         "lng": -95.4699173
     }
 }, {
-    "userid": 1896061,
+    "objectID": 1896061,
     "firstname": "Barbara",
     "lastname": "Barber",
     "title": "Certified Gallup Strengths coach",
     "bio": "Coaching, assessments, and self-knowledge is only effective when it changes the way we live our lives and do our work. If you’re serious about rewriting the next chapters of your story, let’s talk. As a coach and consultant for more than fifteen years, I thrive on seeing people make the changes that cause them to accomplish big goals and move forward to a life that feels adventurous and rewarding. As an Activator, I thrive on helping people with big dreams find ways to make them a reality. As a Communicator, I listen to the conversation, ask thought-provoking questions, and give you feedback to provide clarity, challenge, and vision. As an Arranger, I offer many unique and creative ways to help you accomplish the goals you set. With Positivity, I create accountability that feels safe and encouraging, yet doesn’t let you fail to act. With Woo, I make coaching sessions fun and energizing, while giving you the inspiration to move forward and see big things happen quickly in your life. My background is in nursing and health care management. I became a nurse to help people but quickly discovered truly helping people required a team that worked well together.  Using the Strengthsfinder™ I began to help companies and managers discover how to appreciate the power of individual talents, and how to use each person’s unique gifts to contribute to effective and powerful teams.  Turnover decreased, and customer satisfaction increased. I have helped churches, companies, boards and groups use the process of understanding individual talent, building powerful collaborative teams, and creating an opportunity for growth. If you’re serious about applying your strengths to impact your life satisfaction and bottom line, let’s talk. www.barbbarber.com",
-    "location": "",
     "postalcode": 62535,
-    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/barbara_barber.jpg",
+    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/edb8655b-e063-4543-99a8-f1397226c41a/100x100",
     "city": "Forsyth",
     "state": "IL",
     "citystate": "IL > Forsyth",
     "packages": [{
-        "userid": 1896061,
+        "objectID": 1896061,
         "packageid": 27,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -393,19 +386,18 @@
         "lng": -88.9653226
     }
 }, {
-    "userid": 433669,
+    "objectID": 433669,
     "firstname": "Beth",
     "lastname": "Hoffberg",
     "title": "Coach",
     "bio": "Beth is the founder and CEO of Strengths Based Life, Inc. She received her BA in Psychology from Cornell University in 2006 and her Master\"s in Marriage & Family Therapy from The Adler School of Professional Psychology in 2008. She is a Gallup-Certified Strengths Coach and has coached and trained hundreds of people to meet their goals in their careers, their relationships, their personal lives, and their businesses throughout her career. Specializing in career coaching, personal growth coaching, relationship and dating coaching, pre-marital and couples coaching, Beth uses a strengths focus to help her clients become the best versions of themselves. The majority of her coaching takes place through online video conferencing, so she accepts English-speaking clients from around the world. Beth also offers coaching for managers and businesses and can perform workshops for teams or enterprises. She has conducted numerous workshops both in-person and through webinars for groups ranging in size from under ten people to several hundred. If you are interested in a customized strengths training program for your business or team, contact Beth for more information. Beth\"s top five strengths are Individualization, Strategic, Analytical, Achiever, and Responsibility.To learn more about Beth, visit her website at www.strengthsbasedlife.com or her LinkedIn page at www.linkedin.com/in/bethhoffbergor read on for how she uses her strengths in her coaching.",
-    "location": "",
     "postalcode": 28210,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/3bb6dd42-4c54-47e5-90d9-73c05f7dd54b.jpg",
     "city": "Charlotte",
     "state": "NC",
     "citystate": "NC > Charlotte",
     "packages": [{
-        "userid": 433669,
+        "objectID": 433669,
         "packageid": 265,
         "session_type": "One-On-One",
         "package_title": "Using Your Top 5 Strengths - 90 Minute Session",
@@ -417,7 +409,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 433669,
+        "objectID": 433669,
         "packageid": 266,
         "session_type": "Team",
         "package_title": "Couples Strengths Coaching (6 sessions)",
@@ -429,7 +421,7 @@
         "specialties": ["Life Coach", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 433669,
+        "objectID": 433669,
         "packageid": 267,
         "session_type": "One-On-One",
         "package_title": "Strengths Based Career Coaching",
@@ -451,19 +443,18 @@
         "lng": -80.8599193
     }
 }, {
-    "userid": 3733170,
+    "objectID": 3733170,
     "firstname": "Bethany",
     "lastname": "Warburton",
     "title": "Principle Consultant",
     "bio": "I work with individuals, managers, teams, organizations and families that want to identify and capitalize on the potential that resides within their innate talents. I’ve worked as a consultant to some of the most recognizable corporate names in the world…as well as many smaller, lesser known but equally as satisfying clients.  My work as a consultant over the past decade has been specific to Talent Management and Organizational Transformation including training and development, performance management, change management, and SaaS Talent Management Platform configuration and process alignment. I’m a Certified Project Management Professional (PMP), a Certified Lean Six Sigma Green Belt, and have extensive experience leveraging Appreciative Inquiry as a tool for organizational transformation. I\"m also a coach for the Make Rhode Island Stronger campaign which is an initiative to help Rhode Island leverage its collective strengths to turn the tide on our economic and political outlook.",
-    "location": "",
     "postalcode": 2818,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/9f51ebc8-5125-416f-896d-8b64dd60d718.jpg",
     "city": "East Greenwich",
     "state": "RI",
     "citystate": "RI > East Greenwich",
     "packages": [{
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 363,
         "session_type": "One-On-One",
         "package_title": "Individual Top 5 Deep Dive",
@@ -475,7 +466,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 364,
         "session_type": "Team",
         "package_title": "Team Building Session",
@@ -487,7 +478,7 @@
         "specialties": ["Consulting Team", "Leadership", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 365,
         "session_type": "One-On-One",
         "package_title": "Manager Deep Dive",
@@ -499,7 +490,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 366,
         "session_type": "Team",
         "package_title": "Organizational Transformation and Performance Management",
@@ -511,7 +502,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 367,
         "session_type": "One-On-One",
         "package_title": "Students and Families",
@@ -523,7 +514,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3733170,
+        "objectID": 3733170,
         "packageid": 368,
         "session_type": "One-On-One",
         "package_title": "Veterans Discount - One on One Top 5 Strengths Deep Dive",
@@ -545,12 +536,11 @@
         "lng": -71.4893013
     }
 }, {
-    "userid": 86104,
+    "objectID": 86104,
     "firstname": "Bob",
     "lastname": "Meyer",
     "title": "CEO",
     "bio": "The Solet Group ignites personal and team talents to bring your vision to reality.  We provide expertise in the areas of leadership development and organizational strategy. Our customized partnerships focus upon performance and potential in the areas of:•Executive Coaching•Talent Development•Strategic Visioning and Operations•Team Building•Organizational Alignment•Communications•Constituent EngagementUsing Strengths as a foundation, Bob helps to cultivate a thoughtful eye towards innovation, a healthy sense of competition, and cultural formation.  His greatest talent is to successfully partner with others to connect mission and values to operations and outcomes. The Solet Group is your strategic partner to unleash talent and inspire results. Your vision.  Ignited.",
-    "location": "",
     "postalcode": 77007,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/bob_meyer.jpg",
     "city": "Houston",
@@ -566,19 +556,18 @@
         "lng": -95.4201377
     }
 }, {
-    "userid": 4627815,
+    "objectID": 4627815,
     "firstname": "Brenda",
     "lastname": "Worley",
     "title": "Gallup Certified Strengths Coach",
     "bio": "Hello, my name is Brenda Worley. Thank you for taking the time to look at my profile. There is nothing more exciting than doing something that feeds your natural strengths and your soul! You walk away from it totally energized!! Coaching people around their Strengths, does that for me!! It rocks my world and I feel like I am accomplishing what God put me on earth to do!!!  I have a passion to work with individuals who have experienced hard times in life and want to come out into the sunshine again. I have a passion for students looking for direction and a passion for helping women. I have worked a lot with educators and with students with learning disabilities.  I have a passion for helping people and I would love a chance to meet you where you are and help you get to where you want to be. My Strengths are: Adaptability, Maximizer, Relator, Positivity, and Strategic. With my top 5 I have the ability to be with you in the moment, to help get you to your very best, to develop a relationship, to put a smile on your face, and make a plan and path for you to go forward.",
-    "location": "",
     "postalcode": 76102,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/963c9a9c-d321-48a0-93eb-c1e7b6b24bf3.jpg",
     "city": "Fort Worth",
     "state": "TX",
     "citystate": "TX > Fort Worth",
     "packages": [{
-        "userid": 4627815,
+        "objectID": 4627815,
         "packageid": 250,
         "session_type": "One-On-One",
         "package_title": "Introductory Coaching Session",
@@ -590,7 +579,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4627815,
+        "objectID": 4627815,
         "packageid": 251,
         "session_type": "Team",
         "package_title": "Build a Strong Positive Culture of Engagement",
@@ -612,31 +601,30 @@
         "lng": -97.3246534
     }
 }, {
-    "userid": 957626,
+    "objectID": 957626,
     "firstname": "Brent",
-    "lastname": "O\"Bannon",
+    "lastname": "O'Bannon",
     "title": "Global Strengths Champion Coach",
     "bio": "Brent is the first Gallup-Certified Strengths Coach in the world and is a seasoned strengths coach who inspires leaders, executives, entrepreneurs, coaches and multi-million dollar companies to maximize, mobilize, and monetize their strengths for Breakthrough success. He\"s a recent Amazon #1 best-selling author of Selling Strengths, and top rated Clifton StrengthsFinder workshop leader, with a vision to champion strengths for global excellence.If you’re looking for a playful, engaging and insightful keynote strengths speaker or workshop facilitator, Brent has delivered workshops onsite and online to more than 90 organizations around the world. Some of his raving fans include Harley Davidson, Microsoft, Cigna, Kaiser Permanente, Novartis, Vistage, Convene and Dow Chemical. As a follow up to his workshop program, Brent offers a Strengths Champion Train-the-Trainer program for companies who want to create an engaged strengths-based organization from the inside out.  He earned an MBS from SOSU, is a Licensed Professional Counselor & Vistage-CEO-Achieve Global Certified speaker.  Explore Brent’s website: www.brentobannon.comand www.strengthschampion.comWatch the video how Strengths grows Individuals and Teams athttp://brentobannon.com/strengthsfinder-keynote-and-workshops/Connect with Brent on LinkedInCall Brent now at 903-819-0301",
-    "location": "",
     "postalcode": 75092,
-    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/e6ac3c96-09ac-4324-8df7-a65bc8fc804c.jpg",
+    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/83ef936d-1c3c-4692-87e3-82393d966f50/100x100",
     "city": "Sherman",
     "state": "TX",
     "citystate": "TX > Sherman",
     "packages": [{
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 149,
         "session_type": "Team",
         "package_title": "1 Day Leading Strengths Team Coaching",
         "description": "This coaching workshop is for executives, managers, and team leaders who want to learn better ways to select, measure, develop, and channel the strengths of their human capital.  Leadership teams will learn the language of the 34 strength themes and practical examples on how several of these themes can best be translated into personal and career success.  I offer profound insights on how to identify your unique patterns, turn talents into strengths, and finally how to capitalize on those patterns.  Other topics we will explore are the four leadership domains, how to create high performance interdependent teams, complimentary partnerships, team building meetings and activities, as well as an introduction to the Q12.",
         "price": 8000,
         "numberofsessions": 0,
-        "package_image_path": "https://dk9zyhfatdvcy.cloudfront.net/public/packages/5c7cc014-3979-4729-9cce-b6805c615af4.png",
+        "package_image_path": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/83ef936d-1c3c-4692-87e3-82393d966f50/100x100",
         "methods": ["In Person"],
         "specialties": ["Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 159,
         "session_type": "One-On-One",
         "package_title": "3 Month Breakthrough With Strengths Coaching Package",
@@ -648,7 +636,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 160,
         "session_type": "One-On-One",
         "package_title": "3 Session Breakthrough With Strengths Coaching Package",
@@ -660,7 +648,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 957626,
+        "objectID": 957626,
         "packageid": 161,
         "session_type": "One-On-One",
         "package_title": "6 Month Strengths Champion Train the Trainer Program",
@@ -682,12 +670,11 @@
         "lng": -96.7279918
     }
 }, {
-    "userid": 4916037,
+    "objectID": 4916037,
     "firstname": "Brodie",
     "lastname": "Theis",
     "title": "Principal Consultant",
     "bio": "Please edit your profile.",
-    "location": "",
     "postalcode": 45212,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/blank.png",
     "city": "Cincinnati",
@@ -703,19 +690,18 @@
         "lng": -84.4540213
     }
 }, {
-    "userid": 4864019,
+    "objectID": 4864019,
     "firstname": "Bruce",
     "lastname": "MacFadyen",
     "title": "CEO",
     "bio": "Bruce is CEO of Chilon, a corporate strategy firm based in Dallas, Texas.  Bruce works with high growth organizations to assure they have a scalable and sustainable people strategy to support their strategic goals.  This includes implementing StrengthsFinder as the lens to identify, develop and leverage the natural talents throughout the organization. Prior to founding Chilon, Bruce had more than 20 years’ experience in leadership roles within the financial service, healthcare and technology sectors.  As CFO of a cybersecurity company, Bruce raised $60MM of private equity across four rounds, helping scale the business from 20 people to 270 over five years. Bruce offers the following services to help organizations build a strengths-based culture: - Executive Coaching : Building a strengths-based culture starts with the leaders.  As organizations and responsibilities evolve leaders need to objectively evaluate how they can continue to play to their strengths.  This is particularly challenging within high growth organizations where leaders are continually pulled away from what makes them uniquely effective. - Manager Coaching : People join companies, but leave managers.  Effective managers first identify, develop and leverage their own natural strengths.  Then they do the same for each individual on their team. - Team Coaching : A common language is critical to communication.  StrengthsFinder’s talent themes provide the relational shorthand that help teams communicate directly and effectively.",
-    "location": "",
     "postalcode": 75206,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/bruce_macfadyen.jpg",
     "city": "Dallas",
     "state": "TX",
     "citystate": "TX > Dallas",
     "packages": [{
-        "userid": 4864019,
+        "objectID": 4864019,
         "packageid": 227,
         "session_type": "One-On-One",
         "package_title": "Introductory Session for Executive and Manager Coaching",
@@ -737,12 +723,11 @@
         "lng": -96.7761686
     }
 }, {
-    "userid": 323737,
+    "objectID": 323737,
     "firstname": "Buddy",
     "lastname": "Fichera",
     "title": "CEO/Executive Coach",
     "bio": "Buddy Fichera is a VistageChair and Certified Gallup Coach, who integrates Gallup\"s StrengthsFinder  into a time tested leadership development process.He provides coaching and systems solutions to individuals and organizations that are desirous ofcommitmentandengagement.Buddy practices and provides solutions, focused on making SKILLFUL CHOICES. His coaching is supported with a proprietary coaching platform (The SecondArrow), that helps clients identify their most meaningful commitments. With the help of StrengthsFinder, clients then deploy their most optimal action plan. The combined program helps developawareness around ACTIONS, aligned with COMMITMENTS.With persistence and patience, clients will realize improved confidence in their choice making. THE CONCEPT: Improved choice making improvesengagement with ourselves, our projects, and our relationships. The process is infectious and builds resiliency and accountability.Buddy\"s coaching expertise has been influenced by working with Covey Leadership®, Predictive Index®, Vistage Worldwide, and Galluporganizations. By way of professional background, Buddy has been the managing partner of Radyx, LLC, since 1998 and is an experienced entrepreneur, who has built several companies from inception to sustainability. Buddy has the gift ofmaking complex problems uniquely simple.THE WORKING MODEL - Where does engagement come from ?My choices are powerful and they matterMy team members.. and I need to be 100% accountable to our choices\"Choices\" in this working model are broken down into (3) parts... Intentions, Actions, and Results (respectively, the future, the present, and the past)Being 100% accountable to my choices means that I am willing to be honest and observant regarding my choices each dayAll group members commit to this working model... no exceptionsThrough building confidence in my choice making, I will improve in setting and realizing my most important commitmentsBy developing more skill at \"choice making\" which includes \"commitment setting\", I become more satisfied and engaged in my work... and in my life. I can then give the most of my talents, skills, and experience to the enterprise and likewise become a noble group member",
-    "location": "",
     "postalcode": 78723,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/ee5f0a75-9dc0-4772-a19a-3e979c0fe927.jpg",
     "city": "Austin",
@@ -758,19 +743,18 @@
         "lng": -97.681943
     }
 }, {
-    "userid": 80901,
+    "objectID": 80901,
     "firstname": "Carol",
     "lastname": "Bellini",
     "title": "Leadership and Strengths Coach",
     "bio": "Carol has been coaching individuals, teams, and business leaders since 2001 when she was first certified by Gallup as a Strengths Performance Coach while working in a leadership role at Stryker Corporation.In 2008, she founded Transforming Strengths, LLC. Since this time, she has facilitated thousands of coaching sessions with people across a variety of professional levels, industries, and cultures. She is a seasoned master strengths coach who inspires people to fully understand, embrace and capitalize on their talents in work and in life.Carol has been highly successful in helping people take full advantage of their talents by finding practical ways to invest in what they do best. She has a proven track record of working with leaders to drive a strong sense of team identity and engagement. She inspires leaders and teams to be more collaborative, engage in healthy conflict, and foster greater trust and team commitment by understanding team strengths and how to maximize partnerships.Carol has worked with numerous organizations including Stryker, Pepsi, Merck, Tesla Motors, Visa, Salix Pharmaceuticals, BMC, JDA Software, UBS, FAA, DOD, USAID, NIH, International Youth Foundation, Vail Valley Foundation, International Orthodox Christian Charities, College of Southern MD, College of William and Mary and several smaller, entrepreneurial companies.Carol is a Gallup-Certified Strengths Coach and an International Coach Federation Professional Certified Coach (PCC). She primarily lives on the East Coast of the U.S. She and her husband are also fortunate to have a retreat home in an old, restored villa in Northern Italy on Lake Maggiore. Cell Phone: 973.493.1745info@transformingstrengths.comwww.transformingstrengths.comMaximizer | Learner | Input | Connectedness | Achiever",
-    "location": "",
     "postalcode": 22182,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/carol_bellini.jpg",
     "city": "Vienna",
     "state": "VA",
     "citystate": "VA > Vienna",
     "packages": [{
-        "userid": 80901,
+        "objectID": 80901,
         "packageid": 55,
         "session_type": "Team",
         "package_title": "StrengthsFinder for Leaders & Teams",
@@ -792,19 +776,18 @@
         "lng": -77.2979782
     }
 }, {
-    "userid": 745464,
+    "objectID": 745464,
     "firstname": "Carol",
     "lastname": "Rizzolo",
     "title": "Personal and Executive Coach",
     "bio": "Turns out that I am one of those folks who just loves change. Really I just thrive on it! With Adaptability (#1) and Positivity (#3), I find that change gives me the opportunity to learn and rethink my choices. (Intellection #5). My work is deeply based in the knowledge that  the way we understand our personal stories has the power to bring about deep and meaningful change in our lives. Stories have the power to connect us across generations (Connectedness #2) and to make the changes that we long to make in our lives. (Activator #4)My personal and professional path has long been defined by membership in the family of helping professions.I followed a brief career in Clinical Genetics by a 20+ year career as a Physician Assistant providing health care services and counseling to young people and their families. I have extensive training in both pediatrics and end-of-life care. As I approached 50 years old, I chose to change professional direction.I returned to school and earned a doctorate in Mythology and Psychology and became certified as Personal and Executive Coach. The Connectedness of our human stories through the millennia has been the focus of my research and writing.Learning to live gracefully through the many twists and turns that life offers has been the focus of my own life for over 40 years.All of our coaching work starts by listening to your story. Through 60-90 minute sessions, we explore your past successes and work to unleash the fantastic potential that your talents naturally hold. Using your unique combination of talents and strengths, we focus on the ways to make your day to day activities much more enjoyable for you!I believe that effective coaching can ease times of transition in our lives. We know that when we explore the great questions that life poses, our psyche becomes just a bit freer to explore alternative outcomes, new futures. By encouraging you to share your dreams, we work together to help you create and live into the future that you have imagined.My clients find that our work helps them to find the joy in times of transition. Be it work related, health related, or personal, if you find yourself in a time of transition and would like a companion to remind you of your strengths along the way, contact me. I think that you will find the coaching journey to be incredibly empowering!Our first coaching session is complimentary and can be face to face in Guilford or Cheshire, CT. I also work with clients on Skype as well as on the telephone.I look forward to hearing from you! With very best wishes! Carol",
-    "location": "",
     "postalcode": 6437,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/c79c03b8-4eb1-4621-990e-3199f522d8c7.jpg",
     "city": "Guilford",
     "state": "CT",
     "citystate": "CT > Guilford",
     "packages": [{
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 147,
         "session_type": "One-On-One",
         "package_title": "WOMEN EXPLORING CHANGE",
@@ -816,7 +799,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 148,
         "session_type": "One-On-One",
         "package_title": "HOUSTON WE HAVE CONTACT! NAVIGATING A SUCCESSFUL COLLEGE LAUNCH PROCESS FOR HIGH SCHOOL SENIORS AND THEIR FAMILIES",
@@ -828,7 +811,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 177,
         "session_type": "One-On-One",
         "package_title": "CREATING AN EXCITING AND DYNAMIC RETIREMENT!",
@@ -840,7 +823,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 178,
         "session_type": "One-On-One",
         "package_title": "CHANGE AHEAD! : NAVIGATING LIFE\"S TRANSITIONS",
@@ -852,7 +835,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 179,
         "session_type": "One-On-One",
         "package_title": "COACHING FOR THE COMPASSIONATE CAREGIVER",
@@ -864,7 +847,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 745464,
+        "objectID": 745464,
         "packageid": 351,
         "session_type": "One-On-One",
         "package_title": "CREATING THE FUTURE OF YOUR DREAMS!",
@@ -886,19 +869,18 @@
         "lng": -72.6978931
     }
 }, {
-    "userid": 579493,
+    "objectID": 579493,
     "firstname": "Chuck",
     "lastname": "Jackson",
     "title": "Gallup Certified Coach",
     "bio": "Chuck Jackson is a business executive of a FORTUNE 200 company in the Global Business Services sector and brings more than 25 years of experience to individuals, managers, teams and organizations seeking to improve their performance. As a Certified Gallup Strengths coach, Chuck is committed to your success. An avid business reader, STRENGTHSFINDER 2.0 truly opened his eyes by providing a process to identify and enhance his natural talents.  His top 5 Signature Themes are Learner, Focus, Analytical, Responsibility and Achiever. Chuck has leveraged the tools provided by Strengths Finders to maximize his talents into his strengths and he can help ensure that you and your organization reach your goals in a similarly dynamic and innovative fashion.  Chuck has always enjoyed helping people to learn and achieve their goals and brings authenticity, honesty and trust to the coaching relationship. Chuck’s job experiences and positions include Sales, Sales Management, Director, Division and Corporate Vice President positions.  In those positions he gained significant experience in sourcing, interviewing, developing and mentoring candidates at all levels.  In his division and corporate vice president positions, he also gained valuable experience in the areas of diversity and succession planning.  In addition to his corporate experience, Chuck is extremely active in his community where he holds a number of board and leadership positions, and has received numerous awards for his community and nonprofit efforts.  Chuck was also featured as one of seven corporate leaders recognized for his professional achievements on the cover of FORTUNE magazine in 1990. He holds a Master’s degree in Business Administration and a Bachelor’s degree in Business. To learn more about how Chuck can help you, please visit his website at www.EMJacksongroup.com or contact him at 925.389.6001.",
-    "location": "",
     "postalcode": 85331,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/chuck_jackson.jpg",
     "city": "Cave Creek",
     "state": "AZ",
     "citystate": "AZ > Cave Creek",
     "packages": [{
-        "userid": 579493,
+        "objectID": 579493,
         "packageid": 162,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -910,7 +892,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 579493,
+        "objectID": 579493,
         "packageid": 163,
         "session_type": "One-On-One",
         "package_title": "Private Coaching Session",
@@ -922,7 +904,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 579493,
+        "objectID": 579493,
         "packageid": 281,
         "session_type": "One-On-One",
         "package_title": "Private Coaching - 6 Sessions",
@@ -944,19 +926,18 @@
         "lng": -111.9284017
     }
 }, {
-    "userid": 4603259,
+    "objectID": 4603259,
     "firstname": "Cindi",
     "lastname": "Basenspiler",
     "title": "Strengths-Coach, Managing Director",
     "bio": "Cindi Basenspiler provides Leadership, Executive and Transition coaching to confident, determined individuals who are ready to take on their biggest challenge, aspire to be more satisfied with their life and are willing to work for it. Each customized program helps clients attain their highest potential, while driving them to form better habits and make life-enhancing choices.Cindi has over 20 years of dynamic, successful experience as a leader in both for-profit and nonprofit environments, as well as serving in the US Army. She is a wife and mother of young children, and has built and maintained strong community relationships with her philanthropic work. Cindi draws from her total life experience to bring a unique, balanced and authentic understanding of her role as a coach.",
-    "location": "",
     "postalcode": 28277,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/ec6ebe77-8bdc-4a97-a9a5-a6eac4b02a9b.jpg",
     "city": "Charlotte",
     "state": "NC",
     "citystate": "NC > Charlotte",
     "packages": [{
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 303,
         "session_type": "One-On-One",
         "package_title": "60-Days of Transition Coaching - Your Life. Better Than Ever.",
@@ -968,7 +949,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 304,
         "session_type": "One-On-One",
         "package_title": "60-Days of Executive Coaching - Your Life. Better Than Ever.",
@@ -980,7 +961,7 @@
         "specialties": ["Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 305,
         "session_type": "Team",
         "package_title": "3-Hour Workshop: Building Strong Teams (Includes StrengthFinder and Q-12 Team Engagement Assessments for up to 8)",
@@ -992,7 +973,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4603259,
+        "objectID": 4603259,
         "packageid": 306,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1014,12 +995,11 @@
         "lng": -80.8211696
     }
 }, {
-    "userid": 112313,
+    "objectID": 112313,
     "firstname": "Cindy",
     "lastname": "Baldwin",
     "title": "Coach",
     "bio": "Are you stressed? Overwhelmed? Confused? Lost? Dissatisfied or searching for meaning in your life? I would love to help you live a more fulfilling life because I\"ve felt extremely stressed, overwhelmed, hopeless and trapped before. I can relate. As a matter of fact, I\"ve hit bottom more than once. It was hard for me to ask for help, but I\"m so glad I did! Since I transformed into a calm, caring person with absolute peace of mind - I KNOW you can transform too! It can feel difficult to make an investment to take care of yourself with so much going on in your life, but believe me it is worth it! I used to be an extremely successful \"Type A\" salesperson, but didn\"t feel satisfied. When our sons left home, I looked for meaningful volunteer work. I started by  working with teens at Covenant House, then decided to retire and take a 9 month course in Professional Coaching. My \"sweet spot\" is helping stressed women find peace of mind while they reach their dreams. I have also helped several women make major life transitions as well.  Gallup certified me as a StrengthsFinder Coach, IPECcoaching.com certified me as an  Energy Leadership Master Practitioner, and CSL.org licensed me as an interfaith  Spirituality Coach/Practitioner. I am extensively trained how to ask powerful questions, and gifted with good intuition on when to ask which ones. See www.BaldwinSuccessCoaching.com  for testimonials from people just like you whom I\"ve helped to  transform their lives. They deserve the credit - I was just a support  person, in their corner with them. They are now on track to continue expanding their full potential!I live with my husband of 40 years on a lake in Alaska in the summer, and in Carlsbad in the winter. We both love coaching and learning. I welcome a complementary 20 minute discovery discussion with people from all lifestyles, backgrounds, and every spiritual path. If we don\"t both agree I\"m the right solution for you, I will provide  referrals and stick with you until you find one you believe is right for  you. To me, you are already whole, perfect and complete - the right answers for you are within you - please allow me to help you see this too!In this discovery discussion we\"ll get to know a little about each other, and I\"ll explain the process I use, which is a combination of Energy Leadership for structure and StrengthsFinder (R) for exciting discoveries regarding everything that is right about YOU!In your corner and by your side,Cindy",
-    "location": "",
     "postalcode": 99503,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/21b226c9-c409-4a0d-9cfe-2abcd8cc52db.png",
     "city": "Anchorage",
@@ -1035,19 +1015,18 @@
         "lng": -149.8902415
     }
 }, {
-    "userid": 2043761,
+    "objectID": 2043761,
     "firstname": "Cindy",
     "lastname": "Jackson",
     "title": "Coach & HR Consultant",
     "bio": "I am passionate about my clients discovering their peak moments; thosemomentswhen they are working within their strengths, delivering on resultsandengaged in their life’s work.As a coach, I focus on building trusting relationships enabling the client toexplore, challenge and consider meaningful solutions in a safe and trustingenvironment. I valueself-discovery, encourage innovative, creative thinking andsupport learning throughaction and reflection. I partner with my client to identifysolutions, establishaccountability metrics and feedback loops to support theiroutcomes.My 15 years of experience in Human Resources with 13 years in globalmanufacturingenvironments provided me with the opportunity to focus on peopledevelopment. These experiences shaped my philosophy on how to deliver real-time leadership development and coaching. As part of the Human Resourcesleadership team, I supported the management of talent as part of two mergers and supported the identification of talent in preparation for the organization being acquired. These experiences have created a heightenedawareness of theimportance of supporting people through change and their assimilation into a new normal.As a Gallup-Certified Strengths Coach, I focus on the positive, natural potentialand tendencies of my clients. As we explore areas of success, we will use theseexperiences as a springboard for future possibilities. Focusing on the strengthsof an individual creates self-awareness helping the client appreciate the power and opportunities that their dominant themes provide. In addition, I am also a ProfessionalCertified Coach through the International Coaching Federation.I am honored to be on this journey with my clients!",
-    "location": "",
     "postalcode": 53172,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/272e7a56-7f69-4b6c-9d23-3344a7973fa3.jpg",
     "city": "South Milwaukee",
     "state": "WI",
     "citystate": "WI > South Milwaukee",
     "packages": [{
-        "userid": 2043761,
+        "objectID": 2043761,
         "packageid": 141,
         "session_type": "One-On-One",
         "package_title": "Reaching Your Best Self With Strengths",
@@ -1059,7 +1038,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2043761,
+        "objectID": 2043761,
         "packageid": 142,
         "session_type": "Team",
         "package_title": "Building Team Effectiveness Through Strengths Partnerships",
@@ -1081,19 +1060,18 @@
         "lng": -87.8647961
     }
 }, {
-    "userid": 4258697,
+    "objectID": 4258697,
     "firstname": "Cindy",
     "lastname": "Mitchell",
     "title": "Coach",
     "bio": "Recently retired after serving 20 years in local government, 16 years as the elected officeholder, I am thrilled to be sharing Strengths based development with my clients.  I am strongly in favor of personal development and growth using a coach - in fact, I hired a coach early on in my career and it drastically improved my personal and professional life. As a leader and executive, I experienced the benefits of an engaged team when we focused on Strengths building and skills development.  Having retired, I am focusing 100% of my time working with leaders, teams, students and individuals that want to experience successes in their relationships - personally and professionally. Understanding and unlocking your superpowers is a fantastic journey, one that is most powerfully taken with a certified coach in your passenger seat!  If you want assistance unlocking your superpowers and figuring out how to use them in your daily life, I would love to partner with you on your path to success. My clients often remark that they most appreciate my real world experiences in business actually putting Strengths based leadership to work and the examples I am able to share because of that experience.  I do not hesitate sharing my own lessons learned in the trenches of executive leadership, management and customer service to benefit you on your journey!",
-    "location": "",
     "postalcode": 76227,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/cindy_mitchell.jpg",
     "city": "Aubrey",
     "state": "TX",
     "citystate": "TX > Aubrey",
     "packages": [{
-        "userid": 4258697,
+        "objectID": 4258697,
         "packageid": 347,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1105,7 +1083,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4258697,
+        "objectID": 4258697,
         "packageid": 348,
         "session_type": "Team",
         "package_title": "Strengths Based Teams",
@@ -1127,19 +1105,18 @@
         "lng": -96.9853474
     }
 }, {
-    "userid": 3955217,
+    "objectID": 3955217,
     "firstname": "Corrie",
     "lastname": "Greathouse Sloan",
     "title": "Founder and President",
     "bio": "Hello Strengths Community, I am personally very excited to be a part of the Gallup Coach Team, and to meet those who seek coaching services. I am the Founder and President of Life Uncommon, an Outpatient Chemical Dependency and Mental Health Facility near LAX Airport. Before opening Life Uncommon, I created and served as Executive Director of another Los Angeles-based treatment center for 3 years. My passion for helping addicts and alcoholics stay clean and sober and my own work in recovery inspired me to provide clients at Life Uncommon with something many treatment programs do not: the confidence, motivation, and follow-through to become self-sustaining, active members of society, while actively participating in their own recovery. All of our clients take the Strengths Assessment upon admit to our program so that we can offer the coaching and approach necessary to allow each client to embrace and develop their signature themes. A personal goal with Life Uncommon is to reduce recidivism in the world of treatment. Often clients are discharged from a program without any real life skills.  Many of them relapse for the sake of return to the safety net of treatment because they don\"t know how to achieve true independence and self-assurance. I seek to change that; for that reason exactly, the Clifton StrengthsFinder and Gallup Assessment have become integral parts of our program at LU. Before I worked in treatment and prior to my knowledge of Gallup, I maintained management positions in the Food and Beverage industry, particularly large-event catering companies throughout L.A. I am also a published writer, performance poet, and have received awards from the City of Los Angeles for volunteer work. I live with my husband and two sweet dogs and spend my free time reading and running marathons. I believe if it’s not challenging, it’s not worth it. Developing my Strengths and taking challenges head on has granted me a life in recovery beyond anything I dreamt possible for myself. I look forward to helping you discover yours.",
-    "location": "",
     "postalcode": 90045,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/corrie_greathouse-sloan.jpg",
     "city": "Los Angeles",
     "state": "CA",
     "citystate": "CA > Los Angeles",
     "packages": [{
-        "userid": 3955217,
+        "objectID": 3955217,
         "packageid": 105,
         "session_type": "One-On-One",
         "package_title": "Recovery",
@@ -1161,19 +1138,18 @@
         "lng": -118.3875775
     }
 }, {
-    "userid": 94576,
+    "objectID": 94576,
     "firstname": "Craig",
     "lastname": "Tucker",
     "title": "Business Leader and Strengths Coach",
     "bio": "Craig provides business strategies for leaders, managers and employees to create environments that inspire organizations to achieve more than they thought possible. Just imagine! Focus areas include:- Developing corporate leaders- Increasing team effectiveness- Improving employee engagementHe leverages his talents and strengths to achieve clients\" transformational and business objectives through strong leadership, disciplined program governance and implementing measurement systems to quantitatively and qualitatively measure results while driving organizational maturity. His design thinking methods and lean principles help clients think in multiple dimensions, clarify requirements, optimize processes, and make informed decisions to manage risk. Craig utilizes his strengths coaching expertise for team self-awareness, cross-organizational collaboration, cultural appreciation and employee engagement. His work has produced environments where employees are actively engaged and feel accountable for their contributions to overall programs success while consistently delivering results as promised. Craig’s transformation management expertise stems from 21 years Management and Executive experience leading projects and programs globally for IBM which included: engagement, account startup, employee and services transition, constructing and staffing delivery centers, data center relocations and consolidations. He has also assisted clients in transforming their businesses by introducing continual operational improvements through deployment of new tools, new technologies, and management system optimization. To pursue consulting or training opportunities please contact me via: Craig Tuckermobile: +1 678 520 9036mail: craigt@octiller.comskype: craig.tucker61Linkedin: linkedin.com/in/craigtuc61",
-    "location": "",
     "postalcode": 30064,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/74d8fd50-6226-4235-8a8e-aeba28974292.jpg",
     "city": "Marietta",
     "state": "GA",
     "citystate": "GA > Marietta",
     "packages": [{
-        "userid": 94576,
+        "objectID": 94576,
         "packageid": 189,
         "session_type": "One-On-One",
         "package_title": "Transitioning to a New Role or Team",
@@ -1185,7 +1161,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 94576,
+        "objectID": 94576,
         "packageid": 240,
         "session_type": "One-On-One",
         "package_title": "Strengths Journey - Self Awareness and Leadership for Managers",
@@ -1197,7 +1173,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 94576,
+        "objectID": 94576,
         "packageid": 255,
         "session_type": "One-On-One",
         "package_title": "Understanding and Utilizing your Strengths",
@@ -1219,19 +1195,18 @@
         "lng": -84.5955732
     }
 }, {
-    "userid": 1036117,
+    "objectID": 1036117,
     "firstname": "Dan",
     "lastname": "Burns",
     "title": "Certified Leadership Coach",
     "bio": "Dan looks forward to partnering with clients to help them discover and apply their talent in ways that lead to personal and professional transformation. He is especially passionate about helping leaders transform. Dan is a certified coach (Gallup-certified, Coaches Training Institute certified, International Coaching Federation certified) and college faculty member with over 20 years of experience serving industry-leading organizations. He holds an MBA with an emphasis in organizational development.",
-    "location": "",
     "postalcode": 54701,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/5d453ce0-f43d-416a-b35f-46b78b23e7fe.jpg",
     "city": "Eau Claire",
     "state": "WI",
     "citystate": "WI > Eau Claire",
     "packages": [{
-        "userid": 1036117,
+        "objectID": 1036117,
         "packageid": 22,
         "session_type": "One-On-One",
         "package_title": "Initial Session: Explore Your Leadership and Coaching Direction",
@@ -1243,7 +1218,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1036117,
+        "objectID": 1036117,
         "packageid": 228,
         "session_type": "One-On-One",
         "package_title": "Transformational Leadership Coaching",
@@ -1265,19 +1240,18 @@
         "lng": -91.5015009
     }
 }, {
-    "userid": 3677710,
+    "objectID": 3677710,
     "firstname": "Danielle",
     "lastname": "Smith",
     "title": "Certified Strengths Coach",
     "bio": "I obtained two BA degrees from the University of Northern Colorado in Musical Theatre and Directing.  In my MA work at the University of Nebraska at Omaha, I continued with my Performance Degree. Studying voice and theatre has given me the chance to work locally and internationally as an artist and acquire a wealth of experiences that have enhanced my global view and instilled my desire to lead in the arts field.  My energetic personality motivates people to engage through their talents and, in turn, I have a knack for finding potential not yet realized in those I work with.  I am an out of the box thinker, able to provide creative solutions to issues and negotiate logistics that may seem insurmountable to others. My creativity also helps me visualize what could be possible while maintaining grounding to give a foundation to those ideas.  My work ethic and ability to act quickly and decisively while balancing multiple projects and listening to other’s needs affords me the ability to accomplish my goals, meet deadlines, and forecast issues while coordinating multiple people. I have also researched all learning styles and have acquired cultural sensitivity from immersion with many cultures.  Beyond this, my networking sensibilities and a keen understanding of professional demeanor in the public eye have proved great assets for all outreach and media events. Most importantly, I am flexible, a quick study with others abilities, and enjoy individual and team training. I can\"t wait to get started in a partnership to assist you in your strengths journey!",
-    "location": "",
     "postalcode": 68104,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/danielle_smith.jpg",
     "city": "Omaha",
     "state": "NE",
     "citystate": "NE > Omaha",
     "packages": [{
-        "userid": 3677710,
+        "objectID": 3677710,
         "packageid": 42,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1289,7 +1263,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3677710,
+        "objectID": 3677710,
         "packageid": 43,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1311,19 +1285,18 @@
         "lng": -95.9938339
     }
 }, {
-    "userid": 12900,
+    "objectID": 12900,
     "firstname": "David",
     "lastname": "Gurian",
     "title": "Principal Consultant and Coach",
     "bio": "One of the hardest things to do as a leader is to find a way to rise above the required tasks of the role and make a real impact on the professional environment with which you\"ve been entrusted. My experience working with an All-Star chef from The Ritz-Carlton brought this reality front and center during the early days of my leadership journey. While that year was not a waste, it was not my best either. As a leader, I found myself torn between keeping my head above water and making a real difference. I saw some leaders try to do both, but their results were at best...temporary. Others simply gave up on making a difference.With my #1 Strength being Learner, it was not surprising that neither of those options seemed good to me. I wanted to learn and master the art of leadership. But leadership that is effective, not perfunctory. Leadership that uses the best I have to offer in a way the brings true Strength to the table.That journey towards learning Strengths-based leadership has taken me through important leadership roles in two elite organizations, The Ritz-Carlton and Mid-America Transplant. And resulted with becoming a Gallup Certified Strengths Coach. As a leader, I get what leaders struggle with and know how to coach them to a place of success. I approach leadership coaching and organizational improvement with a 9 Step system aimed at developing a leader\"s Strengths and creating an organizational culture that supports long-term success.I\"m looking to work with leaders who want to see real impact from their efforts and are willing to learn how to transform their organizational cultures (even from the bottom up) to achieve lasting impact.",
-    "location": "",
     "postalcode": 63144,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/6f45f7dd-9370-4208-b588-1ecd5c00df31.jpg",
     "city": "St. Louis",
     "state": "MO",
     "citystate": "MO > St. Louis",
     "packages": [{
-        "userid": 12900,
+        "objectID": 12900,
         "packageid": 195,
         "session_type": "One-On-One",
         "package_title": "Strengths-Based Leadership Coaching",
@@ -1335,7 +1308,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 12900,
+        "objectID": 12900,
         "packageid": 196,
         "session_type": "One-On-One",
         "package_title": "Senior Leader Coaching",
@@ -1347,7 +1320,7 @@
         "specialties": ["Executive Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 12900,
+        "objectID": 12900,
         "packageid": 197,
         "session_type": "One-On-One",
         "package_title": "9 Step Organizational Culture",
@@ -1369,19 +1342,18 @@
         "lng": -90.3513021
     }
 }, {
-    "userid": 654682,
+    "objectID": 654682,
     "firstname": "David",
     "lastname": "Schleif",
     "title": "Gallup Certified Strengths Coach",
     "bio": "Are you searching for a Gallup Certified Strengths Coach who understands both personal development and mechanical technology?My name is Dave Schleif and I\"ve been involved with Gallup and the StrengthsFinder process since I took the StrengthsFinder test in 2002. My career includes duty in the United States Navy - Submarine Service, as I served as a Comman Career Counselor and Leadership Trainer and continues with leadership roles in manufacturing, engineering and technical sales work teams. At Schleif/Learning, (www.schleiflearning.com) I work with individuals and companies who want to improve their lives through strengths-based development.I look forward to discussing with you the various ways I may be able to help you... discover your talents and build your strengths. My Clifton StrengthsFinder Top 5 - Maximizer | Intellection | Activator | Strategic | Input",
-    "location": "",
     "postalcode": 53095,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/d100ce92-97fb-4808-bccf-f773efeeb1dd.jpg",
     "city": "West Bend",
     "state": "WI",
     "citystate": "WI > West Bend",
     "packages": [{
-        "userid": 654682,
+        "objectID": 654682,
         "packageid": 362,
         "session_type": "Team",
         "package_title": "Creating Strength In Technical Teams",
@@ -1393,7 +1365,7 @@
         "specialties": ["Leadership", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 654682,
+        "objectID": 654682,
         "packageid": 369,
         "session_type": "Team",
         "package_title": "Understanding Talents and Strengths",
@@ -1405,7 +1377,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 654682,
+        "objectID": 654682,
         "packageid": 370,
         "session_type": "One-On-One",
         "package_title": "Introductory Session - The Clifton StrengthsFinder",
@@ -1427,12 +1399,11 @@
         "lng": -88.148657
     }
 }, {
-    "userid": 348100,
+    "objectID": 348100,
     "firstname": "Dian",
     "lastname": "Christian",
     "title": "owner",
     "bio": "Dian Christian, PhD, PCC has been working with strengths in organizations since 2001, having been certified in 2006 and recertified in 2013. The majority of her coaching practice involves strength-based leadership discussions, although she is also certified in the MBTI, Emotional Competency Inventory and Disc, and also uses the Enneagram as well. Her clients most often have significant new awareness and success when they apply their strengths to their most pressing and challenging goals. Dian\"s clientele primarily consist of large companies with development programs. She has worked with Fortune 500 companies, institutions of higher learning and global corporations as a critical part of their talent and leadership development program. Dian holds a Ph.D. in Human Development from Fielding Graduate University in Santa Barbara, CA, where she is an adjunct faculty member in their Evidence Based Coaching Program. Dian also holds a Professional Certified Coach (PCC) designation from the International Coach Federation. She has also co-authored a chapter in The Handbook of Knowledge-Based Coaching.",
-    "location": "",
     "postalcode": 27609,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/dian_christian.jpg",
     "city": "Raleigh",
@@ -1448,19 +1419,18 @@
         "lng": -78.6228504
     }
 }, {
-    "userid": 49924,
+    "objectID": 49924,
     "firstname": "Eugene",
     "lastname": "Taylor",
     "title": "Owner / President",
     "bio": "Eugene is a motivator, executive coach, trainer, and a leader in strengths understanding and application. He helps individuals, teams and organizations to see potential in everything that they do. With a history of more than 30 years in all aspects of productivity, organization, and profitability, he brings a contagious energy to every interaction. As a Gallup-Certified Strengths Coach, he helps his clients to embrace their natural themes and coaches them to develop themselves, their teams, and their organizations. By working with the client, he helps them develop customized plans that meet specific needs and objectives, resulting in the success they are striving for. He was formally trained in quality assurance/control, non-destructive test inspection, industrial engineering, manufacturing processes and principles, and team dynamics within the U.S. Navy, the nuclear power and aerospace industries. He has a bachelor’s degree in Industrial Technology as well as a Masters of Business Administration. This training, education and experiences give him an incredible ability to gain an understanding of the needs of the individual, the situation, and the organization to assure success. His current list of clients includes individuals, teams and organizations in architecture, automotive, chiropractic, dental, military, financial, and entrepreneurial areas. The diversity of this list clearly illustrates his comfort in working with a wide range of clients with any and all objectives.",
-    "location": "",
     "postalcode": 63026,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/eugene_taylor.jpg",
     "city": "St. Louis",
     "state": "MO",
     "citystate": "MO > St. Louis",
     "packages": [{
-        "userid": 49924,
+        "objectID": 49924,
         "packageid": 13,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (Top 5 Themes)",
@@ -1472,7 +1442,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 49924,
+        "objectID": 49924,
         "packageid": 138,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (All 34 Themes)",
@@ -1484,7 +1454,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 49924,
+        "objectID": 49924,
         "packageid": 139,
         "session_type": "One-On-One",
         "package_title": "Advanced StrengthsFinder 2.0 (Top 5 Themes)",
@@ -1506,19 +1476,18 @@
         "lng": -90.4596721
     }
 }, {
-    "userid": 4524298,
+    "objectID": 4524298,
     "firstname": "Fiona",
     "lastname": "Grant",
     "title": "FJ Grant Coaching & Consulting",
     "bio": "Creating MomentumFiona loves to help others see their potential and overcome obstacles  in their careers and lives. She has a broad background in international HR, leadership development and coaching in addition to technology and business consulting. She brings curiosity, humor and energy to her coaching work. Clients enjoy her direct style and will be  challenged to question assumptions or old stories which may be limiting  growth. She has trained using the Co-Active coaching model and will adapt her coaching style to the needs of her clients.Fiona has been a Strengths advocate and coach since 2006, when she used the framework in Accenture\"s leadership development program. She has worked across many nationalities and skill profiles especially in professional services,technology, engineering and operations. She has presented large corporate StrengthsFinder group sessions and has designed and led team development for high potentials and diversity groups, in addition to individual work with senior clients. She has always been at ease working one on one, pushing people to deepen their self-awareness and self-mastery. Fiona is the kind of person people turn to when they\"re having a rough time, for encouragement and to regain perspective. She has successfully coached high pressured executives at Accenture and Lockheed Martin through challenging times in their lives.Fiona grew up in the UK, Tunisia and Germany, lives in the U.S. and has also lived in France. She is naturally curious and has an outsider\"s ability to observe the different and the unique which serves her clients well. She is quick to see possibilities and her positive spirit inspires and emboldens others to act. She knows how to influence change in complex organizations and is an enthusiastic champion of innovation. Fiona particularly enjoys using the strengths model as development tool for teams and groups focused on diversity/inclusion.Personally, Fiona is a parent of two teenagers and married to an educator and poet. She has personal experience dealing with anxiety and depression and through her own experience of \"coming out\" as an executive  with depression she has helped others deal with the stigma/taboo of mental health issues in the workplace. Fiona was featured in \"Making Waves: Be the one to start change at work and in life\", for her pioneering work implementing domestic partner benefits at Accenture.Career Background:25 years with Accenture and Lockheed Martin in the UK, US, France, specializing in executive career management, coaching, leadership development, recruitment, inclusion and diversity programmingStrengths:Woo, Ideation, Individualization, Adaptability, Activator, Strategic, Arranger, Communication, Command, Positivity: Fiona is quick to connect and discern a person’s unique talents, to be creative and create momentum for clients. Education:BA in Politics and History, MA in Human Resource ManagementCertificate Program at Maryland University of Integrative HealthLanguages: Fluent French, conversational German.",
-    "location": "",
     "postalcode": 20817,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/f8695707-7b88-4266-8a79-0b395b0eeed0.jpeg",
     "city": "Washington DC Metro",
     "state": "MD",
     "citystate": "MD > Washington DC Metro",
     "packages": [{
-        "userid": 4524298,
+        "objectID": 4524298,
         "packageid": 172,
         "session_type": "One-On-One",
         "package_title": "Executive Energy Reboot - Where did my mojo go?",
@@ -1530,7 +1499,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4524298,
+        "objectID": 4524298,
         "packageid": 190,
         "session_type": "One-On-One",
         "package_title": "Diversity Leadership - Creating and Maintaining Momentum",
@@ -1552,18 +1521,17 @@
         "lng": -77.1370115
     }
 }, {
-    "userid": 573461,
+    "objectID": 573461,
     "firstname": "George A",
     "lastname": "Garza",
     "title": "Engagement and Strengths Consultant",
     "bio": "George Garza is a Husband, Father, Friend, Mentor, Entrepreneur, and Businessman. His wife’s name is Viva, which means life in Spanish. He and Viva have three beautiful children. He tells anyone who will listen that, There is no greater responsibly than being a father, and there is no greater privilege than to be a Dad.In 2014, he celebrated his birthday by inviting 78 of his closest friends to dinner just to thank them for their friendship. George believes that his life has been blessed beyond measure and mentoring is a small way to give back. Having an aversion to work for anyone, he started multiple businesses. He opened a Printing company in his junior year in high school, started a vending company when he was 19 and began investing in real estate in his early twenties.  In 1985, he purchased a small computer company that built IBM clones and in 2001 he entered the world of Security where he founded and is the current President of Surveillance Solutions. While training for a half marathon, he began to evaluate where he wanted to invest the balance of his life now that his daily daddy duties were nearing an end. Where could he make the best use of 35+ years of business experience and still engage the passion he had raising his children? He remembered how the Gallup Strengths Finder Assessment had greatly helped him understand how people are motivated and inspired. What better way to invest his life than to help people to become a better version of themselves by learning and improving what’s right with them instead of what’s wrong with them? What better organization to partner with than the Gallup Company? So he went through Gallup’s comprehensive Accelerated Coaching Course and became a Gallup Certified Strengths Coach. Next, he created a company dedicated to helping people transform their lives. His forthcoming book is called StrengthFormation –Transformation through Strength. Gallup proclaims that individuals are not meant to be well rounded, Teams should. The power behind StrengthsFinders is the exponential explosion that happens when a Team aims their individual Strengths at a specific goal. Contact George and his Team at StrengthFormation210-349-2900Website: www.GeorgeGarza.com LinkedIn: www.linkedin.com/in/GeorgeGarza",
-    "location": "",
     "postalcode": 78240,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/george_a_garza.jpg",
     "city": "San Antonio",
     "state": "TX",
     "packages": [{
-        "userid": 573461,
+        "objectID": 573461,
         "packageid": 23,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1585,19 +1553,18 @@
         "lng": -98.6105703
     }
 }, {
-    "userid": 4605644,
+    "objectID": 4605644,
     "firstname": "Greg",
     "lastname": "Hessel",
     "title": "Principal",
     "bio": "Work: Coach and organizational consulting as Principal of ReGeneration ResourcesEducation: Master’s in Organizational Development, American University; Certificate in Mediation, Woodbury College, BS, St. John’s University (MN) Greg Hessel is a Gallup certified Strengths coach, trainer, and consultant who helps clients grow, change and manage conflict.  In addition to his coaching certification, Greg has a certificate in conflict management and a Masters in Science in Organizational Development from American University in Washington DC. Greg’s approach to coaching is grounded in a commitment to approaching client issues with deep listening and curiosity.  While he occasionally brings his own ideas into coaching conversations, Greg’s mediation background has taught him that solutions are more likely to take root when they come from clients themselves.  Greg’s consulting work includes organizational assessments, leading change initiatives, managing conflict, facilitating strategic planning and improving communication.  Greg directed Cheshire Mediation in Keene, NH for 10 years before founding ReGeneration Resources in 2007.  Prior to working for Cheshire Mediation, Greg spent time working in Bosnia, El Salvador and Nicaragua, and while in Nicaragua he was part of a team that successfully negotiated the release of a kidnapped member of the Italian clergy.  Greg lives in southern Vermont with his wife and two boys.  His hobbies include biking and ping-pong.",
-    "location": "",
     "postalcode": 5301,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/greg_hessel.jpg",
     "city": "Brattleboro",
     "state": "VT",
     "citystate": "VT > Brattleboro",
     "packages": [{
-        "userid": 4605644,
+        "objectID": 4605644,
         "packageid": 342,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1619,12 +1586,11 @@
         "lng": -72.561284
     }
 }, {
-    "userid": 2611682,
+    "objectID": 2611682,
     "firstname": "Heather",
     "lastname": "Nicole",
     "title": "Leadership Development Professional",
     "bio": "Hello! Thank you for visiting my profile. My name is Heather Nicole, and I am a leadership development professional and Gallup certified strengths coach.I have worked for over 15 years for global companies of all sizes, growing leaders to be better managers to their teams and drive business results.I also built and sold a franchisedmultiple-six-figuredoggie daycare and boarding business, successfully combining Profit + Purpose by fostering and adopting out rescue dogs, all while serving a loyal client base.My goal is to help each individual align their career to a purpose bigger than themselves. I enjoy working with entrepreneurs who are starting or growing a purpose-driven or social cause business. I also enjoy working with individuals who are looking to grow their corporate career, while doing their best work every day.Please reach out if you are interested in learning more about your natural talents, and how you can aim them to achieve your goals. I would love to work with you.",
-    "location": "",
     "postalcode": 46062,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/ab4f881e-6a08-413a-8d2f-e1267841538e.jpg",
     "city": "Noblesville",
@@ -1640,19 +1606,18 @@
         "lng": -86.0631561
     }
 }, {
-    "userid": 1525387,
+    "objectID": 1525387,
     "firstname": "Henriet",
     "lastname": "Schapelhouman",
     "title": "President",
     "bio": "Henriët Schapelhouman, president of Semper Vita Institute, is a certified MBTI Practitioner and Gallup-Certified Strengths Coach. She also is an ordained minister in the Free Methodist Church. Her passion is to unleash people to be their best.  Semper Vita Institute is a training company that uses Clifton StrengthsFinder and Myers-Briggs Type Indicator (MBTI) assessments to help executives, individual, couples and teams discover and develop their personal wiring. Prior to founding Semper Vita Institute, she worked at Timberlake Christian Fellowship in Redmond, WA, as pastor of adult ministries. Before Timberlake she had been a pastor to women at Lincoln Glen Church in San Jose, CA. Henriët started with a career in public relations for the high-tech and consumer sectors after graduating with a marketing degree. Henriët has a master’s degree in global leadership from Fuller Theological Seminary, Pasadena, California, and a bachelor’s degree in business from the University of Santa Clara, Santa Clara, California. She is a speaker at conferences and retreats, and has conducted many training workshops and leadership classes. She has had several articles published and writes on her blog, www.henrietsblog.com.",
-    "location": "",
     "postalcode": 98053,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/henriet_schapelhouman.jpg",
     "city": "Redmond",
     "state": "WA",
     "citystate": "WA > Redmond",
     "packages": [{
-        "userid": 1525387,
+        "objectID": 1525387,
         "packageid": 334,
         "session_type": "One-On-One",
         "package_title": "Initial coaching session",
@@ -1664,7 +1629,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "DUTCH, ENGLISH-AMERICAN"
     }, {
-        "userid": 1525387,
+        "objectID": 1525387,
         "packageid": 335,
         "session_type": "One-On-One",
         "package_title": "Informational and Introductory Session",
@@ -1680,13 +1645,13 @@
         "average": 5,
         "count": 29
     },
-    "gender": "Male",
+    "gender": "Woman",
     "_geoloc": {
         "lat": 47.6556113,
         "lng": -122.0243323
     }
 }, {
-    "userid": 30880,
+    "objectID": 30880,
     "firstname": "Henry",
     "lastname": "Lescault",
     "title": "Behavioral Change Coach",
@@ -1706,7 +1671,7 @@
         "lng": -77.3266991
     }
 }, {
-    "userid": 4821468,
+    "objectID": 4821468,
     "firstname": "Jamie",
     "lastname": "Douraghy",
     "title": "Founder",
@@ -1717,7 +1682,7 @@
     "state": "CA",
     "citystate": "CA > Los Angeles",
     "packages": [{
-        "userid": 4821468,
+        "objectID": 4821468,
         "packageid": 349,
         "session_type": "One-On-One",
         "package_title": "Introductory Session to understand how to build on your strengths",
@@ -1729,7 +1694,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4821468,
+        "objectID": 4821468,
         "packageid": 350,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -1751,7 +1716,7 @@
         "lng": -118.4484367
     }
 }, {
-    "userid": 831929,
+    "objectID": 831929,
     "firstname": "Jan",
     "lastname": "Makela",
     "title": "Gallup Certified Coach",
@@ -1762,7 +1727,7 @@
     "state": "MD",
     "citystate": "MD > Ellicott City",
     "packages": [{
-        "userid": 831929,
+        "objectID": 831929,
         "packageid": 356,
         "session_type": "Team",
         "package_title": "Strength Based Leadership for Organizations and Teams",
@@ -1784,7 +1749,7 @@
         "lng": -76.8951551
     }
 }, {
-    "userid": 355273,
+    "objectID": 355273,
     "firstname": "Jayne",
     "lastname": "Jenkins",
     "title": "Executive PCC & Strengths Coach",
@@ -1795,7 +1760,7 @@
     "state": "FL",
     "citystate": "FL > Tampa",
     "packages": [{
-        "userid": 355273,
+        "objectID": 355273,
         "packageid": 37,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -1817,7 +1782,7 @@
         "lng": -82.5889012
     }
 }, {
-    "userid": 4517216,
+    "objectID": 4517216,
     "firstname": "Jeanmarie",
     "lastname": "Zabilowicz",
     "title": "Strengths Coach and HR Consultant",
@@ -1828,7 +1793,7 @@
     "state": "FL",
     "citystate": "FL > Tampa Bay",
     "packages": [{
-        "userid": 4517216,
+        "objectID": 4517216,
         "packageid": 32,
         "session_type": "One-On-One",
         "package_title": "Leveraging Your Strengths for Peak Performance in Life, Work and Relationships",
@@ -1850,7 +1815,7 @@
         "lng": -82.4969331
     }
 }, {
-    "userid": 211326,
+    "objectID": 211326,
     "firstname": "Jennifer",
     "lastname": "Selke",
     "title": "Summer Camp Dir/Faculty UC Berkeley",
@@ -1861,7 +1826,7 @@
     "state": "CA",
     "citystate": "CA > Berkeley",
     "packages": [{
-        "userid": 211326,
+        "objectID": 211326,
         "packageid": 15,
         "session_type": "One-On-One",
         "package_title": "How to Use Your Strengths to Forward Your Career",
@@ -1873,7 +1838,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 211326,
+        "objectID": 211326,
         "packageid": 180,
         "session_type": "One-On-One",
         "package_title": "How to Apply Your StrengthsFinder Results to Your Life",
@@ -1895,13 +1860,13 @@
         "lng": -122.1178261
     }
 }, {
-    "userid": 532727,
+    "objectID": 532727,
     "firstname": "Jennifer",
     "lastname": "Miller",
     "title": "Coach",
     "bio": "With a genuine talent and excellence driven approach, Jennifer has been leading high performance strengths based teams for 15+ years. As a coach, Jennifer has a broad range of expertise and resources with agility to customize and facilitate a highly effective personal session, presentation, guest lecture, workshop, or retreat. More than 1,000 unique and talented individuals have attended a strengths session with Jennifer since 2007.  Jennifer became a Gallup Certified Strengths Coach in 2014. Connect with Jennifer on LinkedIn (http://www.linkedin.com/in/millerjenf), at jennifer@intentionalstrengths.com, or 909-810-6683. There is a strong connection betweenwho people are and what they do best,what people do best and how they feel,how people feel and how they perform.~ Tom Rath",
     "postalcode": 77459,
-    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/jennifer_miller.jpg",
+    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/01898fe1-dffe-4335-9c44-96874a43c3f9/100x100",
     "city": "Houston",
     "state": "TX",
     "citystate": "TX > Houston",
@@ -1915,7 +1880,7 @@
         "lng": -95.5302337
     }
 }, {
-    "userid": 4250268,
+    "objectID": 4250268,
     "firstname": "Jennifer",
     "lastname": "McNelly",
     "title": "Executive Director",
@@ -1926,7 +1891,7 @@
     "state": "DC",
     "citystate": "DC > Washington",
     "packages": [{
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 293,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (Introductory Session)",
@@ -1938,7 +1903,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 295,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (3 Coaching Sessions)",
@@ -1950,7 +1915,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 296,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (6 Coaching Sessions)",
@@ -1962,7 +1927,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 297,
         "session_type": "One-On-One",
         "package_title": "Women in Manufacturing Leading from Strengths (12 Coaching Sessions)",
@@ -1974,7 +1939,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 300,
         "session_type": "Team",
         "package_title": "Advancing Women in Manufacturing (Up 25 individuals)",
@@ -1986,7 +1951,7 @@
         "specialties": ["Career", "Executive Coach", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 301,
         "session_type": "Team",
         "package_title": "Advancing Women in Manufacturing (Up 100 individuals)",
@@ -1998,7 +1963,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4250268,
+        "objectID": 4250268,
         "packageid": 302,
         "session_type": "Team",
         "package_title": "Advancing Women in Manufacturing (Up 300 individuals)",
@@ -2020,7 +1985,7 @@
         "lng": -77.0190228
     }
 }, {
-    "userid": 4384428,
+    "objectID": 4384428,
     "firstname": "Jennifer",
     "lastname": "Brockhoff",
     "title": "Director - Human Resources",
@@ -2040,7 +2005,7 @@
         "lng": -85.5715015
     }
 }, {
-    "userid": 1962566,
+    "objectID": 1962566,
     "firstname": "Jim",
     "lastname": "Supple",
     "title": "Coach and Consultant",
@@ -2060,7 +2025,7 @@
         "lng": -70.8892886
     }
 }, {
-    "userid": 168564,
+    "objectID": 168564,
     "firstname": "Joan",
     "lastname": "Nosal",
     "title": "Executive Coach",
@@ -2071,7 +2036,7 @@
     "state": "OH",
     "citystate": "OH > Chagrin Falls",
     "packages": [{
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 319,
         "session_type": "One-On-One",
         "package_title": "Exam your full 34 Strengths",
@@ -2083,7 +2048,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 320,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -2095,7 +2060,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 321,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -2107,7 +2072,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 322,
         "session_type": "One-On-One",
         "package_title": "Strengths Coaching Executive Package",
@@ -2119,7 +2084,7 @@
         "specialties": ["Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 168564,
+        "objectID": 168564,
         "packageid": 336,
         "session_type": "One-On-One",
         "package_title": "Develop Talents into Strengths 6 week Package",
@@ -2141,7 +2106,7 @@
         "lng": -81.2739073
     }
 }, {
-    "userid": 3483698,
+    "objectID": 3483698,
     "firstname": "John",
     "lastname": "Augusto, Ph.D.",
     "title": "Gallup Certified Strengths Coach",
@@ -2152,7 +2117,7 @@
     "state": "KS",
     "citystate": "KS > Lawrence",
     "packages": [{
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 231,
         "session_type": "One-On-One",
         "package_title": "Well Being: Get started",
@@ -2164,7 +2129,7 @@
         "specialties": ["Career", "Executive Coach", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 232,
         "session_type": "One-On-One",
         "package_title": "Well Being: Claim Your Strengths",
@@ -2176,7 +2141,7 @@
         "specialties": ["Career", "Executive Coach", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 234,
         "session_type": "One-On-One",
         "package_title": "Living Your Strengths",
@@ -2188,7 +2153,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 235,
         "session_type": "One-On-One",
         "package_title": "Living Your Strengths",
@@ -2200,7 +2165,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 248,
         "session_type": "Team",
         "package_title": "Keynote & Coaching Session",
@@ -2212,7 +2177,7 @@
         "specialties": ["Career", "Leadership", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3483698,
+        "objectID": 3483698,
         "packageid": 268,
         "session_type": "One-On-One",
         "package_title": "Lead with Strengths",
@@ -2234,7 +2199,7 @@
         "lng": -95.3730176
     }
 }, {
-    "userid": 1779271,
+    "objectID": 1779271,
     "firstname": "Josh",
     "lastname": "Kester",
     "title": "Independent Coach",
@@ -2245,7 +2210,7 @@
     "state": "IA",
     "citystate": "IA > Des Moines",
     "packages": [{
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 29,
         "session_type": "Team",
         "package_title": "Team Session",
@@ -2257,7 +2222,7 @@
         "specialties": ["Career", "Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 109,
         "session_type": "Team",
         "package_title": "Keynote Presentation",
@@ -2269,7 +2234,7 @@
         "specialties": ["Career", "Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 110,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -2281,7 +2246,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 111,
         "session_type": "One-On-One",
         "package_title": "Career Exploration",
@@ -2293,7 +2258,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 112,
         "session_type": "Team",
         "package_title": "How to Coach Your Team",
@@ -2305,7 +2270,7 @@
         "specialties": ["Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1779271,
+        "objectID": 1779271,
         "packageid": 113,
         "session_type": "One-On-One",
         "package_title": "Becoming A Strengths Organization",
@@ -2327,7 +2292,7 @@
         "lng": -93.7333537
     }
 }, {
-    "userid": 71944,
+    "objectID": 71944,
     "firstname": "Judy",
     "lastname": "Bertotto",
     "title": "Strengths Lady   Discovery Coach",
@@ -2338,7 +2303,7 @@
     "state": "NJ",
     "citystate": "NJ > Cape May",
     "packages": [{
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 210,
         "session_type": "One-On-One",
         "package_title": "What is Your Personal Brand of excellence? Can You Describe What You Bring? Discover What Your Stengths Are.",
@@ -2350,7 +2315,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 211,
         "session_type": "One-On-One",
         "package_title": "Apply Your Strengths - Amplify Your Brand - How Can You Effectively Use Your Strengths?",
@@ -2362,7 +2327,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 212,
         "session_type": "One-On-One",
         "package_title": "Discover/Unpack/Learn and then Apply/Use Your Strengths",
@@ -2374,7 +2339,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 213,
         "session_type": "Team",
         "package_title": "Team Dynamics - Consultation - Strengths-based Development Proven to Positively Impact: Engagement, Profit, Safety, Sales, Turnover",
@@ -2386,7 +2351,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 230,
         "session_type": "One-On-One",
         "package_title": "Gift Package - Give the gift of Strengths - Self-Awareness - Confidence - Development - to someone - Graduation, life transition",
@@ -2398,7 +2363,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 236,
         "session_type": "One-On-One",
         "package_title": "Be the Best Version of You - You are 1 in 33 million - Positively Impact Your Quality of Life/Well-being",
@@ -2410,7 +2375,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 71944,
+        "objectID": 71944,
         "packageid": 257,
         "session_type": "One-On-One",
         "package_title": "What is Your Brand? Personalized Elevator Speech? LinkedIn Profile? Resume Info?",
@@ -2432,7 +2397,7 @@
         "lng": -74.9091853
     }
 }, {
-    "userid": 259524,
+    "objectID": 259524,
     "firstname": "Karen",
     "lastname": "Biebuyck",
     "title": "Founder, Principal Consultant",
@@ -2452,18 +2417,18 @@
         "lng": -83.1327332
     }
 }, {
-    "userid": 913871,
+    "objectID": 913871,
     "firstname": "Kathie",
     "lastname": "Gautille",
     "title": "Strengths Coach",
     "bio": "www.kathiegautille.comHave you ever noticed that some projects excite you and you’re almost disappointed when they’re finished, while you can only complete other projects by forcing yourself to slog through it? Have you wondered why? The answer lies in your innate strengths and talents! As an experienced Gallup-Certified CliftonStrengths Coach, I know I can help you find and understand YOUR personal strengths and talents. Having that knowledge can empower you to overcome the barriers and obstacles that are currently standing in the way of your ultimate success and happiness in all areas of life: personal, professional and spiritual. Using my dynamic methods and the CliftonStrengths principles, I’ve helped many individuals achieve their goals and stronger self-awareness over the past five years. I’ve also helped build highly productive teams, who understand how their individual talents work together to realize uncommon results! Just imagine what happens when people in leadership positions have detailed knowledge of the strengths of each person on their team and when each individual team member fully understands their own strengths and skills. Those leaders will be able to quickly and efficiently assign to each team member the tasks at which they are most likely to excel – allowing the team and the its leader to soar to unimagined success! I am Kathie Gautille, Gallup-Certified CliftonStrengths Coach & Team Builder – and I would love the opportunity to help you discover YOUR strengths! Please visit my website and read my recommendations on my LinkedIn profile!",
     "postalcode": 75019,
-    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/2af5801c-3aa5-4a52-83b9-6fae5add1132.jpg",
+    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/f32f3c8c-2b9f-46f9-9276-200c3e9d77a8/100x100",
     "city": "Coppell",
     "state": "TX",
     "citystate": "TX > Coppell",
     "packages": [{
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 116,
         "session_type": "One-On-One",
         "package_title": "You have taken the CliftonStrengths Assessment...now what?",
@@ -2475,7 +2440,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 117,
         "session_type": "One-On-One",
         "package_title": "GOT GOALS?  Goal setting session -- Two hour coaching session",
@@ -2487,7 +2452,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 118,
         "session_type": "One-On-One",
         "package_title": "Strengths Discovery & Goal Setting -- (2) Two hours sessions",
@@ -2499,7 +2464,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 119,
         "session_type": "Team",
         "package_title": "Growing an Engaged Team -- Team Building for performance & results!",
@@ -2511,7 +2476,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 120,
         "session_type": "One-On-One",
         "package_title": "Changing the career course with confidence!    CAREER COACHING",
@@ -2523,7 +2488,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 913871,
+        "objectID": 913871,
         "packageid": 121,
         "session_type": "Team",
         "package_title": "Celebrating the unique beauty within every woman -- Women of faith",
@@ -2545,18 +2510,18 @@
         "lng": -96.9960925
     }
 }, {
-    "userid": 678611,
+    "objectID": 678611,
     "firstname": "Kathy",
     "lastname": "Kersten",
     "title": "CEO",
     "bio": "In 2006, Kathy discovered her Strengths and has been on an incredible strengths journey for over a decade. As a Gallup Certified Coach at Rackspace Hosting, Kathy led strengths-based initiatives in every part of the employee experience for over 5 years. Driven by her Strengths, Kathy set out on her own in 2012 and has enjoyed working with leaders who are interested in building strengths-based organizations.Calling upon her creative and strategic talents, Kathy enjoys connecting employees to their jobs through personal coaching, team development, leadership training and internal communications. She possesses a deep understanding of how strengths play a foundational role in employee engagement, manager effectiveness, and corporate culture. Working with leaders and teams to develop healthy work environments that leverage individual\"s strengths is her forte!",
     "postalcode": 78232,
-    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/kathy_kersten.jpg",
+    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/57a7db8f-0a0e-4eb9-9be5-900b2e13b888/100x100",
     "city": "San Antonio",
     "state": "TX",
     "citystate": "TX > San Antonio",
     "packages": [{
-        "userid": 678611,
+        "objectID": 678611,
         "packageid": 102,
         "session_type": "Team",
         "package_title": "Strengths Session for High-Growth, High Impact Teams",
@@ -2578,7 +2543,7 @@
         "lng": -98.4568128
     }
 }, {
-    "userid": 1426287,
+    "objectID": 1426287,
     "firstname": "Katie",
     "lastname": "Christy",
     "title": "Gallup Certified Strengths Coach",
@@ -2589,7 +2554,7 @@
     "state": "NC",
     "citystate": "NC > Raleigh",
     "packages": [{
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 318,
         "session_type": "Team",
         "package_title": "Finding and Flexing Your Strengths",
@@ -2601,7 +2566,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 323,
         "session_type": "Team",
         "package_title": "Forming Powerful Partnerships",
@@ -2613,7 +2578,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 324,
         "session_type": "Team",
         "package_title": "Johari Window Strengths Session",
@@ -2625,7 +2590,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 325,
         "session_type": "Team",
         "package_title": "Theme Dynamics Strengths Session",
@@ -2637,7 +2602,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 326,
         "session_type": "Team",
         "package_title": "Raw/Refined Strengths Session",
@@ -2649,7 +2614,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 327,
         "session_type": "Team",
         "package_title": "Strong Enough",
@@ -2661,7 +2626,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 328,
         "session_type": "Team",
         "package_title": "Making Happiness a Habit",
@@ -2673,7 +2638,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 329,
         "session_type": "Team",
         "package_title": "Strengths-Based Vision Board",
@@ -2685,7 +2650,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 330,
         "session_type": "Team",
         "package_title": "Strengths-Based Goal Setting",
@@ -2697,7 +2662,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 331,
         "session_type": "One-On-One",
         "package_title": "Harnessing the Power of the StrengthsFinder Assessment",
@@ -2709,7 +2674,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 332,
         "session_type": "One-On-One",
         "package_title": "Strengths-Based Parenting",
@@ -2721,7 +2686,7 @@
         "specialties": ["Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1426287,
+        "objectID": 1426287,
         "packageid": 333,
         "session_type": "Team",
         "package_title": "ACTIVATE- a corporate wellness program",
@@ -2743,19 +2708,18 @@
         "lng": -79.3690831
     }
 }, {
-    "userid": 2867908,
+    "objectID": 2867908,
     "firstname": "Katie",
     "lastname": "McCloskey",
     "title": "Strengths Coach & HR Consultant",
     "bio": "Katie has over 25 years’ experience working in Human Resources, is an experienced Human Resource Consultant and Gallup-Certified Strengths Coach. She has an undergraduate degree in Psychology and Sociology from the University of Wisconsin-Madison and a Master’s Degree in Human Resources and Industrial Relations from the University of Wisconsin-Milwaukee. The knowledge she’s gained working with a vast array of organizations, teams and individuals at varying organizational levels, studying thousands of jobs as a Human Resource Consultant, coupled with her experience developing and implementing performance management/employee development programs, provides her with a unique perspective for coaching individuals and teams.  She has a heartfelt belief in others and what they can achieve when they really know and understand their own natural talents, work to build their own talents into strengths and then leverage their strengths towards achievement of a goal. Her logical, disciplined approach creates security and certainty with her clients. Her goal is to create self-reliance in others by training, coaching and empowering her clients to create and understand their own internal measures and motivators. One of her greatest joys is to watch a team, individual, or organization achieve their goals. Katie\"s top five strengths are Input, Responsibility, Arranger, Individualization, and Learner. What do the power of these strengths mean to you? It means that when hiring her as a coach, you first and foremost, get a good listener who is passionate about truly understanding each individual\"s needs and goals along with the goals for the team and organization. She will deliver on what she promises, provides systems for tracking progress, and has a knack for bringing order to the challenges of the growth and development process. Katie can be reached at 608-334-5283 or strengthsnavigators@gmail.com.",
-    "location": "",
     "postalcode": 53590,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/katie_mccloskey.jpg",
     "city": "Sun Prairie",
     "state": "WI",
     "citystate": "WI > Sun Prairie",
     "packages": [{
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 150,
         "session_type": "One-On-One",
         "package_title": "Students:  High School, College or Recent Grads confused about \"What\"s Next\" or  \"How\" to get there? (Starter Package)",
@@ -2767,7 +2731,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 214,
         "session_type": "One-On-One",
         "package_title": "Job Transition: Seeking a Dream Job or Next Promotion?,  Not Sure What\"s Next? (Starter Package)",
@@ -2779,7 +2743,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 215,
         "session_type": "One-On-One",
         "package_title": "Transition Back Into the Workforce (Starter Package)",
@@ -2791,7 +2755,7 @@
         "specialties": ["Career"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 216,
         "session_type": "One-On-One",
         "package_title": "Improving Work Performance: Moving From Struggling to Successful",
@@ -2803,7 +2767,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 217,
         "session_type": "One-On-One",
         "package_title": "Improve Your Leadership Skills: Executives, Managers, Supervisors, & Aspiring Leaders",
@@ -2815,7 +2779,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 218,
         "session_type": "Team",
         "package_title": "Cultivating  a Strengths-Based Culture: Team Building Kick Off",
@@ -2827,7 +2791,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2867908,
+        "objectID": 2867908,
         "packageid": 220,
         "session_type": "Team",
         "package_title": "Quick Overview for Teams",
@@ -2849,7 +2813,7 @@
         "lng": -89.189643
     }
 }, {
-    "userid": 2702354,
+    "objectID": 2702354,
     "firstname": "Kim",
     "lastname": "Keefer",
     "title": "Furman University, Shucker Center",
@@ -2860,7 +2824,7 @@
     "state": "SC",
     "citystate": "SC > Greenville",
     "packages": [{
-        "userid": 2702354,
+        "objectID": 2702354,
         "packageid": 312,
         "session_type": "Team",
         "package_title": "Leaders BUILD Great Teams!",
@@ -2882,7 +2846,7 @@
         "lng": -82.4353271
     }
 }, {
-    "userid": 1957828,
+    "objectID": 1957828,
     "firstname": "Kimberly",
     "lastname": "Taylor",
     "title": "Vice President",
@@ -2893,7 +2857,7 @@
     "state": "MO",
     "citystate": "MO > St. Louis",
     "packages": [{
-        "userid": 1957828,
+        "objectID": 1957828,
         "packageid": 135,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (Top 5 Themes)",
@@ -2905,7 +2869,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1957828,
+        "objectID": 1957828,
         "packageid": 136,
         "session_type": "One-On-One",
         "package_title": "Introduction to StrengthsFinder 2.0 (All 34 Themes)",
@@ -2917,7 +2881,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1957828,
+        "objectID": 1957828,
         "packageid": 137,
         "session_type": "One-On-One",
         "package_title": "Advanced StrengthsFinder 2.0 (Top 5 Themes)",
@@ -2939,7 +2903,7 @@
         "lng": -90.4596721
     }
 }, {
-    "userid": 4687439,
+    "objectID": 4687439,
     "firstname": "Kirsten",
     "lastname": "Cavendish",
     "title": "CEO",
@@ -2950,7 +2914,7 @@
     "state": "CA",
     "citystate": "CA > Santa Barbara",
     "packages": [{
-        "userid": 4687439,
+        "objectID": 4687439,
         "packageid": 238,
         "session_type": "Team",
         "package_title": "Team Strengths coaching, from the people who advise many of the worlds most admired brands",
@@ -2962,7 +2926,7 @@
         "specialties": ["Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4687439,
+        "objectID": 4687439,
         "packageid": 239,
         "session_type": "One-On-One",
         "package_title": "Personal strengths coaching, from the people who advise many of the worlds most admired brands",
@@ -2984,7 +2948,7 @@
         "lng": -119.6151426
     }
 }, {
-    "userid": 2225913,
+    "objectID": 2225913,
     "firstname": "Kristen",
     "lastname": "Suro",
     "title": "Strengths Development Coach, Strengths Consultant",
@@ -2995,7 +2959,7 @@
     "state": "MN",
     "citystate": "MN > Stillwater",
     "packages": [{
-        "userid": 2225913,
+        "objectID": 2225913,
         "packageid": 64,
         "session_type": "One-On-One",
         "package_title": "Who are you in Strength? Individual session.",
@@ -3007,7 +2971,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2225913,
+        "objectID": 2225913,
         "packageid": 286,
         "session_type": "One-On-One",
         "package_title": "Apply your Strengths for Individuals",
@@ -3029,7 +2993,7 @@
         "lng": -92.8470124
     }
 }, {
-    "userid": 2363746,
+    "objectID": 2363746,
     "firstname": "Lisa",
     "lastname": "Cummings",
     "title": "CEO, Lead Through Strengths",
@@ -3040,7 +3004,7 @@
     "state": "TX",
     "citystate": "TX > Austin",
     "packages": [{
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 314,
         "session_type": "One-On-One",
         "package_title": "1x1 StrengthsFinder Coaching Call for Leaders or High Potential Employees",
@@ -3052,7 +3016,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 315,
         "session_type": "One-On-One",
         "package_title": "1x1 StrengthsFinder Coaching Call (5-Session Package) for Leaders or High Potential Employees",
@@ -3064,7 +3028,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 316,
         "session_type": "Team",
         "package_title": "Virtual Team Training - StrengthsFinder Lunch ’N Learn - Live & On Camera for Up To 200 Participants",
@@ -3076,7 +3040,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2363746,
+        "objectID": 2363746,
         "packageid": 317,
         "session_type": "Team",
         "package_title": "Instructor Led Virtual StrengthsFinder Team Training - Live & On Camera for Up To 200 Participants",
@@ -3098,7 +3062,7 @@
         "lng": -97.7525352
     }
 }, {
-    "userid": 2577685,
+    "objectID": 2577685,
     "firstname": "Lisa",
     "lastname": "Rice",
     "title": "Executive Vice President",
@@ -3109,7 +3073,7 @@
     "state": "CO",
     "citystate": "CO > Colorado Springs",
     "packages": [{
-        "userid": 2577685,
+        "objectID": 2577685,
         "packageid": 187,
         "session_type": "Team",
         "package_title": "Strong Teams, Strong Performance",
@@ -3131,7 +3095,7 @@
         "lng": -104.8804893
     }
 }, {
-    "userid": 3233760,
+    "objectID": 3233760,
     "firstname": "Lorraine",
     "lastname": "Nordlinger",
     "title": "President/Lead Consultant",
@@ -3142,7 +3106,7 @@
     "state": "VA",
     "citystate": "VA > Arlington",
     "packages": [{
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 272,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -3154,7 +3118,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 273,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -3166,7 +3130,7 @@
         "specialties": ["Leadership", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 283,
         "session_type": "One-On-One",
         "package_title": "9-Week Developmental Coaching Process Personal and Professional growth.",
@@ -3178,7 +3142,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3233760,
+        "objectID": 3233760,
         "packageid": 284,
         "session_type": "One-On-One",
         "package_title": "Six Pack for Success!",
@@ -3200,7 +3164,7 @@
         "lng": -77.0938583
     }
 }, {
-    "userid": 1623977,
+    "objectID": 1623977,
     "firstname": "Mailin",
     "lastname": "Young",
     "title": "Asst Dir of Ldshp & Talent Dvlpmt",
@@ -3211,7 +3175,7 @@
     "state": "OH",
     "citystate": "OH > Columbus",
     "packages": [{
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 164,
         "session_type": "One-On-One",
         "package_title": "Introductory Session (Corporate)",
@@ -3223,7 +3187,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 165,
         "session_type": "One-On-One",
         "package_title": "Introductory Session (Non-Profit)",
@@ -3235,7 +3199,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 166,
         "session_type": "One-On-One",
         "package_title": "One-On-One Coaching Package (Corporate)",
@@ -3247,7 +3211,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 167,
         "session_type": "One-On-One",
         "package_title": "One-On-One Coaching Package (Non-Profit)",
@@ -3259,7 +3223,7 @@
         "specialties": ["Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 169,
         "session_type": "Team",
         "package_title": "High-Performace Strengths-Based Teams (Team Session 2)",
@@ -3271,7 +3235,7 @@
         "specialties": ["Leadership", "Management Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1623977,
+        "objectID": 1623977,
         "packageid": 170,
         "session_type": "Team",
         "package_title": "Faith-based Leadership Development",
@@ -3293,7 +3257,7 @@
         "lng": -83.025396
     }
 }, {
-    "userid": 606308,
+    "objectID": 606308,
     "firstname": "Maria",
     "lastname": "Brinck",
     "title": "Executive Coach and Leadership Consultant",
@@ -3304,7 +3268,7 @@
     "state": "CO",
     "citystate": "CO > Boulder",
     "packages": [{
-        "userid": 606308,
+        "objectID": 606308,
         "packageid": 375,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -3326,7 +3290,7 @@
         "lng": -105.3716684
     }
 }, {
-    "userid": 1246963,
+    "objectID": 1246963,
     "firstname": "Marisa",
     "lastname": "Rivera",
     "title": "President of Mpowerment Works, LLC",
@@ -3337,7 +3301,7 @@
     "state": "FL",
     "citystate": "FL > Hallandale Beach",
     "packages": [{
-        "userid": 1246963,
+        "objectID": 1246963,
         "packageid": 171,
         "session_type": "Team",
         "package_title": "Teams/Group Coaching",
@@ -3359,7 +3323,7 @@
         "lng": -80.1484407
     }
 }, {
-    "userid": 1728498,
+    "objectID": 1728498,
     "firstname": "Mark",
     "lastname": "Krieger",
     "title": "Principle Strengths Coach",
@@ -3370,7 +3334,7 @@
     "state": "VA",
     "citystate": "VA > Vienna",
     "packages": [{
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 352,
         "session_type": "One-On-One",
         "package_title": "Individual Strengths Development Coaching – Explore Your Potential:",
@@ -3382,7 +3346,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 353,
         "session_type": "Team",
         "package_title": "Introduction to Individual and Team Strengths - Discover Your Potential:",
@@ -3394,7 +3358,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 354,
         "session_type": "One-On-One",
         "package_title": "TAKE ACTION - Unleash Your Potential to Achieve Transformative Growth:",
@@ -3406,7 +3370,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1728498,
+        "objectID": 1728498,
         "packageid": 355,
         "session_type": "One-On-One",
         "package_title": "Coaching Test Drive - 1 Hour Individual Coaching Session",
@@ -3428,7 +3392,7 @@
         "lng": -77.2979782
     }
 }, {
-    "userid": 721609,
+    "objectID": 721609,
     "firstname": "Mary",
     "lastname": "McEwen",
     "title": "Organizational Development",
@@ -3439,7 +3403,7 @@
     "state": "VT",
     "citystate": "VT > Williston",
     "packages": [{
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 191,
         "session_type": "Team",
         "package_title": "Goal Crushing Leadership & Management Team Coaching",
@@ -3451,7 +3415,7 @@
         "specialties": ["Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 192,
         "session_type": "One-On-One",
         "package_title": "360° Success for Middle Managers – Introductory Session",
@@ -3463,7 +3427,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 193,
         "session_type": "One-On-One",
         "package_title": "360° Success for Middle Managers – Advanced Level",
@@ -3475,7 +3439,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 194,
         "session_type": "One-On-One",
         "package_title": "360° Success for Middle Managers – Elite Level",
@@ -3487,7 +3451,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 288,
         "session_type": "One-On-One",
         "package_title": "Getting That New Job or Promotion! – Introductory Session",
@@ -3499,7 +3463,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 721609,
+        "objectID": 721609,
         "packageid": 289,
         "session_type": "One-On-One",
         "package_title": "Getting That New Job or Promotion! – Advanced Level",
@@ -3521,7 +3485,7 @@
         "lng": -73.1059193
     }
 }, {
-    "userid": 3600177,
+    "objectID": 3600177,
     "firstname": "Melanie",
     "lastname": "Schneider",
     "title": "Director of Student Affairs, Univ of WI-Madison",
@@ -3532,7 +3496,7 @@
     "state": "WI",
     "citystate": "WI > Madison",
     "packages": [{
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 31,
         "session_type": "One-On-One",
         "package_title": "Master your Strengths, Unleash Your Potential (4 sessions, recommended approach)",
@@ -3544,7 +3508,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 60,
         "session_type": "One-On-One",
         "package_title": "Discover Your Strengths (Session 1, 60 minutes)",
@@ -3556,7 +3520,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 145,
         "session_type": "One-On-One",
         "package_title": "Developing Your Strengths (Session 2, 60 minutes)",
@@ -3568,7 +3532,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 358,
         "session_type": "One-On-One",
         "package_title": "Strengths Discovery (One session, 90 minutes)",
@@ -3580,7 +3544,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 359,
         "session_type": "One-On-One",
         "package_title": "Leveraging Your Strengths (Session 3, 60 minutes)",
@@ -3592,7 +3556,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3600177,
+        "objectID": 3600177,
         "packageid": 360,
         "session_type": "One-On-One",
         "package_title": "Investing in Your Talents (Session 4, 60 minutes)",
@@ -3614,7 +3578,7 @@
         "lng": -89.4600369
     }
 }, {
-    "userid": 3723917,
+    "objectID": 3723917,
     "firstname": "Melissa",
     "lastname": "Young",
     "title": "Owner",
@@ -3625,7 +3589,7 @@
     "state": "UT",
     "citystate": "UT > Sandy",
     "packages": [{
-        "userid": 3723917,
+        "objectID": 3723917,
         "packageid": 28,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -3647,7 +3611,7 @@
         "lng": -111.7376178
     }
 }, {
-    "userid": 172740,
+    "objectID": 172740,
     "firstname": "Michael",
     "lastname": "Dauphinee",
     "title": "Coach, Consultant, Speaker",
@@ -3658,7 +3622,7 @@
     "state": "CA",
     "citystate": "CA > San Diego",
     "packages": [{
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 47,
         "session_type": "One-On-One",
         "package_title": "Clifton StrengthFinder Report Interpretation Session",
@@ -3670,7 +3634,7 @@
         "specialties": ["Career", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 48,
         "session_type": "Team",
         "package_title": "Team StrengthsFinder Discovery Session",
@@ -3682,7 +3646,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 49,
         "session_type": "One-On-One",
         "package_title": "Strengths-based Performance Coaching",
@@ -3694,7 +3658,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 50,
         "session_type": "Team",
         "package_title": "Team Performance Coaching",
@@ -3706,7 +3670,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 51,
         "session_type": "One-On-One",
         "package_title": "Transition Coaching",
@@ -3718,7 +3682,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 172740,
+        "objectID": 172740,
         "packageid": 52,
         "session_type": "One-On-One",
         "package_title": "Strengths Adventure Expedition- Patagonia, Peru, Nepal",
@@ -3740,7 +3704,7 @@
         "lng": -117.1647094
     }
 }, {
-    "userid": 4962879,
+    "objectID": 4962879,
     "firstname": "Michelle",
     "lastname": "Avery",
     "title": "Organizational Development",
@@ -3751,7 +3715,7 @@
     "state": "VA",
     "citystate": "VA > Chesapeake",
     "packages": [{
-        "userid": 4962879,
+        "objectID": 4962879,
         "packageid": 341,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -3773,7 +3737,7 @@
         "lng": -76.4215988
     }
 }, {
-    "userid": 299147,
+    "objectID": 299147,
     "firstname": "Mike",
     "lastname": "Shaw",
     "title": "Partner at People Edge",
@@ -3784,7 +3748,7 @@
     "state": "TX",
     "citystate": "TX > Plano",
     "packages": [{
-        "userid": 299147,
+        "objectID": 299147,
         "packageid": 279,
         "session_type": "One-On-One",
         "package_title": "Build Strong Teams",
@@ -3806,7 +3770,7 @@
         "lng": -96.8243812
     }
 }, {
-    "userid": 4321919,
+    "objectID": 4321919,
     "firstname": "Neil",
     "lastname": "Ihde",
     "title": "Speaker/Trainer",
@@ -3817,7 +3781,7 @@
     "state": "WI",
     "citystate": "WI > Appleton",
     "packages": [{
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 96,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experiences (5 sessions)",
@@ -3829,7 +3793,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 97,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experiences (3 sessions)",
@@ -3841,7 +3805,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 98,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experience (Full day)",
@@ -3853,7 +3817,7 @@
         "specialties": ["Consulting Team", "Executive Coach", "Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4321919,
+        "objectID": 4321919,
         "packageid": 99,
         "session_type": "Team",
         "package_title": "StrengthsFinders Teambuilding Experience (Half-day)",
@@ -3875,7 +3839,7 @@
         "lng": -88.4210006
     }
 }, {
-    "userid": 1860561,
+    "objectID": 1860561,
     "firstname": "Noreen",
     "lastname": "Keesey",
     "title": "Gallup Certified Strengths Coach",
@@ -3886,7 +3850,7 @@
     "state": "ND",
     "citystate": "ND > Bismarck",
     "packages": [{
-        "userid": 1860561,
+        "objectID": 1860561,
         "packageid": 157,
         "session_type": "One-On-One",
         "package_title": "I\"m curious!",
@@ -3898,7 +3862,7 @@
         "specialties": ["Career", "Consulting Team", "Executive Coach", "Leadership", "Life Coach", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1860561,
+        "objectID": 1860561,
         "packageid": 158,
         "session_type": "One-On-One",
         "package_title": "Finding my purpose...",
@@ -3920,7 +3884,7 @@
         "lng": -100.6637567
     }
 }, {
-    "userid": 2067651,
+    "objectID": 2067651,
     "firstname": "Pam",
     "lastname": "Fletcher",
     "title": "President & Chief Coach",
@@ -3931,7 +3895,7 @@
     "state": "PA",
     "citystate": "PA > Pittsburgh",
     "packages": [{
-        "userid": 2067651,
+        "objectID": 2067651,
         "packageid": 57,
         "session_type": "One-On-One",
         "package_title": "12 month (full cycle) Executive Performance Coaching",
@@ -3943,7 +3907,7 @@
         "specialties": ["Executive Coach", "Leadership", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2067651,
+        "objectID": 2067651,
         "packageid": 58,
         "session_type": "One-On-One",
         "package_title": "Career directions - students (high school through college)",
@@ -3955,7 +3919,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2067651,
+        "objectID": 2067651,
         "packageid": 59,
         "session_type": "One-On-One",
         "package_title": "An Introduction to Strengths",
@@ -3977,7 +3941,7 @@
         "lng": -79.9933976
     }
 }, {
-    "userid": 17783,
+    "objectID": 17783,
     "firstname": "Patricia",
     "lastname": "Bennett",
     "title": "President and CEO",
@@ -3997,7 +3961,7 @@
         "lng": -122.307917
     }
 }, {
-    "userid": 889418,
+    "objectID": 889418,
     "firstname": "Patty",
     "lastname": "Meyer",
     "title": "Senior Trainer, Developer and Coach",
@@ -4017,7 +3981,7 @@
         "lng": -90.3936722
     }
 }, {
-    "userid": 124436,
+    "objectID": 124436,
     "firstname": "Renee",
     "lastname": "Anderson",
     "title": "Gallup Certified Strengths Coach",
@@ -4037,7 +4001,7 @@
         "lng": -82.5402275
     }
 }, {
-    "userid": 1096573,
+    "objectID": 1096573,
     "firstname": "Ryan",
     "lastname": "Houmand",
     "title": "Executive Coach",
@@ -4048,7 +4012,7 @@
     "state": "UT",
     "citystate": "UT > Salt Lake City",
     "packages": [{
-        "userid": 1096573,
+        "objectID": 1096573,
         "packageid": 274,
         "session_type": "One-On-One",
         "package_title": "Managers: Be An Engaging Leader",
@@ -4060,7 +4024,7 @@
         "specialties": ["Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1096573,
+        "objectID": 1096573,
         "packageid": 275,
         "session_type": "Team",
         "package_title": "Building the World\"s Most Engaged Teams (Full Day)",
@@ -4072,7 +4036,7 @@
         "specialties": ["Consulting Team", "Leadership", "Management Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 1096573,
+        "objectID": 1096573,
         "packageid": 277,
         "session_type": "Team",
         "package_title": "Building the World\"s Most Engaged Teams (Half Day)",
@@ -4094,7 +4058,7 @@
         "lng": -111.7376178
     }
 }, {
-    "userid": 121976,
+    "objectID": 121976,
     "firstname": "Sandy",
     "lastname": "Adams-Doyle",
     "title": "Certified Gallup Strengths Coach",
@@ -4105,7 +4069,7 @@
     "state": "MD",
     "citystate": "MD > Baltimore",
     "packages": [{
-        "userid": 121976,
+        "objectID": 121976,
         "packageid": 242,
         "session_type": "Team",
         "package_title": "Build Strong Teams",
@@ -4127,19 +4091,19 @@
         "lng": -76.4505243
     }
 }, {
-    "userid": 4332360,
+    "objectID": 4332360,
     "firstname": "Sandy",
     "lastname": "Lane",
     "title": "Ms",
     "bio": "Consultant and advisor",
-    "location": "",
+    
     "postalcode": 68130,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/94e8d746-694d-42cc-aeac-a77fec82bc60.jpg",
     "city": "Omaha",
     "state": "NE",
     "citystate": "NE > Omaha",
     "packages": [{
-        "userid": 4332360,
+        "objectID": 4332360,
         "packageid": 39,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -4161,7 +4125,7 @@
         "lng": -96.2004383
     }
 }, {
-    "userid": 37028,
+    "objectID": 37028,
     "firstname": "Sarah",
     "lastname": "Robinson",
     "title": "Strengths Coach - Business Owner",
@@ -4181,7 +4145,7 @@
         "lng": -86.1853474
     }
 }, {
-    "userid": 807945,
+    "objectID": 807945,
     "firstname": "Sarah",
     "lastname": "Engel",
     "title": "Gallup-Certified Strengths Coach",
@@ -4192,7 +4156,7 @@
     "state": "CO",
     "citystate": "CO > Denver",
     "packages": [{
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 126,
         "session_type": "One-On-One",
         "package_title": "Maximizer Package for Women (Activator Series)",
@@ -4204,7 +4168,7 @@
         "specialties": ["Career", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 128,
         "session_type": "One-On-One",
         "package_title": "Activator Package for Managers",
@@ -4216,7 +4180,7 @@
         "specialties": ["Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 129,
         "session_type": "One-On-One",
         "package_title": "Activator Package for Managers (Relator Series)",
@@ -4228,7 +4192,7 @@
         "specialties": ["Career", "Leadership", "Management Team", "Sales Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 130,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery Package, Small Teams",
@@ -4240,7 +4204,7 @@
         "specialties": ["Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 131,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery and Strengths Domain Package, Small Teams",
@@ -4252,7 +4216,7 @@
         "specialties": ["Leadership", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 132,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery Package, Large Teams",
@@ -4264,7 +4228,7 @@
         "specialties": ["Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 807945,
+        "objectID": 807945,
         "packageid": 133,
         "session_type": "Team",
         "package_title": "Team Strengths Discovery and Strengths Domain Package (Large Teams)",
@@ -4286,7 +4250,7 @@
         "lng": -105.0148322
     }
 }, {
-    "userid": 185712,
+    "objectID": 185712,
     "firstname": "Scott",
     "lastname": "Mackes",
     "title": "Founder",
@@ -4297,7 +4261,7 @@
     "state": "MA",
     "citystate": "MA > South Easton",
     "packages": [{
-        "userid": 185712,
+        "objectID": 185712,
         "packageid": 84,
         "session_type": "One-On-One",
         "package_title": "StrengthsFinder Coaching for Entrepreneurs",
@@ -4319,18 +4283,18 @@
         "lng": -71.0854325
     }
 }, {
-    "userid": 3043323,
+    "objectID": 3043323,
     "firstname": "Shannon Nicole",
     "lastname": "Bobo",
     "title": "Global Leadership Consultant",
     "bio": "As a Global Leadership Consultant I am committed to buildingcultural intelligencein my clients.Cultural Intelligence isability tocross divides and thrive in multiple cultures. It is an opportunity to develop self-awareness and learn the valuable skill of going beyond the “do’s and don’ts” of living and working in another culture.Having studied abroad in Austria and taught English in South Korea, I understand firsthand the difficulties professionals face living and doing business internationally.I train my clients to relate and work effectively across cultures locally and globally.I am passionate about the work I do and enjoy being able to use my strengths to assist others. I customize my team training and coaching services to meet the needs of my clients.I received myTESL Certificationfrom the University of California, Irvine. My ongoing pursuit of professional development has led to my acquisition of numerous certifications inIntercultural Communication and Cultural Intelligencefrom institutions such as the Institute for Intercultural Communication, Shanghai International Studies University and the cross-boundary leadership organization,Common Purpose.I am also aHumanextCertified Facilitator for Emotional Intelligence andGlobal Competencyat Work.I offer the following GlobalLeadership Development Services:Cross-Cultural Training, Cultural Intelligence & Emotional Intelligence TrainingGallup Certified Strengths Coaching for Global Professionals -All great leaders need a trusted adviser, whether they are tackling a new assignment, implementing a major change initiative, or searching for a personal or professional breakthrough. As a Gallup Certified Strength Finder Coach and Trainer, I combine my international business knowledge with the power of Strengths Finder to guide individuals and teams along the path of personal and professional development. I provide the tools they need to become self-aware individuals who are more engaged in their relationships and productive in their professional roles.My Top 5 Strengths:Strategic, Woo, Communication, Individualization, Futuristic",
     "postalcode": 91711,
-    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/5eb72427-7ffa-4cab-9db2-8a45fc8bdbc6.jpg",
+    "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/22c2e357-6eee-4e6e-bf6b-a263c3d15a25/100x100",
     "city": "Claremont",
     "state": "CA",
     "citystate": "CA > Claremont",
     "packages": [{
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 65,
         "session_type": "One-On-One",
         "package_title": "Global Executive Coaching",
@@ -4342,7 +4306,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 66,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -4354,7 +4318,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 81,
         "session_type": "One-On-One",
         "package_title": "Life Coaching for Transitions",
@@ -4366,7 +4330,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 3043323,
+        "objectID": 3043323,
         "packageid": 200,
         "session_type": "Team",
         "package_title": "Strengths Development for Multicultural Teams",
@@ -4388,7 +4352,7 @@
         "lng": -117.702148
     }
 }, {
-    "userid": 2206481,
+    "objectID": 2206481,
     "firstname": "Sharri",
     "lastname": "Harmel",
     "title": "Career Consultant",
@@ -4408,19 +4372,18 @@
         "lng": -71.0482911
     }
 }, {
-    "userid": 4509023,
+    "objectID": 4509023,
     "firstname": "Shira",
     "lastname": "Sagal",
     "title": "Coaching Artist",
     "bio": "Coaching Artist who unveils your genius.What makes Shira unique is her left and right brain thinking which is somewhere between a data driven and creative driven vision. She loves the abstract and colorful world of people who define themselves as creatives and also loves the hard-driving performance aim of business professionals. Between these two, Shira has observed a troubling gap. Shira is passionate about bridging the gap to produce positive personal and cultural transformation.Because of this passion, Shira is focused on working with those involved in STEAM industries. In recent years, STEM (Science, Technology, Engineering, and Math) has turned to STEAM (Science, Technology, Engineering, Arts, and Math). These areas all share the responsibility of delivering life-changing innovative designs and cultural concepts.Shira has been a close friend and advocate for artists and creatives for more than 20 years. Currently, she serves as a board member for ArtPop, an organization that promotes outdoor display of art across the nation. She is a collector of art and amateur artist as well.Shira also worked as a marketing professional at a tech startup company. Teguar Corporation, where she was instrumental in the company achieving the fortune 5000 list for two years and the Charlotte Fast 50 growing companies list. Other professional accomplishments include running a Victims Advocate program in a District Attorney’s office, and working in graduate education and mentoring.Shira’s leading Gallup strengths are Individualization, Strategic, Ideation, Relator, Communication, and Futuristic. With these strengths, she will customize coaching strategies that are personally impactful while breathing metaphors into your life that will push you toward greater impact.Shira earned a Bachelor’s Degree in Psychology from Asbury University, a Certificate in Spiritual Formation from Denver Seminary, and is a Gallup Certified Coach. She has served as both formal and informal mentor to individuals of all ages for over 20 years and frequently serves in non-profit leadership roles.Shira’s Promise:“You will have profound moments of personal awareness through which a clear path",
-    "location": "",
     "postalcode": 29715,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/89fb9247-2941-4617-b16a-e3dec3499e19.jpg",
     "city": "Fort Mill",
     "state": "SC",
     "citystate": "SC > Fort Mill",
     "packages": [{
-        "userid": 4509023,
+        "objectID": 4509023,
         "packageid": 103,
         "session_type": "One-On-One",
         "package_title": "Unlock Your Genius - 6 Sessions, 30 min each (Intro plus focus on five)",
@@ -4432,7 +4395,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4509023,
+        "objectID": 4509023,
         "packageid": 104,
         "session_type": "One-On-One",
         "package_title": "Discover Your Genius - Introductory 30 Minute Session",
@@ -4444,7 +4407,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4509023,
+        "objectID": 4509023,
         "packageid": 144,
         "session_type": "One-On-One",
         "package_title": "Discover Your Genius In Depth - Introductory 90 Minute Session",
@@ -4466,7 +4429,7 @@
         "lng": -80.9318332
     }
 }, {
-    "userid": 13141,
+    "objectID": 13141,
     "firstname": "Steven",
     "lastname": "Rubado",
     "title": "Gallup Certified Strengths Coach",
@@ -4477,7 +4440,7 @@
     "state": "GA",
     "citystate": "GA > Rome",
     "packages": [{
-        "userid": 13141,
+        "objectID": 13141,
         "packageid": 20,
         "session_type": "Team",
         "package_title": "Team Essentials",
@@ -4499,7 +4462,7 @@
         "lng": -85.1271907
     }
 }, {
-    "userid": 3922268,
+    "objectID": 3922268,
     "firstname": "Tammy",
     "lastname": "Madsen",
     "title": "Strengths Coach  |  Professor",
@@ -4510,7 +4473,7 @@
     "state": "NE",
     "citystate": "NE > Omaha",
     "packages": [{
-        "userid": 3922268,
+        "objectID": 3922268,
         "packageid": 156,
         "session_type": "One-On-One",
         "package_title": "#CareerGoals",
@@ -4532,7 +4495,7 @@
         "lng": -95.93
     }
 }, {
-    "userid": 4325697,
+    "objectID": 4325697,
     "firstname": "Tanya",
     "lastname": "Finks",
     "title": "Coach",
@@ -4543,7 +4506,7 @@
     "state": "CA",
     "citystate": "CA > Playa Vista",
     "packages": [{
-        "userid": 4325697,
+        "objectID": 4325697,
         "packageid": 53,
         "session_type": "One-On-One",
         "package_title": "Individual Transition Coaching",
@@ -4565,7 +4528,7 @@
         "lng": -118.4177707
     }
 }, {
-    "userid": 242898,
+    "objectID": 242898,
     "firstname": "Tara",
     "lastname": "Nisenson",
     "title": "Coach",
@@ -4585,7 +4548,7 @@
         "lng": -85.6639168
     }
 }, {
-    "userid": 5152796,
+    "objectID": 5152796,
     "firstname": "Terri",
     "lastname": "Kelly",
     "title": "Coaching women at a career crossroads",
@@ -4596,7 +4559,7 @@
     "state": "GA",
     "citystate": "GA > Stone Mountain",
     "packages": [{
-        "userid": 5152796,
+        "objectID": 5152796,
         "packageid": 151,
         "session_type": "One-On-One",
         "package_title": "I\"m at a Career Crossroads",
@@ -4608,7 +4571,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 5152796,
+        "objectID": 5152796,
         "packageid": 152,
         "session_type": "One-On-One",
         "package_title": "One Hour Discovery Coaching Session",
@@ -4630,7 +4593,7 @@
         "lng": -84.1909841
     }
 }, {
-    "userid": 30134,
+    "objectID": 30134,
     "firstname": "Tico",
     "lastname": "Zendejas",
     "title": "Executive Director",
@@ -4641,7 +4604,7 @@
     "state": "CA",
     "citystate": "CA > Woodland",
     "packages": [{
-        "userid": 30134,
+        "objectID": 30134,
         "packageid": 24,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -4663,19 +4626,18 @@
         "lng": -121.856261
     }
 }, {
-    "userid": 102761,
+    "objectID": 102761,
     "firstname": "Traci",
     "lastname": "McCausland",
     "title": "Engagement and Strengths Consultant",
     "bio": "Traci is the founder of Follow Your Strengths and one of the first Gallup-Certified Strengths Coaches in the state of Iowa.  She is passionate about improving employee engagement levels within organizations and helping individuals live their legacy.  Her 15 years of work experience includes HR and organization development consulting, career coaching, and training delivery.  She has consulted across numerous industries and delivered training for organizations such as such as Accenture, John Deere, ACT, The University of Kansas, and The University of Northern Iowa. Follow Your Strengths offers customized StrengthsFinder® training workshops, performance management training, strengths coaching, and speaking engagements. Additionally, Traci provides employee engagement consulting leveraging Gallup’s Q12 Employee Engagement survey combined with training and coaching to improve actively organizational performance. She challenges teams to view one another through the lens of strengths to improve communication, collaboration, and overall engagement and effectiveness. Traci is a Senior Professional in Human Resources (SPHR) and earned her B.B.A. in Management and Organizations from The University of Iowa and her M.S. in Counseling Psychology from The University of Kansas.  A Director at one of her clients had this to say about Traci’s StrengthsFinder training programs: StrengthsFinder has changed the way we approach employee training and growth here.  Traci did a great job of facilitating a path that has become part of our daily interactions with each other.  Understanding people’s strengths and capitalizing on growing what already comes naturally to individuals is much more productive than asking people to change who they innately are.  Building your team’s projects and goals using the strengths of the individuals in the collective creates an environment where employees can succeed, productivity can increase, and everyone wins! For more information on Traci’s services and background, feel free to connect on LinkedIn, Facebook, and view Follow Your Strengths’ website at www.followstrengths.com.",
-    "location": "",
     "postalcode": 50701,
     "imagepath": "https://dk9zyhfatdvcy.cloudfront.net/public/coaches/traci_mccausland.jpg",
     "city": "Waterloo",
     "state": "IA",
     "citystate": "IA > Waterloo",
     "packages": [{
-        "userid": 102761,
+        "objectID": 102761,
         "packageid": 21,
         "session_type": "One-On-One",
         "package_title": "Succeeding With Your Strengths in Your Career",
@@ -4697,7 +4659,7 @@
         "lng": -92.3616203
     }
 }, {
-    "userid": 2322584,
+    "objectID": 2322584,
     "firstname": "Travis",
     "lastname": "Hall",
     "title": "Gallup Certified Strengths Coach",
@@ -4708,7 +4670,7 @@
     "state": "CA",
     "citystate": "CA > San Diego",
     "packages": [{
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 67,
         "session_type": "One-On-One",
         "package_title": "Session 1: Strengths Foundations",
@@ -4720,7 +4682,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 68,
         "session_type": "One-On-One",
         "package_title": "Session 2: Strengths Dynamics",
@@ -4732,7 +4694,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 69,
         "session_type": "One-On-One",
         "package_title": "Session 3: Strengths Intervention",
@@ -4744,7 +4706,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 70,
         "session_type": "One-On-One",
         "package_title": "Session 4: Strengths Development",
@@ -4756,7 +4718,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 71,
         "session_type": "One-On-One",
         "package_title": "Strengths Coaching Package: 4 Sessions",
@@ -4768,7 +4730,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 72,
         "session_type": "One-On-One",
         "package_title": "Leadership Coaching: Session 1",
@@ -4780,7 +4742,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 73,
         "session_type": "One-On-One",
         "package_title": "Management Coaching: Session 1",
@@ -4792,7 +4754,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 74,
         "session_type": "One-On-One",
         "package_title": "Entrepreneur Coaching: Session 1",
@@ -4804,7 +4766,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 75,
         "session_type": "One-On-One",
         "package_title": "Sales Coaching: Session 1",
@@ -4816,7 +4778,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 76,
         "session_type": "One-On-One",
         "package_title": "Learning & Memory - Session 1",
@@ -4828,7 +4790,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 78,
         "session_type": "One-On-One",
         "package_title": "Management Coaching Package: 5 Sessions",
@@ -4840,7 +4802,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 79,
         "session_type": "One-On-One",
         "package_title": "Entrepreneur Coaching Package: 5 Sessions",
@@ -4852,7 +4814,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 80,
         "session_type": "One-On-One",
         "package_title": "Sales Coaching Package: 5 Sessions",
@@ -4864,7 +4826,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 307,
         "session_type": "Team",
         "package_title": "Team Workshop 1: The DNA of Talent",
@@ -4876,7 +4838,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 308,
         "session_type": "Team",
         "package_title": "Team Workshop 2: The DNA of Individuals",
@@ -4888,7 +4850,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 310,
         "session_type": "Team",
         "package_title": "Team Workshop 4: The DNA of Excellence",
@@ -4900,7 +4862,7 @@
         "specialties": ["Consulting Team", "Management Team", "Sales Team", "Team"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 2322584,
+        "objectID": 2322584,
         "packageid": 311,
         "session_type": "Team",
         "package_title": "Team Workshop Package: 4 Workshops",
@@ -4922,7 +4884,7 @@
         "lng": -117.1147095
     }
 }, {
-    "userid": 50595,
+    "objectID": 50595,
     "firstname": "TyAnn",
     "lastname": "Osborn",
     "title": "Founder and Principal Consultant",
@@ -4933,7 +4895,7 @@
     "state": "TX",
     "citystate": "TX > Dripping Springs",
     "packages": [{
-        "userid": 50595,
+        "objectID": 50595,
         "packageid": 61,
         "session_type": "One-On-One",
         "package_title": "Executive 1:1 Coaching Package",
@@ -4945,7 +4907,7 @@
         "specialties": ["Career", "Executive Coach", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 50595,
+        "objectID": 50595,
         "packageid": 63,
         "session_type": "One-On-One",
         "package_title": "Strengths Discovery Workshop",
@@ -4967,7 +4929,7 @@
         "lng": -98.1120116
     }
 }, {
-    "userid": 107030,
+    "objectID": 107030,
     "firstname": "Vickie",
     "lastname": "Oakley",
     "title": "Director of Human Resources",
@@ -4978,7 +4940,7 @@
     "state": "AL",
     "citystate": "AL > Andalusia",
     "packages": [{
-        "userid": 107030,
+        "objectID": 107030,
         "packageid": 25,
         "session_type": "One-On-One",
         "package_title": "Introductory Session",
@@ -5000,7 +4962,7 @@
         "lng": -86.5602614
     }
 }, {
-    "userid": 4157592,
+    "objectID": 4157592,
     "firstname": "Vikki",
     "lastname": "Nicometo",
     "title": "Strengths Coach",
@@ -5011,7 +4973,7 @@
     "state": "KS",
     "citystate": "KS > Mission",
     "packages": [{
-        "userid": 4157592,
+        "objectID": 4157592,
         "packageid": 45,
         "session_type": "One-On-One",
         "package_title": "Ideal Career Exploration",
@@ -5023,7 +4985,7 @@
         "specialties": ["Career", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4157592,
+        "objectID": 4157592,
         "packageid": 46,
         "session_type": "One-On-One",
         "package_title": "Strengths Deep Dive",
@@ -5035,7 +4997,7 @@
         "specialties": ["Career", "Leadership", "Life Coach"],
         "languages": "ENGLISH-AMERICAN"
     }, {
-        "userid": 4157592,
+        "objectID": 4157592,
         "packageid": 88,
         "session_type": "Team",
         "package_title": "Supercharge Your Team - From Good to Great",
