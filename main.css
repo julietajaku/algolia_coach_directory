@@ -53,34 +53,35 @@ hr:after {
   text-decoration: none;
 }
 
-.header .input-group {
-  padding-top: 5px;
-  float: left;
-  width: 100%;
-  height: 30px;
-  border-radius: 5px;
-  overflow: hidden;
-}
 
 .header .input-group #q {
   border: 0;
   height: 100%;
 }
 
-.header .input-group #q:focus {
-  outline: none;
-  box-shadow: inset 0 0 0 1px #61c250;
+.input-group-btn{
+  font-size: 1em;
 }
 
-.header .input-group .input-group-btn button {
+.search-input-area{
+  background-color: #e0e0e0;
+  padding: 1em;
+}
+
+.search-input-area .input-group{
+  //font-size: 2em;
+}
+
+.search-input-area button {
   height: 100%;
   padding: 0 20px;
   border: 0;
   background: #61c250;
 }
 
-.input-group-btn{
-  font-size: 1em;
+.search-input-area #q:focus {
+  outline: none;
+  box-shadow: inset 0 0 0 1px #61c250;
 }
 
 aside {
@@ -93,34 +94,34 @@ aside {
   border-right: none;
 }
 
-aside .facet-category-title {
+.facet-category-title {
   font-size: 1.5em;
   padding-top: 15px;
   font-weight: bold;
   color: #808080;
 }
-aside .facet-category-title:first-child{
+.facet-category-title:first-child{
   padding-top: 0;
   margin-top: 14px;
   color: inherit;
 }
-aside .facet-wrapper {
+.facet-wrapper {
   padding-bottom: 12px;
   border-bottom: solid 1px #EEE;
   margin-bottom: 12px;
   font-size: .87em;
 }
 
-aside .facet {
+.facet {
   margin-bottom: 16px;
 }
 
-aside .facet-title {
+.facet-title {
   font-weight: bold;
   margin: 4px 0;
 }
 
-aside .facet-item,
+.facet-item,
 aside a {
   color: #000000;
 }
@@ -469,7 +470,8 @@ aside .ais-price-ranges--button:focus {
   padding: 10px;
 }
 
-.checkbox label{
+.checkbox label,
+.radio label{
   font-weight: 700;
 }
 
@@ -511,6 +513,10 @@ aside .ais-price-ranges--button:focus {
 
 small{
   font-size: 11px;
+}
+
+.radio{
+  margin: 0;
 }
 // .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
 //     padding-right: 5px;

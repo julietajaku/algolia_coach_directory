@@ -5,6 +5,15 @@ var getTemplateByID = function(ID){
   return document.getElementById(ID).innerHTML.toString();
 }
 
+var $viewCoaches = $('#hits-coaches'),
+    $viewCoachesPackages = $('#hits-coaches-packages'),
+    $templateViewOption = $('.template-view-option');
+
+$templateViewOption.on('click', function(){
+  $viewCoaches.toggleClass('hide');
+  $viewCoachesPackages.toggleClass('hide');
+})
+
 var highlightShortValue = function(hightlightResult, letter_padding){
     var letterPadding = letter_padding | 50,
     stringValue = hightlightResult,
@@ -19,6 +28,60 @@ var highlightShortValue = function(hightlightResult, letter_padding){
   return startString + stringValue.substring(startIndex, endIndex) + endString;
 
 }
+
+var transformDataHits = function(hit){
+  console.log(hit);
+
+  if(hit._highlightResult.bio.matchedWords.length > 0){
+    hit.bio_short = highlightShortValue(hit._highlightResult.bio.value)
+  }else{
+    hit.bio_short = hit.bio.substr(0, 165) + '...';
+  }
+  
+  if(hit.reviews){
+    hit.review_percentage = 'style=width:' + (hit.reviews.average / 5) * 100 + '%;';
+  }
+  
+  if(hit.packages){
+    hit.package_count = hit.packages.length;
+    var startPrice;
+    
+    for(var i = 0, l = hit.package_count; i < l; i++){
+      //Finds the lowest package price
+      if(startPrice == undefined){
+        startPrice = hit.packages[i].price;
+      }else{
+        startPrice = Math.min(startPrice, hit.packages[i].price);
+      }
+    }
+    hit.package_starting_price = startPrice;
+  }
+
+  //Shorten the package description
+  if(hit._highlightResult.packages){
+
+    var highlightPackages = hit._highlightResult.packages.sort(function(a,b){
+      return  b.description.matchedWords.length - a.description.matchedWords.length;
+    });
+
+    for(var ii = 0, ll = highlightPackages.length; ii < ll; ii++){
+      if(ii >= 3){
+        hit._highlightResult.packages = highlightPackages.splice(0,3);
+        break;
+      } 
+      if(highlightPackages[ii].description.matchedWords.length > 0){
+        highlightPackages[ii].desc_short = highlightShortValue(highlightPackages[ii].description.value, 30)
+        
+      }else if(highlightPackages[ii].description.value){
+        highlightPackages[ii].desc_short = highlightPackages[ii].description.value.substr(0, 100) + '...';
+      }
+    }
+  }
+  
+  return hit;
+}
+
+
 
 var search = instantsearch({
   appId: 'YORNOA2EPS',
@@ -43,9 +106,6 @@ search.addWidget(
   })
 );
 
-search.on('render', function() {
-  // console.log(data);
-});
 
 var hitTemplate =
   '<article class="hit">' +
@@ -72,7 +132,7 @@ var facetTemplateCheckbox =
 
 search.addWidget(
   instantsearch.widgets.hits({
-    container: '#hits',
+    container: '#hits-coaches',
     hitsPerPage: 15,
     highlightPreTag: "<em>",
     highlightPostTag: "</em>",    
@@ -80,49 +140,25 @@ search.addWidget(
       empty: noResultsTemplate,
       item: getTemplateByID('template-hit-coach')
     },
-    transformData: function(hit) {
-      console.log(hit);
-      if(hit._highlightResult.bio.matchedWords.length > 0){
-        hit.bio_short = highlightShortValue(hit._highlightResult.bio.value)
-      }else{
-        hit.bio_short = hit.bio.substr(0, 165) + '...';
-      }
-      
-      if(hit.reviews){
-        hit.review_percentage = 'style=width:' + (hit.reviews.average / 5) * 100 + '%;';
-      }
-      
-      if(hit.packages){
-        hit.package_count = hit.packages.length;
-        var startPrice;
-        
-        for(var i = 0, l = hit.package_count; i < l; i++){
-          //Finds the lowest package price
-          if(startPrice == undefined){
-            startPrice = hit.packages[i].price;
-          }else{
-            startPrice = Math.min(startPrice, hit.packages[i].price);
-          }
-
-          //Shorten the package description
-          hit.packages[i].desc_short = hit.packages[i].description.substr(0, 100) + '...';
-        }
-
-        hit.package_starting_price = startPrice;
-      }
-
-      // if(hit._highlightResult.packages){
-      //   $.each(hit._highlightResult.packages, function(singlePackage){
-      //     // if(singlePackage.package_title.matchedWords.length > 0){
-
-      //     // }
-      //   });
-      // }
-      
-      return hit;
-    }
+    transformData: transformDataHits
   })
 );
+
+//
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#hits-coaches-packages',
+    hitsPerPage: 15,
+    highlightPreTag: "<em>",
+    highlightPostTag: "</em>",    
+    templates: {
+      empty: noResultsTemplate,
+      item: getTemplateByID('template-hit-coach-and-packages')
+    },
+    transformData: transformDataHits
+  })
+);
+
 
 search.addWidget(
   instantsearch.widgets.pagination({

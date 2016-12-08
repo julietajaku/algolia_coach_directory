@@ -17,64 +17,97 @@
   <header class="header">
     <div class="container">
       <div class="row">
-        <div class="col-xs-8 col-sm-3"> <h1 class="title"> Find Your Coach </h1></div>
-        <div class="col-xs-4 col-sm-2 col-sm-push-7"><a class="is-logo" href="https://www.gallupexchange.com/Home/Index"><img src="logo-is.png" width="100"></a></div>        
-        <div class="col-sm-7 col-sm-pull-2">    <div class="input-group">
-          <input class="form-control" id="q" type="text"> <span class="input-group-btn"><button class="btn btn-default"><span class="input-group-btn"><i class="fa fa-search"></i></span></button></span>
-        </div> </div>
-
+        <div class="col-xs-8 col-sm-5"> <h1 class="title"> Find Your Coach </h1></div>
+        <div class="col-xs-4 col-sm-2 col-sm-push-5"><a class="is-logo" href="https://www.gallupexchange.com/Home/Index"><img src="logo-is.png" width="100"></a></div>        
       </div>
     </div>
   </header>
-  <section class="container">
-    <div class="row">
-      <aside class="col-sm-3">
-        <h3 class="facet-category-title">Filter Results</h3>
-        <hr>
-        <div id="clear-all"></div>
-        <!-- <section class="facet-wrapper">
-          <div id="categories"></div>
-        </section> -->
-        <section class="facet-wrapper">
-            <div class="facet" id="averagerating"></div>
-           <div class="facet" id="type"></div>
-          <div class="facet" id="method"></div>
-          <div class="facet" id="gender"></div>
-          <h3 class="facet-category-title">
-            Specialties <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#specialties" aria-expanded="false" aria-controls="specialties"></button>
-          </h3>
-          <div class="facet collapse" id="specialties"></div>
-          <h3 class="facet-category-title">
-            Price Range <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#price"></button>
-          </h3>
-          <div class="facet collapse" id="price"></div>
-          <h3 class="facet-category-title">
-            Number of Sessions <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#numberofsessions"></button>
-          </h3>
-          <div class="facet collapse" id="numberofsessions"></div>          
-          <h3 class="facet-category-title">
-            City and State <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#location"></button>
-          </h3>
-          <div class="facet collapse" id="location"></div> 
-        </section>
+  <section class="search-input-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-sm-push-2">    
+              <div class="input-group">
+                <input class="form-control" id="q" type="text"> <span class="input-group-btn"><button class="btn btn-default"><span class="input-group-btn"><i class="fa fa-search"></i></span></button></span>
+              </div> 
+            </div>
+        </div>  
+    </div>
+  </section> 
+  <section class="body">
+    <div class="container">
+      <div class="row">
+        <aside class="col-sm-3">
+          <h4 class="facet-category-title">Show Me</h4>
+          <div id="view-options">
+            <ul class="list-group">
+              <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <input class="template-view-option" type="radio" name="coach-package-view" id="coach-package-view1" value="0" checked>
+                    Coaches
+                  </label>
+                </div>
+              </li>
+              <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <input class="template-view-option" type="radio" name="coach-package-view" id="coach-package-view2" value="1">
+                    Coaches and Packages
+                  </label>
+                </div>
+              </li>
+            </ul>
+          </div>      
+          <h4 class="facet-category-title">Filter Results</h4>
+          <hr>        
+          <div id="clear-all"></div>
+          <!-- <section class="facet-wrapper">
+            <div id="categories"></div>
+          </section> -->
+          <h5 class="facet-category-title">Rating</h5>
+          <section class="facet-wrapper">
 
-      </aside>
-      <main class="col-sm-9">
+              <div class="facet" id="averagerating"></div>
+             <div class="facet" id="type"></div>
+            <div class="facet" id="method"></div>
+            <div class="facet" id="gender"></div>
+            <h4 class="facet-category-title">
+              Specialties <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#specialties" aria-expanded="false" aria-controls="specialties"></button>
+            </h4>
+            <div class="facet collapse" id="specialties"></div>
+            <h4 class="facet-category-title">
+              Price Range <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#price"></button>
+            </h4>
+            <div class="facet collapse" id="price"></div>
+            <h4 class="facet-category-title">
+              # of Sessions <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#numberofsessions"></button>
+            </h4>
+            <div class="facet collapse" id="numberofsessions"></div>          
+            <h4 class="facet-category-title">
+              City and State <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#location"></button>
+            </h4>
+            <div class="facet collapse" id="location"></div> 
+          </section>
 
-        <div id="results-topbar" class="results-topbar">
-                  <div class="sort-by">
-            <label>Sort by</label>
-            <div id="sort-by-selector"></div>
+        </aside>
+        <main class="col-sm-9">
+
+          <div id="results-topbar" class="results-topbar">
+                    <div class="sort-by">
+              <label>Sort by</label>
+              <div id="sort-by-selector"></div>
+            </div>
+            <h3 class="title">Search Results</h3>
+            <hr>
+            <div id="current-filters"></div>
           </div>
-          <h3 class="title">Search Results</h3>
-          <hr>
-          <div id="current-filters"></div>
-        </div>
-        <section id="hits" class="container-fluid"></section>
-        <div id="pagination"></div>
-        <div class="text-muted" id="stats"></div>
-        <div class="thank-you"> Copyright <a href="gallupexchange.com">Gallup Exchange</a> </div>
-      </main>
+          <section id="hits-coaches" class="container-fluid"></section>
+          <section id="hits-coaches-packages" class="container-fluid hide"></section>
+          <div id="pagination"></div>
+          <div class="text-muted" id="stats"></div>
+          <div class="thank-you"> Copyright <a href="gallupexchange.com">Gallup Exchange</a> </div>
+        </main>
+      </div>
     </div>
   </section>
 
@@ -177,12 +210,11 @@
               <div class="coach-packages-list-item">
                 <h4 class="coach-packages-title">{{{package_title.value}}}</h4>
                 <div class="coach-packages-list-item-summary">
-                    <a href="#">View Package</a>
+                  {{{desc_short}}}
+                  <a href="#">View Package</a>
                 </div>
-                {{price}}
+                
               </div>
-                
-                
               {{/_highlightResult.packages}}
 
             </section>
