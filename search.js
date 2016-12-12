@@ -320,6 +320,10 @@ search.addWidget(
     clearAll: 'after',
     templates: {
       item: function(data){
+      	if(data.count == undefined){
+      		return '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' + data.name ;
+      	}
+
         var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' +
         data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>';
         return s;
