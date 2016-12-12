@@ -8,7 +8,7 @@
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />
   <link rel="stylesheet" type="text/css" href="main.css" />
 </head>
 
@@ -18,21 +18,21 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-8 col-sm-5"> <h1 class="title"> Find Your Coach </h1></div>
-        <div class="col-xs-4 col-sm-2 col-sm-push-5"><a class="is-logo" href="https://www.gallupexchange.com/Home/Index"><img src="logo-is.png" width="100"></a></div>        
+        <div class="col-xs-4 col-sm-2 col-sm-push-5"><a class="is-logo" href="https://www.gallupexchange.com/Home/Index"><img src="logo-is.png" width="100"></a></div>
       </div>
     </div>
   </header>
   <section class="search-input-area">
     <div class="container">
         <div class="row">
-            <div class="col-sm-8 col-sm-push-2">    
+            <div class="col-sm-8 col-sm-push-2">
               <div class="input-group">
                 <input class="form-control" id="q" type="text"> <span class="input-group-btn"><button class="btn btn-default"><span class="input-group-btn"><i class="fa fa-search"></i></span></button></span>
-              </div> 
+              </div>
             </div>
-        </div>  
+        </div>
     </div>
-  </section> 
+  </section>
   <section class="body">
     <div class="container">
       <div class="row">
@@ -57,9 +57,9 @@
                 </div>
               </li>
             </ul>
-          </div>      
+          </div>
           <h4 class="facet-category-title">Filter Results</h4>
-          <hr>        
+          <hr>
           <div id="clear-all"></div>
           <!-- <section class="facet-wrapper">
             <div id="categories"></div>
@@ -82,11 +82,11 @@
             <h4 class="facet-category-title">
               # of Sessions <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#numberofsessions"></button>
             </h4>
-            <div class="facet collapse" id="numberofsessions"></div>          
+            <div class="facet collapse" id="numberofsessions"></div>
             <h4 class="facet-category-title">
               City and State <button class="btn glyphicon glyphicon-chevron-down" data-toggle="collapse" data-target="#location"></button>
             </h4>
-            <div class="facet collapse" id="location"></div> 
+            <div class="facet collapse" id="location"></div>
           </section>
 
         </aside>
@@ -98,13 +98,13 @@
               <div id="sort-by-selector"></div>
             </div>
             <h3 class="title">Search Results</h3>
+            <h6 id="search-results"></h6>
             <hr>
             <div id="current-filters"></div>
           </div>
           <section id="hits-coaches" class="container-fluid"></section>
           <section id="hits-coaches-packages" class="container-fluid hide"></section>
           <div id="pagination"></div>
-          <div class="text-muted" id="stats"></div>
           <div class="thank-you"> Copyright <a href="gallupexchange.com">Gallup Exchange</a> </div>
         </main>
       </div>
@@ -129,7 +129,7 @@
                 <h3 class="coach-fullname"><a href="{{URL}}" target="_blank">{{{_highlightResult.firstname.value}}} {{{_highlightResult.lastname.value}}}</a>
                 </h3>
                 <small class="coach-title">{{{_highlightResult.title.value}}}</small>
-                <small class="coach-location">{{city}}, {{state}}</small>
+                <small class="coach-location">{{city}}, {{state}} {{#distance_calculate}} | <em> {{distance_calculate}} miles away </em> {{/distance_calculate}}</small>
               </div>
               <div class="col-sm-4">
                 <div class="coach-reviews-desc">
@@ -139,12 +139,12 @@
 
                   <small class="coach-reviews-numbers">
                     {{#reviews.count}}
-                      {{reviews.average}} <span class="coach-reviews-count">({{reviews.count}}) Reviews</span> 
+                      {{reviews.average}} <span class="coach-reviews-count">({{reviews.count}}) Reviews</span>
                     {{/reviews.count}}
                   </small>
-                  
+
                 </div>
-                
+
               </div>
             </div>
           </div>
@@ -177,7 +177,7 @@
             </h3>
 
             <small class="coach-title">{{{_highlightResult.title.value}}}</small>
-            <small class="coach-location coach-location--packages">{{city}}, {{state}}</small>
+            <small class="coach-location coach-location--packages">{{city}}, {{state}} {{#distance_calculate}} | <em> {{distance_calculate}} miles away </em> {{/distance_calculate}} </small>
 
             <div class="coach-reviews-desc coach-reviews-desc--packages">
               <div class="coach-reviews-stars">
@@ -185,10 +185,10 @@
               </div>
               <small class="coach-reviews-numbers">
                 {{#reviews.count}}
-                  {{reviews.average}} <span class="coach-reviews-count">({{reviews.count}}) Reviews</span> 
+                  {{reviews.average}} <span class="coach-reviews-count">({{reviews.count}}) Reviews</span>
                 {{/reviews.count}}
               </small>
-            </div>            
+            </div>
           </div>
           <div class="coach-full-bio-link">
             <a href="#" class="btn btn-primary">View Bio</a>
@@ -202,10 +202,10 @@
               <small>
               <span class="label label-default">{{package_count}}</span> Package(s) | Starting at: ${{package_starting_price}}
               <a href="#" class="pull-right">View All</a>
-              </small> 
+              </small>
             </header>
             <section class="coach-packages-list-listing">
-  
+
               {{#_highlightResult.packages}}
               <div class="coach-packages-list-item">
                 <h4 class="coach-packages-title">{{{package_title.value}}}</h4>
@@ -213,7 +213,7 @@
                   {{{desc_short}}}
                   <a href="#">View Package</a>
                 </div>
-                
+
               </div>
               {{/_highlightResult.packages}}
 
@@ -225,7 +225,7 @@
             <header class="coach-packages-list-header">
               <small>
               <span class="label label-default">0</span> Packages
-              </small> 
+              </small>
             </header>
           </div>
           {{/package_count}}
@@ -235,11 +235,11 @@
   </script>
 
   <script type="text/html" id="template-hit-coach-and-package">
-    
+
   </script>
 
   <!-- Scripts -->
-  <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>  
+  <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="search.js"></script>

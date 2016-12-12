@@ -30,22 +30,22 @@ var highlightShortValue = function(hightlightResult, letter_padding){
 }
 
 var transformDataHits = function(hit){
-  // console.log(hit);
+  //console.log(hit);
 
   if(hit._highlightResult && hit._highlightResult.bio.matchedWords.length > 0){
     hit.bio_short = highlightShortValue(hit._highlightResult.bio.value)
   }else if(hit.bio){
     hit.bio_short = hit.bio.substr(0, 165) + '...';
   }
-  
+
   if(hit.reviews){
     hit.review_percentage = 'style=width:' + (hit.reviews.average / 5) * 100 + '%;';
   }
-  
+
   if(hit.packages){
     hit.package_count = hit.packages.length;
     var startPrice;
-    
+
     for(var i = 0, l = hit.package_count; i < l; i++){
       //Finds the lowest package price
       if(startPrice == undefined){
@@ -68,16 +68,21 @@ var transformDataHits = function(hit){
       if(ii >= 3){
         hit._highlightResult.packages = highlightPackages.splice(0,3);
         break;
-      } 
+      }
       if(highlightPackages[ii].description.matchedWords.length > 0){
         highlightPackages[ii].desc_short = highlightShortValue(highlightPackages[ii].description.value, 30)
-        
+
       }else if(highlightPackages[ii].description.value){
         highlightPackages[ii].desc_short = highlightPackages[ii].description.value.substr(0, 100) + '...';
       }
     }
   }
-  
+
+  //Calulates the distance
+  if(hit._rankingInfo.matchedGeoLocation){
+  	hit.distance_calculate = Math.round(hit._rankingInfo.matchedGeoLocation.distance * 0.000621371);
+  }
+
   return hit;
 }
 
@@ -89,7 +94,6 @@ var search = instantsearch({
   indexName: 'coach_packages',
   searchParameters: {
     getRankingInfo: true,
-    // aroundLatLngViaIP: true
   }
 });
 
@@ -102,7 +106,16 @@ search.addWidget(
 
 search.addWidget(
   instantsearch.widgets.stats({
-    container: '#stats'
+    container: '#search-results',
+    templates: {
+    	body: function(data){
+    		console.log(data);
+    		if(data.query){
+    			return data.nbHits + ' results found for <em>' + data.query + '<em>';
+    		}
+ 			return '';
+    	}
+    }
   })
 );
 
@@ -135,7 +148,7 @@ search.addWidget(
     container: '#hits-coaches',
     hitsPerPage: 15,
     highlightPreTag: "<em>",
-    highlightPostTag: "</em>",    
+    highlightPostTag: "</em>",
     templates: {
       empty: noResultsTemplate,
       item: getTemplateByID('template-hit-coach')
@@ -150,7 +163,7 @@ search.addWidget(
     container: '#hits-coaches-packages',
     hitsPerPage: 15,
     highlightPreTag: "<em>",
-    highlightPostTag: "</em>",    
+    highlightPostTag: "</em>",
     templates: {
       empty: noResultsTemplate,
       item: getTemplateByID('template-hit-coach-and-packages')
@@ -181,8 +194,8 @@ search.addWidget(
     limit: 20,
     cssClasses: {
       root: 'checkbox',
-      list: 'list-group', 
-      item: 'list-group-item' 
+      list: 'list-group',
+      item: 'list-group-item'
     }
   })
 );
@@ -194,8 +207,8 @@ search.addWidget(
     limit: 20,
     cssClasses: {
       root: 'checkbox',
-      list: 'list-group', 
-      item: 'list-group-item' 
+      list: 'list-group',
+      item: 'list-group-item'
     }
   })
 );
@@ -208,8 +221,8 @@ search.addWidget(
     limit: 20,
     cssClasses: {
       root: 'checkbox',
-      list: 'list-group', 
-      item: 'list-group-item' 
+      list: 'list-group',
+      item: 'list-group-item'
     }
   })
 );
@@ -232,8 +245,8 @@ search.addWidget(
     limit: 20,
     cssClasses: {
       root: 'checkbox',
-      list: 'list-group', 
-      item: 'list-group-item' 
+      list: 'list-group',
+      item: 'list-group-item'
     }
   })
 );
@@ -255,9 +268,13 @@ search.addWidget(
     container: '#price',
     attributeName: 'packages.price',
     cssClasses: {
-      list: 'nav nav-list',
+      list: 'list-group',
+      item: 'list-group-item',
       count: 'badge pull-right',
       active: 'active'
+    },
+    templates: {
+
     }
   })
 );
@@ -277,9 +294,7 @@ search.addWidget(
       {name: 'coach_packages_price_asc', label: 'Price High to Low'},
       {name: 'coach_packages_price_desc', label: 'Price Low to High'},
       {name: 'coach_packages_ratings_desc', label: 'Ratings High to Low'},
-      {name: 'coach_packages_ratings_asc', label: 'Ratings Low to High'},
-      {name: 'coach_packages_geo_desc', label: 'Distance Farthest to Closest'},
-      {name: 'coach_packages_geo_asc', label: 'Distance Closest to Farthest'}            
+      {name: 'coach_packages_ratings_asc', label: 'Ratings Low to High'}
     ],
     label:'sort by'
   })
@@ -305,14 +320,18 @@ search.addWidget(
     clearAll: 'after',
     templates: {
       item: function(data){
-        console.log(data);
         var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' +
         data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>';
+        return s;
+      },
+      clearAll: function(){
+        var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Clear All';
         return s;
       }
     },
     cssClasses: {
-      link: 'label label-default'
+      link: 'label label-default',
+      clearAll: 'label label-danger'
     }
 
   })
@@ -320,40 +339,33 @@ search.addWidget(
 
 
 instantsearch.widgets.distanceSort = function distanceSort(options) {
-  var isChecked;
+	var previousState;
+
+	function inPersonToggle(helper){
+     var optionValue = $('aside input[value="In Person"]').prop('checked');
+
+     if(optionValue && optionValue != previousState){
+       helper.setQueryParameter('aroundLatLngViaIP', true).search();
+     }else if(optionValue != previousState){
+       helper.setQueryParameter('aroundLatLngViaIP', false).search();
+     }
+
+     previousState = optionValue;
+  }
 
   return {
-    init: function(params) {
-
-      $('aside').on('click','input[value="In Person"]', function(){
-
-        isChecked = $('aside input[value="In Person"]').prop('checked');
-
-        if(isChecked){
-          params.helper.setQueryParameter('aroundLatLngViaIP', true).search();
-        }else{
-          params.helper.setQueryParameter('aroundLatLngViaIP', false).search();
-        }
-      })
-    },
     render: function(params) {
-
-      //console.log(params);
-      isChecked = $('aside input[value="In Person"]').prop('checked');
-
-      if(isChecked){
-        params.helper.setQueryParameter('aroundLatLngViaIP', true).search();
-      }else{
-        params.helper.setQueryParameter('aroundLatLngViaIP', false).search();
-      }
-
-      //console.log(hits);
+    	inPersonToggle(params.helper);
     }
   }
 }
 
-  search.addWidget(
-    instantsearch.widgets.distanceSort()
-  );
+search.addWidget(
+ instantsearch.widgets.distanceSort()
+);
+
+search.on('render', function(){
+
+});
 
 search.start();
