@@ -30,12 +30,12 @@ var highlightShortValue = function(hightlightResult, letter_padding){
 }
 
 var transformDataHits = function(hit){
-  //console.log(hit);
+  // console.log(hit);
 
   if(hit._highlightResult && hit._highlightResult.bio.matchedWords.length > 0){
     hit.bio_short = highlightShortValue(hit._highlightResult.bio.value)
   }else if(hit.bio){
-    hit.bio_short = hit.bio.substr(0, 165) + '...';
+    hit.bio_short = hit.bio.substr(0, 200) + '...';
   }
 
   if(hit.reviews){
@@ -75,10 +75,13 @@ var transformDataHits = function(hit){
       }else if(highlightPackages[ii].description.value){
         highlightPackages[ii].desc_short = highlightPackages[ii].description.value.substr(0, 100) + '...';
       }
+
+      highlightPackages[ii].package_title.value = highlightPackages[ii].package_title.value.toLowerCase();
     }
   }
 
-  //Calulates the distance
+
+  //Converts the distance
   if(hit._rankingInfo.matchedGeoLocation){
   	hit.distance_calculate = Math.round(hit._rankingInfo.matchedGeoLocation.distance * 0.000621371);
   }
@@ -109,7 +112,6 @@ search.addWidget(
     container: '#search-results',
     templates: {
     	body: function(data){
-    		console.log(data);
     		if(data.query){
     			return data.nbHits + ' results found for <em>' + data.query + '<em>';
     		}
@@ -195,7 +197,8 @@ search.addWidget(
     cssClasses: {
       root: 'checkbox',
       list: 'list-group',
-      item: 'list-group-item'
+      item: 'list-group-item',
+      active: 'active'
     }
   })
 );
@@ -208,7 +211,8 @@ search.addWidget(
     cssClasses: {
       root: 'checkbox',
       list: 'list-group',
-      item: 'list-group-item'
+      item: 'list-group-item',
+      active: 'active'
     }
   })
 );
@@ -222,7 +226,8 @@ search.addWidget(
     cssClasses: {
       root: 'checkbox',
       list: 'list-group',
-      item: 'list-group-item'
+      item: 'list-group-item',
+      active: 'active'
     }
   })
 );
@@ -233,7 +238,13 @@ search.addWidget(
     attributeName: 'reviews.average',
     max: 5,
     labels: {
-      andUp: '& Up'
+      andUp: ''
+    },
+    templates: {
+    	// item: function(data){
+    	// 	console.log(data);
+    	// 	return 'item';
+    	// }
     }
   })
 );
@@ -246,7 +257,8 @@ search.addWidget(
     cssClasses: {
       root: 'checkbox',
       list: 'list-group',
-      item: 'list-group-item'
+      item: 'list-group-item',
+      active: 'active'
     }
   })
 );
@@ -320,13 +332,16 @@ search.addWidget(
     clearAll: 'after',
     templates: {
       item: function(data){
+      	var s;
+
       	if(data.count == undefined){
-      		return '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' + data.name ;
+      		s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' + data.name ;
+      	}else{
+				s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' +
+				data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>';
       	}
 
-        var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> ' +
-        data.name + ' <span class="ais-current-refined-values--count"> (' + data.count + ')</span>';
-        return s;
+      	return s;
       },
       clearAll: function(){
         var s = '<span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Clear All';
@@ -343,23 +358,164 @@ search.addWidget(
 
 
 instantsearch.widgets.distanceSort = function distanceSort(options) {
-	var previousState;
+	var previousState = false, optionValue, incomingFromCB = false, foundLocationText, userLocation;
 
-	function inPersonToggle(helper){
-     var optionValue = $('aside input[value="In Person"]').prop('checked');
+	function renderZipInput(helper){
+		optionValue = $('aside input[value="In Person"]').prop('checked');
 
-     if(optionValue && optionValue != previousState){
-       helper.setQueryParameter('aroundLatLngViaIP', true).search();
-     }else if(optionValue != previousState){
-       helper.setQueryParameter('aroundLatLngViaIP', false).search();
-     }
+		var optionInPersonValue = $('aside input[value="In Person"]').parents().eq(2),
+			inputTemplate = '<div class="list-group-item in-person-input-area"><div class="input-group"> <input type="text" class="form-control"  disabled placeholder="Zip Code" title="Select the \'In Person\' Option First" maxlength="5">  <span class="glyphicon glyphicon-exclamation-sign form-control-feedback" aria-hidden="true"></span> </div> </div>',
+			$oldZipInputValue = $('.in-person-input-area input').val(),
+			currentInputValue,
+			$newZipInput;
 
-     previousState = optionValue;
-  }
+		// Remove old one
+		$('.in-person-input-area').remove();
+
+		// Place new one
+		optionInPersonValue.after(inputTemplate);
+
+		// Capture new input
+		$newZipInput = $('.in-person-input-area').find('input');
+
+		$newZipInput.on('input propertychange', function(e){
+			var self = $(this),
+				val = self.val().toString();
+
+			if(val.length == 5 && !isNaN(val)){
+
+     			$.getJSON('http://maps.googleapis.com/maps/api/geocode/json?address='+ val +'&sensor=true', function(data){
+     				userLocation.google_zip = val;
+     				foundLocationText = userLocation.google_zip;
+     				userLocation.coords.latitude = data.results[0].geometry.location.lat;
+     				userLocation.coords.longitude = data.results[0].geometry.location.lng;
+        			incomingFromCB = true;
+
+        			helper.setQueryParameter('aroundLatLng', userLocation.coords.latitude + ', ' + userLocation.coords.longitude).search();
+
+     			}).fail(function(){
+
+     			});
+			}else{
+				self.parent().addClass('has-error');
+			}
+		});
+
+		// If In Person is checked and there's been a changed
+		if(optionValue && optionValue != previousState){
+
+			// Add active class
+			$('.in-person-input-area').addClass('active')
+
+			if (navigator.geolocation && userLocation == undefined) {
+				// if geolocation is possible and the user location hasn't been found
+				$newZipInput.val( 'Locating' );
+
+				var mainBody = $('#main-body');
+					mainBody.addClass('loading-init');
+
+				setTimeout(function(){
+					mainBody.addClass('loading-started');
+				}, 10)
+
+				var valInterval =  setInterval(function(){
+					if( $newZipInput.val().length < 12 ){
+						$newZipInput.val( $newZipInput.val( ) + '.' );
+					}else{
+						$newZipInput.val( 'Locating' );
+					}
+
+				}, 300);
+
+        		navigator.geolocation.getCurrentPosition(function (pos) {
+        			userLocation = {
+        				coords: {
+        					latitude : pos.coords.latitude,
+        					longitude : pos.coords.longitude
+        				}
+        			};
+
+        			$.getJSON('http://maps.googleapis.com/maps/api/geocode/json?latlng='+  pos.coords.latitude + ',' + pos.coords.longitude +'&sensor=true', function(data){
+
+        				clearInterval(valInterval);
+
+						mainBody.removeClass('loading-started');
+						setTimeout(function(){
+							mainBody.removeClass('loading-init');
+						}, 500);
+
+        				userLocation.google_zip = data.results[1].address_components[6].long_name;
+        				foundLocationText = userLocation.google_zip;
+	        			incomingFromCB = true;
+
+	        			helper.setQueryParameter('aroundLatLng', pos.coords.latitude + ', ' + pos.coords.longitude).search();
+
+        			}).fail(function(){
+
+        			});
+
+        		}, function(err){
+        			clearInterval(valInterval);
+
+					mainBody.removeClass('loading-started');
+					setTimeout(function(){
+						mainBody.removeClass('loading-init');
+					}, 500);
+
+        			foundLocationText = 'Nearest to You';
+        			incomingFromCB = true;
+
+        			userLocation = {
+        				coords: {}
+        			};
+
+        			helper.setQueryParameter('aroundLatLngViaIP', true).search();
+        		});
+
+        	} else if(userLocation){
+        		// If user location is already store just use it
+
+				foundLocationText = userLocation.google_zip;
+     			incomingFromCB = true;
+
+     			helper.setQueryParameter('aroundLatLng', userLocation.coords.latitude + ', ' + userLocation.coords.longitude).search();
+
+			}else{
+				// If no geolocation is possible
+     			foundLocationText = 'Nearest to You';
+     			incomingFromCB = true;
+
+     			helper.setQueryParameter('aroundLatLngViaIP', true).search();
+			}
+		}else if(incomingFromCB){
+			// Incoming from CB
+
+			// Rest incomingFromCB
+			incomingFromCB = false
+
+			// Add active class
+			$('.in-person-input-area').addClass('active')
+
+			$newZipInput.removeAttr('disabled').val(foundLocationText)
+
+		}else if(optionValue && optionValue == previousState){
+
+			$('.in-person-input-area').addClass('active')
+
+			$newZipInput.removeAttr('disabled').val(foundLocationText)
+
+		}else if(optionValue != previousState){
+			// Off
+			helper.setQueryParameter('aroundLatLngViaIP', undefined).setQueryParameter('aroundLatLng', undefined).search();
+		}
+
+		previousState = optionValue;
+
+	}
 
   return {
     render: function(params) {
-    	inPersonToggle(params.helper);
+    	renderZipInput(params.helper);
     }
   }
 }
@@ -368,8 +524,6 @@ search.addWidget(
  instantsearch.widgets.distanceSort()
 );
 
-search.on('render', function(){
 
-});
 
 search.start();

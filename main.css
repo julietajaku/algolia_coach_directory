@@ -205,6 +205,20 @@ aside .ais-price-ranges--button:focus {
   box-shadow: inset 0 0 0 1px #FFBE61;
 }
 
+#method .in-person-input-area{
+	border-top: none;
+	padding-top: 0;
+}
+
+#method .in-person-input-area .input-group{
+	display: block;
+}
+
+#method .in-person-input-area .form-control{
+	border-radius: 4px;
+	float: none;
+}
+
 .results-wrapper {
   padding: 70px 10px 10px 240px;
 }
@@ -268,7 +282,7 @@ aside .ais-price-ranges--button:focus {
   margin-bottom: 10px;
   border-bottom: solid 1px #EEE;
   border: solid 1px #EEE;
-  box-shadow: 0 0 3px #f6f6f6;
+  box-shadow: 0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24);
   position: relative;
 }
 
@@ -502,6 +516,39 @@ aside .ais-price-ranges--button:focus {
 	margin-bottom: 1em;
 	display: inline-block;
 }
+
+/**
+ *
+ * Loading Animation
+ *
+ */
+
+#main-body{
+	position: relative;
+}
+
+#main-body.loading-init:after{
+	content: '';
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(232, 232, 232, 0.75);
+   z-index: 999;
+   transition: opacity 500ms ease;
+   opacity: 0;
+}
+
+#main-body.loading-started:after{
+   opacity: 1;
+}
+
+#main-body.loading-ended:after{
+   opacity: 0;
+}
+
 
 /**
  *
